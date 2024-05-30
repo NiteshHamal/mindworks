@@ -6889,6 +6889,11 @@ START: Theme Footer CSS
   margin-right: 30px;
 }
 
+
+.footer-logo{
+    max-width: 35%;
+}
+
 /* !END: Theme Footer CSS */
 
 /*# sourceMappingURL=main.css.map */

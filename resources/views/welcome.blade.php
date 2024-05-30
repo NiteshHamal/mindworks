@@ -529,7 +529,7 @@
                     <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Harness the Power of Digital <span>Marketing</span></h2>
                 </div>
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
-                    <div class="shape"><img src="assets/img/shapes/pricing.png" alt="shape"></div>
+                    <div class="shape"><img src="{{url('assets/img/pricing.png')}}" alt="shape"></div>
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
                             <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Yearly</button>
@@ -542,7 +542,7 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
                                         <div class="pricing-icon">
-                                            <img src="assets/img/icon/pricing-1.png" alt="icon">
+                                            <img src="{{url('assets/img/pricing-1.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Starter Plan</span>
@@ -561,7 +561,7 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item active">
                                         <div class="pricing-icon">
-                                            <img src="assets/img/icon/pricing-2.png" alt="icon">
+                                            <img src="{{url('assets/img/pricing-2.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Platinum Plan</span>
@@ -580,7 +580,7 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
                                         <div class="pricing-icon">
-                                            <img src="assets/img/icon/pricing-3.png" alt="icon">
+                                            <img src="{{url('assets/img/pricing-3.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Gold Plan</span>
@@ -603,7 +603,7 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
                                         <div class="pricing-icon">
-                                            <img src="assets/img/icon/pricing-1.png" alt="icon">
+                                            <img src="{{url('assets/img/pricing-1.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Starter Plan</span>
@@ -622,7 +622,7 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item active">
                                         <div class="pricing-icon">
-                                            <img src="assets/img/icon/pricing-2.png" alt="icon">
+                                            <img src="{{url('assets/img/pricing-2.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Platinum Plan</span>
@@ -641,7 +641,7 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
                                         <div class="pricing-icon">
-                                            <img src="assets/img/icon/pricing-3.png" alt="icon">
+                                            <img src="{{url('assets/img/pricing-3.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Gold Plan</span>
@@ -671,7 +671,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="request-content wow fade-in-left" data-wow-delay="400ms">
-                            <div class="shape"><img src="assets/img/shapes/request-shape.png" alt="shape"></div>
+                            <div class="shape"><img src="{{url('assets/img/request-shape.png')}}" alt="shape"></div>
                             <div class="section-heading heading-2">
                                 <h4 class="sub-heading">Contact Us</h4>
                                 <h2 class="section-title">Stand Out in the <span>Digital</span> Crowd Presence</h2>
@@ -709,7 +709,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="request-img text-center wow fade-in-right" data-wow-delay="300ms">
-                            <img src="assets/img/images/request-img.png" alt="img">
+                            <img src="{{url('assets/img/request-img.png')}}" alt="img">
                         </div>
                     </div>
                 </div>
@@ -727,7 +727,7 @@
                     <div class="col-md-6">
                         <div class="post-card wow fade-in-bottom" data-wow-delay="400ms">
                             <div class="post-thumb">
-                                <img src="assets/img/blog/post-1.jpg" alt="post">
+                                <img src="{{url('assets/img/post-1.jpg')}}" alt="post">
                             </div>
                             <div class="post-content-wrap">
                                 <ul class="post-meta">
@@ -745,7 +745,7 @@
                     <div class="col-md-6">
                         <div class="post-card wow fade-in-bottom" data-wow-delay="600ms">
                             <div class="post-thumb">
-                                <img src="assets/img/blog/post-2.jpg" alt="post">
+                                <img src="{{url('assets/img/post-2.jpg')}}" alt="post">
                             </div>
                             <div class="post-content-wrap">
                                 <ul class="post-meta">
@@ -772,7 +772,7 @@
                     <div class="col-lg-5 col-md-6">
                         <div class="footer-widget">
                             <div class="site-logo">
-                                <a href="index.html"><img src="assets/img/logo/logo-dark.png" alt="logo"></a>
+                                <a href="index.html"><img class="footer-logo" src="{{url('assets/img/mindworks-logo-white.webp')}}" alt="logo"></a>
                             </div>
                             <div class="section-heading heading-2">
                                 <h2 class="section-title">Drive is with <span>Effective</span> Online Marketing</h2>
