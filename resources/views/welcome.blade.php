@@ -359,7 +359,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="counter-item">
                             <div class="counter-icon">
-                                <img src="assets/img/icon/counter-1.png" alt="icon">
+                                <img src="{{url('assets/img/counter-1.png')}}" alt="icon">
                             </div>
                             <div class="counter-content">
                                 <h3 class="title"><span class="odometer" data-count="200">0</span><span class="text">+</span></h3>
@@ -370,7 +370,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="counter-item">
                             <div class="counter-icon">
-                                <img src="assets/img/icon/counter-2.png" alt="icon">
+                                <img src="{{url('assets/img/counter-2.png')}}" alt="icon">
                             </div>
                             <div class="counter-content">
                                 <h3 class="title"><span class="odometer" data-count="30">0</span><span class="text">k+</span></h3>
@@ -381,7 +381,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="counter-item">
                             <div class="counter-icon">
-                                <img src="assets/img/icon/promo-1.png" alt="icon">
+                                <img src="{{url('assets/img/promo-1.png')}}" alt="icon">
                             </div>
                             <div class="counter-content">
                                 <h3 class="title"><span class="odometer" data-count="20">0</span><span class="text">+</span></h3>
@@ -392,7 +392,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="counter-item">
                             <div class="counter-icon">
-                                <img src="assets/img/icon/counter-4.png" alt="icon">
+                                <img src="{{url('assets/img/counter-4.png')}}" alt="icon">
                             </div>
                             <div class="counter-content">
                                 <h3 class="title"><span class="odometer" data-count="300">0</span><span class="text">+</span></h3>
@@ -408,8 +408,8 @@
         <section class="project-section pt-120 bg-grey">
             <div class="bg-color"></div>
             <div class="shapes">
-                <div class="shape shape-1"><img src="assets/img/shapes/project-shape-1.png" alt="project"></div>
-                <div class="shape shape-2"><img src="assets/img/shapes/project-shape-2.png" alt="project"></div>
+                <div class="shape shape-1"><img src="{{url('assets/img/project-shape-1.png')}}" alt="project"></div>
+                <div class="shape shape-2"><img src="{{url('assets/img/project-shape-2.png')}}" alt="project"></div>
             </div>
             <div class="container">
                 <div class="section-heading text-center">
@@ -430,7 +430,7 @@
                         <div class="col-lg-4 col-md-6 single-item authority content">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="assets/img/project/project-1.jpg" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-1.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Brand design</a></h3>
                                         <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
@@ -441,7 +441,7 @@
                         <div class="col-lg-4 col-md-6 single-item authority">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="assets/img/project/project-2.jpg" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-2.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">E-commerce Solutions</a></h3>
                                         <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
@@ -452,7 +452,7 @@
                         <div class="col-lg-4 col-md-6 single-item content">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="assets/img/project/project-3.jpg" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-3.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Mobile Marketing</a></h3>
                                         <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
@@ -476,16 +476,16 @@
                                 <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Grow Your Business with Strategic <span>SEO</span></h2>
                                 <p class="wow fade-in-bottom" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
                             </div>
-                            <img class="wow fade-in-bottom" data-wow-delay="600ms" src="assets/img/images/testi-img.png" alt="testi">
+                            <img class="wow fade-in-bottom" data-wow-delay="600ms" src="{{url('assets/img/testi-img.png')}}" alt="testi">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="testi-items">
                             <div class="testi-item wow fade-in-bottom" data-wow-delay="400ms">
                                 <div class="client-thumb">
-                                    <img src="assets/img/images/testi-client-1.png" alt="testi">
+                                    <img src="{{url('assets/img/testi-client-1.png')}}" alt="testi">
                                 </div>
-                                <img class="quote" src="assets/img/shapes/quote.png" alt="quote">
+                                <img class="quote" src="{{url('assets/img/quote.png')}}" alt="quote">
                                 <div class="testi-content">
                                     <h3 class="name">Robert Fox <span>Nursing Assistant</span></h3>
                                     <ul class="review">
@@ -500,9 +500,9 @@
                             </div>
                             <div class="testi-item wow fade-in-bottom" data-wow-delay="500ms">
                                 <div class="client-thumb">
-                                    <img src="assets/img/images/testi-client-2.png" alt="testi">
+                                    <img src="{{url('assets/img/testi-client-2.png')}}" alt="testi">
                                 </div>
-                                <img class="quote" src="assets/img/shapes/quote.png" alt="quote">
+                                <img class="quote" src="{{url('assets/img/quote.png')}}" alt="quote">
                                 <div class="testi-content">
                                     <h3 class="name">Leslie Alexander <span>Nursing Assistant</span></h3>
                                     <ul class="review">
