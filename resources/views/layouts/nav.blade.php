@@ -23,10 +23,10 @@
                                 <a href="{{url('projects')}}">Projects</a>
                             </li>
                             <li>
-                                <a href="#">Team</a>
+                                <a href="{{url('team')}}">Team</a>
                             </li>
                             <li>
-                                <a href="#">Pricing</a>
+                                <a href="{{url('pricing')}}">Pricing</a>
                             </li>
                             <li>
                                 <a href="#">FAQ</a>
