@@ -29,7 +29,7 @@
                                 <a href="{{url('pricing')}}">Pricing</a>
                             </li>
                             <li>
-                                <a href="#">FAQ</a>
+                                <a href="{{url('faq')}}">FAQ</a>
                             </li>
                         </ul>
                     </div>

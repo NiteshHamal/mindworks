@@ -7,6 +7,7 @@ use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\ProjectsController;
 use App\Http\Controllers\TeamController;
 use App\Http\Controllers\PricingController;
+use App\Http\Controllers\FaqController;
 
 Route::get('/', [HomeController::class, 'index']);
 
@@ -19,6 +20,8 @@ Route::get('projects', [ProjectsController::class, 'index']);
 Route::get('team', [TeamController::class, 'index']);
 
 Route::get('pricing', [PricingController::class, 'index']);
+
+Route::get('faq', [FaqController::class, 'index']);
 
 
 
