@@ -718,7 +718,7 @@ ul {
   font-feature-settings: "clig" off, "liga" off;
 }
 .section-heading.heading-3 .section-title span:before {
-  background-image: url(../img/shapes/blog-text-shape-2.png);
+  background-image: url(../img/blog-text-shape-2.png);
   bottom: -13px;
 }
 .section-heading.heading-3 p {

@@ -2,108 +2,12 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
-
-        <!-- Site Title -->
-        <title>Optiboom - Digital Marketing & SEO Agency HTML5 Template</title>
-
-        <!-- Place favicon.ico in the root directory -->
-        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.jpg">
-
-        <!-- CSS here -->
-        <link rel="stylesheet" href="{{url('assets/css/bootstrap.min.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/fontawesome.min.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/venobox.min.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/animate.min.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/keyframe-animation.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/odometer.min.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/nice-select.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/swiper.min.css')}}">
-        <link rel="stylesheet" href="{{url('assets/css/main.css')}}">
+        @include('layouts.header')
     </head>
 
     <body>
         <!-- header-area-start -->
-        <header class="header sticky-active">
-            <div class="primary-header">
-                <div class="container">
-                    <div class="primary-header-inner">
-                        <div class="header-logo d-lg-block">
-                            <a href="index.html">
-                                <img src="{{url('assets/img/mindworks-logo-white.webp')}}" alt="Logo">
-                            </a>
-                        </div>
-                        <div class="header-menu-wrap">
-                            <div class="mobile-menu-items">
-                                <ul>
-                                    <li class="menu-item-has-children active">
-                                        <a href="index.html">Home</a>
-                                        <ul>
-                                            <li><a href="index.html">Home One</a></li>
-                                            <li><a href="index-2.html">Home Two</a></li>
-                                            <li><a href="index-3.html">Home Three</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="about.html">About Us</a>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Service</a>
-                                        <ul>
-                                            <li><a href="service.html">service</a></li>
-                                            <li><a href="service-details.html">service-details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Projects</a>
-                                        <ul>
-                                            <li><a href="project.html">Project</a></li>
-                                            <li><a href="project-details.html">Project-details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="blog-grid.html">Blog</a>
-                                        <ul>
-                                            <li><a href="blog-grid.html">Blog Grid</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Pages</a>
-                                        <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="team-details.html">Team Details</a></li>
-                                            <li><a href="pricing.html">Pricing</a></li>
-                                            <li><a href="faq.html">Faq</a></li>
-                                            <li><a href="error.html">404 Error</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- /.header-menu-wrap -->
-                        <div class="header-right">
-                            <div class="search-icon dl-search-icon">
-                                <i class="fa-solid fa-magnifying-glass"></i>
-                            </div>
-                            <a href="contact.html" class="pb-primary-btn header-btn">Get Started</a>
-                            <div class="header-right-item">
-                                <a href="javascript:void(0)" class="mobile-side-menu-toggle d-lg-none"
-                                    ><i class="fa-sharp fa-solid fa-bars"></i
-                                ></a>
-                            </div>
-                        </div>
-                        <!-- /.header-right -->
-                    </div>
-                    <!-- /.primary-header-inner -->
-                </div>
-            </div>
-            <!-- /.primary-header -->
-        </header>
+@include('layouts.nav')
         <!-- /.Main Header -->
 
         <div id="popup-search-box">
@@ -765,94 +669,8 @@
         </section>
         <!-- ./ blog-section -->
 
-        <footer class="footer-section bg-grey">
-            <div class="footer-bg" data-background="assets/img/bg-img/footer-bg.png"></div>
-            <div class="container">
-                <div class="row footer-wrap pt-120 pb-120">
-                    <div class="col-lg-5 col-md-6">
-                        <div class="footer-widget">
-                            <div class="site-logo">
-                                <a href="index.html"><img class="footer-logo" src="{{url('assets/img/mindworks-logo-white.webp')}}" alt="logo"></a>
-                            </div>
-                            <div class="section-heading heading-2">
-                                <h2 class="section-title">Drive is with <span>Effective</span> Online Marketing</h2>
-                            </div>
-                            <ul class="footer-links">
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="service.html">Services</a></li>
-                                <li><a href="project.html">Projects</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                                <li><a href="team.html">Partners</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 col-md-6">
-                        <div class="footer-widget">
-                            <h3 class="widget-title">Get In Touch</h3>
-                            <p class="desc">Lorem ipsum dolor amet, consectetur sell adipis elit phase nibh ellentes ipsum dolor amet</p>
-                            <div class="footer-form">
-                                <form action="#" class="mt-subscribe-form">
-                                    <input class="form-control" type="email" name="email" placeholder="E-mail Here">
-                                    <input type="hidden" name="action" value="mailchimpsubscribe">
-                                    <button class="submit"><i class="fa-sharp fa-solid fa-paper-plane"></i></button>
-                                </form>
-                            </div>
-                            <ul class="footer-social">
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6">
-                        <div class="footer-widget">
-                            <h3 class="widget-title">Services</h3>
-                            <ul class="footer-list">
-                                <li><a href="service-details.html"><i class="fa-sharp fa-regular fa-chevron-right"></i>Page Boost</a></li>
-                                <li><a href="service-details.html"><i class="fa-sharp fa-regular fa-chevron-right"></i>Marketting</a></li>
-                                <li><a href="service-details.html"><i class="fa-sharp fa-regular fa-chevron-right"></i>Grow Reach</a></li>
-                                <li><a href="service-details.html"><i class="fa-sharp fa-regular fa-chevron-right"></i>Blog And News</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copyright-area">
-                <div class="container">
-                    <div class="copyright-content">
-                        <p>Copyright © RRDevs 2024 <span>OptiBoom</span>, All Rights Reserved.</p>
-                        <ul class="copy-list">
-                            <li><a href="contact.html">Trams & Condition</a></li>
-                            <li><a href="contact.html">Privacy Policy</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- ./ footer-section -->
 
-        <div id="scrollup">
-            <button id="scroll-top" class="scroll-to-top"><i class="fa-regular fa-arrow-up-long"></i></button>
-        </div>
-        <!--scrollup-->
 
-        <!-- JS here -->
-        <script src="{{url('assets/js/jquary-3.6.0.min.js')}}"></script>
-        <script src="{{url('assets/js/bootstrap-bundle.js')}}"></script>
-        <script src="{{url('assets/js/imagesloaded-pkgd.js')}}"></script>
-        <script src="{{url('assets/js/waypoints.min.js')}}"></script>
-        <script src="{{url('assets/js/venobox.min.js')}}"></script>
-        <script src="{{url('assets/js/odometer.min.js')}}"></script>
-        <script src="{{url('assets/js/meanmenu.js')}}"></script>
-        <script src="{{url('assets/js/jquery.isotope.js')}}"></script>
-        <script src="{{url('assets/js/nice-select.js')}}"></script>
-        <script src="{{url('assets/js/easypiechart.min.js')}}"></script>
-        <script src="{{url('assets/js/wow.min.js')}}"></script>
-        <script src="{{url('assets/js/swiper.min.js')}}"></script>
-        <script src="{{url('assets/js/smooth-scroll.js')}}"></script>
-        <script src="{{url('assets/js/ajax-form.js')}}"></script>
-        <script src="{{url('assets/js/main.js')}}"></script>
+        @include('layouts.footer')
     </body>
 </html>
