@@ -16,12 +16,8 @@
                             <li>
                                 <a href="{{url('about')}}">About Us</a>
                             </li>
-                            <li class="menu-item-has-children">
-                                <a href="#">Service</a>
-                                <ul>
-                                    <li><a href="service.html">service</a></li>
-                                    <li><a href="service-details.html">service-details</a></li>
-                                </ul>
+                            <li>
+                                <a href="{{url('service')}}">Service</a>
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="#">Projects</a>
