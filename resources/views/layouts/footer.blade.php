@@ -31,10 +31,9 @@
                         </form>
                     </div>
                     <ul class="footer-social">
-                        <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+                        <li><a href="https://www.facebook.com/mindworksme" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.instagram.com/mindworksnepal/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/mindworks-media-&-events-pvt-ltd/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                     </ul>
                 </div>
             </div>

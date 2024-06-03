@@ -36,7 +36,7 @@
                 </div>
                 <!-- /.header-menu-wrap -->
                 <div class="header-right">
-                    <a href="contact.html" class="pb-primary-btn header-btn">Contact Us</a>
+                    <a href="{{url('contact')}}" class="pb-primary-btn header-btn">Contact Us</a>
                     <div class="header-right-item">
                         <a href="javascript:void(0)" class="mobile-side-menu-toggle d-lg-none"
                             ><i class="fa-sharp fa-solid fa-bars"></i

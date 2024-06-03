@@ -8,6 +8,8 @@ use App\Http\Controllers\ProjectsController;
 use App\Http\Controllers\TeamController;
 use App\Http\Controllers\PricingController;
 use App\Http\Controllers\FaqController;
+use App\Http\Controllers\ContactController;
+
 
 Route::get('/', [HomeController::class, 'index']);
 
@@ -22,6 +24,9 @@ Route::get('team', [TeamController::class, 'index']);
 Route::get('pricing', [PricingController::class, 'index']);
 
 Route::get('faq', [FaqController::class, 'index']);
+
+Route::get('contact', [ContactController::class, 'index']);
+
 
 
 
