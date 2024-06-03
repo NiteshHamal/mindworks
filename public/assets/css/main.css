@@ -497,6 +497,7 @@ ul {
 .pb-120 {
   padding-bottom: 120px;
 }
+
 @media only screen and (max-width: 991px) {
   .pb-120 {
     padding-bottom: 70px;
@@ -4721,7 +4722,7 @@ START: Theme Project CSS
   }
 }
 .project-section-2 .section-heading .section-title {
-  max-width: 750px;
+  max-width: 1000px;
 }
 
 .project-img-wrap {
@@ -6918,6 +6919,12 @@ START: Theme Footer CSS
     li:nth-child(4) i {
         color: var(--pb-color-gradient-2);
     }
+}
+
+.about-us-message{
+    font-size: 30px ;
+    font-weight: 700;
+    text-align: center;
 }
 
 

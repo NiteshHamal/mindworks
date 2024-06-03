@@ -54,7 +54,7 @@
         </section> --}}
         <!-- ./ page-header -->
 
-        <div class="about-section-2 pt-120 pb-120">
+        <div class="about-section-2 pt-120 pb-80">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -97,28 +97,55 @@
                         <div class="about-content-2">
                             <div class="section-heading heading-3">
                                 <h4 class="sub-heading wow fade-in-right" data-wow-delay="300ms">About Us</h4>
-                                <h2 class="section-title wow fade-in-right" data-wow-delay="400ms">Enhance Your Brand's the Online <span>Performance</span></h2>
-                                <p class="wow fade-in-right" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
+                                <h2 class="section-title wow fade-in-right" data-wow-delay="400ms">Empowering Your Business Evolution with Innovative <span>Strategies</span></h2>
+                                <p class="wow fade-in-right" data-wow-delay="500ms">Welcome to Mindworks Media and Events Pvt. Ltd.! We're dedicated to propelling your business forward by crafting immersive experiences that not only resonate with your audience but also drive sustainable growth.<br><br>
+
+                                    At Mindworks, we believe in the power of strategic innovation and creative excellence to transform businesses. Our team of seasoned professionals is committed to delivering tailored solutions that meet your unique needs and exceed your expectations.</p>
                             </div>
-                            <div class="about-box-wrap wow fade-in-right" data-wow-delay="600ms">
-                                <div class="about-box">
-                                    <h3 class="title"><i class="fa-regular fa-chevrons-right"></i>Influencer Marketing</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nun</p>
-                                </div>
-                                <div class="about-box">
-                                    <h3 class="title"><i class="fa-regular fa-chevrons-right"></i>Lead Generation</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nun</p>
-                                </div>
-                            </div>
-                            <a href="about.html" class="pb-primary-btn primary-3 wow fade-in-right" data-wow-delay="700ms">Read More <i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!-- ./ about-section-2 -->
+        <section class="about-section-2 pb-80">
+            <div class="container">
+                <div class="row">
+                    <div class="about-box col-lg-6 mb-4">
+                        <h3 class="title"><i class="fa-regular fa-chevrons-right" style="color: var(--pb-color-theme-primary)"></i>Strategic Designs</h3>
+                        <p>Our team creates visually stunning designs that not only captivate your audience but also reinforce your brand's identity and messaging.
+                            From sleek logos to comprehensive brand guidelines, we ensure every design element reflects your business's essence.</p>
+                    </div>
+                    <div class="about-box col-lg-6 mb-4">
+                        <h3 class="title"><i class="fa-regular fa-chevrons-right" style="color: var(--pb-color-theme-primary)"></i>Creative Campaigns</h3>
+                        <p>We conceptualize and execute engaging campaigns that tell your brand's story in a compelling and authentic way.
+                            Leveraging a mix of storytelling, visual content, and interactive experiences, we drive meaningful engagement and inspire action.</p>
+                    </div>
+                    <div class="about-box col-lg-6 mb-4">
+                        <h3 class="title"><i class="fa-regular fa-chevrons-right" style="color: var(--pb-color-theme-primary)"></i>Effective Solutions</h3>
+                        <p>We provide comprehensive and results-driven strategies to address your business challenges and capitalize on opportunities for growth.
+                            Through meticulous analysis and strategic planning, we identify the most effective tactics and implement solutions that yield measurable results.</p>
+                    </div>
+                    <div class="about-box col-lg-6 mb-4">
+                        <h3 class="title"><i class="fa-regular fa-chevrons-right" style="color: var(--pb-color-theme-primary)"></i>Innovative Strategies</h3>
+                        <p>We stay ahead of the curve by developing innovative strategies that keep your business agile and adaptable in today's rapidly evolving market landscape.
+                            From harnessing emerging technologies to exploring new channels and opportunities, we're always exploring new frontiers to drive your business forward.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-        <section class="pricing-section pb-120 overflow-hidden">
+        <section class="project-section-2 overflow-hidden pt-20">
+            <div class="container">
+                <div class="section-heading sub-heading-color heading-3 text-center">
+                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms" style="">Join Us As We Embark On A Journey To Transform Your Business And Make A <span>Lasting Impact</span></h2>
+                </div>
+            </div>
+        </section>
+        <!-- ./ project-section -->
+
+
+        {{-- <section class="pricing-section pb-120 overflow-hidden">
             <div class="container">
                 <div class="section-heading text-center">
                     <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Pricing</h4>
@@ -259,7 +286,7 @@
                 </div>
             </div>
         </section>
-        <!-- ./ pricings-section -->
+        <!-- ./ pricings-section --> --}}
 
         <section class="counter-section">
             <div class="bg-color"></div>
@@ -303,7 +330,7 @@
         </section>
         <!-- ./ counter-section -->
 
-        <section class="project-section-2 bg-grey overflow-hidden pt-120 pb-120">
+        {{-- <section class="project-section-2 bg-grey overflow-hidden pt-120 pb-120">
             <div class="container">
                 <div class="section-heading sub-heading-color heading-3 text-center">
                     <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Projects</h4>
@@ -354,9 +381,9 @@
                 </div>
             </div>
         </section>
-        <!-- ./ project-section -->
+        <!-- ./ project-section --> --}}
 
-        <section class="testimonial-section pt-120 pb-120">
+        {{-- <section class="testimonial-section pt-120 pb-120">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -410,7 +437,7 @@
                 </div>
             </div>
         </section>
-        <!-- ./ project-section -->
+        <!-- ./ project-section --> --}}
 
         @include('layouts.footer')
     </body>
