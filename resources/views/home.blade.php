@@ -192,15 +192,16 @@
                             <div class="shape wow fade-in-right" data-wow-delay="400ms"><img src="{{url('assets/img/about-shape-2.png')}}" alt="shape"></div>
                             <div class="section-heading heading-2">
                                 <h4 class="sub-heading wow fade-in-right" data-wow-delay="300ms">About Us</h4>
-                                <h2 class="section-title wow fade-in-right" data-wow-delay="400ms">Dominate the <span>Digital</span> Landscape</h2>
-                                <p class="wow fade-in-right" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
+                                <h2 class="section-title wow fade-in-right" data-wow-delay="400ms">Fueling Your <span>Business's</span> Evolution</h2>
+                                <p class="wow fade-in-right" data-wow-delay="500ms">Welcome to Mindworks Media and Events Pvt. Ltd.! We're here to propel your business forward, crafting experiences that resonate with your audience and drive growth.</p>
                             </div>
                             <ul class="about-list wow fade-in-right" data-wow-delay="600ms">
-                                <li><i class="fa-regular fa-chevrons-right"></i>International Development Authority</li>
-                                <li><i class="fa-regular fa-chevrons-right"></i>Real Authority Method</li>
-                                <li><i class="fa-regular fa-chevrons-right"></i>Live Project Done With Practical</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>Strategic Designs</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>Creative Campaigns</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>Effective Solutions</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>Innovative Strategies</li>
                             </ul>
-                            <a href="about.html" class="pb-primary-btn wow fade-in-right" data-wow-delay="700ms">Read More</a>
+                            <a href="{{url('about')}}" class="pb-primary-btn wow fade-in-right" data-wow-delay="700ms">Read More</a>
                         </div>
                     </div>
                 </div>

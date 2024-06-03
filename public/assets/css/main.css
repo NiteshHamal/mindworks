@@ -3949,8 +3949,12 @@ START: Theme About CSS
   color: var(--pb-color-theme-secondary);
 }
 .about-content .about-list li:nth-child(3) i {
-  color: var(--pb-color-gradient-2);
+  color: #f69145;
 }
+
+.about-content .about-list li:nth-child(4) i {
+    color: var(--pb-color-gradient-2);
+  }
 
 @-webkit-keyframes about-anim {
   0% {
