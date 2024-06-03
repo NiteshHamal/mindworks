@@ -148,57 +148,6 @@
         </section>
         <!-- ./ service-section -->
 
-        {{-- form section --}}
-        <section class="request-section pb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="request-content">
-                            <div class="section-heading heading-2">
-                                <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Pricing</h4>
-                                <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Stand Out in the <span>Digital</span> Crowd Presence</h2>
-                                <p class="wow fade-in-bottom" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
-                            </div>
-                            <div class="request-form">
-                                <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="nice-select select-control form-control country" tabindex="0"><span class="current">Sort by popular</span><ul class="list"><li data-value="" class="option selected focus">Sort by popular</li><li data-value="vdt" class="option">Plan One</li><li data-value="can" class="option">Plan Two</li><li data-value="uk" class="option">Plan Three</li></ul></div>
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-12">
-                                            <textarea id="message" name="message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="submit-btn text-center">
-                                        <button id="submit" class="pb-primary-btn" type="submit">Send a messege</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="request-img text-center">
-                            <img src="{{url('assets/img/request-img.png')}}" alt="img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        {{-- form section end --}}
-
         @include('layouts.footer')
     </body>
 </html>
