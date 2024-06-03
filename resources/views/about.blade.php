@@ -44,14 +44,14 @@
         <!-- /.mobile-side-menu -->
         <div class="mobile-side-menu-overlay"></div>
 
-        <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
+        {{-- <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
             <div class="container">
                 <div class="page-header-content">
                     <h1 class="title">About Us</h1>
                     <h4 class="sub-title"><a class="home" href="index.html">Home </a><span></span><a href="about.html" class="inner-page"> About Us</a></h4>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ page-header -->
 
         <div class="about-section-2 pt-120 pb-120">

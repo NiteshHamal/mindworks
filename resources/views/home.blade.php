@@ -84,7 +84,7 @@
         </section>
         <!-- ./ hero-section -->
 
-        <section class="service-section pt-120">
+        {{-- <section class="service-section pt-120">
             <div class="container">
                 <div class="row justify-content-center gy-lg-0 gy-4">
                     <div class="col-lg-4 col-md-6">
@@ -132,7 +132,7 @@
                 </div>
             </div>
         </section>
-        <!-- ./ service-section -->
+        <!-- ./ service-section --> --}}
 
         <div class="sponsor-section pt-180 pb-180">
             <div class="container">
@@ -214,11 +214,17 @@
                     <div class="col-lg-6">
                         <div class="skill-content">
                             <div class="section-heading heading-2">
-                                <h4 class="sub-heading wow fade-in-left" data-wow-delay="300ms">What We Do</h4>
-                                <h2 class="section-title wow fade-in-left" data-wow-delay="400ms">Drive More <span>Traffic</span> Get More Sales</h2>
-                                <p class="wow fade-in-left" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
+                                <h4 class="sub-heading wow fade-in-left" data-wow-delay="300ms">How We Do It</h4>
+                                <h2 class="section-title wow fade-in-left" data-wow-delay="400ms">Our Process of <span>Crafting</span> Excellence</h2>
+                                <p class="wow fade-in-left" data-wow-delay="500ms">We visualize the big picture and address the milestones accordingly to deliver quality work. The prominent individuals at Mindworks draft various ideas and collaboratively come up as a team with impactful stories that depict the brand value of our clients. Hitting the heart and mind of the audience is our concern, so we stand firm at serving our best to each and every one of our associates.</p>
                             </div>
-                            <div class="skills-items">
+                            <ul class="skill-list wow fade-in-right" data-wow-delay="600ms">
+                                <li><i class="fa-regular fa-chart-network"></i>Connect :- We engage with our clients to understand their vision and goals.</li>
+                                <li><i class="fa-regular fa-compass-drafting"></i>Draft :- We brainstorm and draft creative ideas that align with the client's brand.</li>
+                                <li><i class="fa-regular fa-ferris-wheel"></i>Build :- We develop and refine these ideas into cohesive, compelling stories.</li>
+                                <li><i class="fa-regular fa-person-dolly"></i>Deliver :- We ensure the final product resonates with the audience</li>
+                            </ul>
+                            {{-- <div class="skills-items">
                                 <div class="skills-item wow fade-in-left" data-wow-delay="600ms">
                                     <div class="item-content">
                                         <h4 class="title">International Authority</h4>
@@ -243,7 +249,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                     <div class="col-lg-6">

@@ -63,10 +63,10 @@
                             <p>Real estate is a lucrative industry that involves the buying selling and renting properties It encompasses residential commercial and help industrial properties. Real estate agentsial</p>
                             <div class="contact-box">
                                 <ul class="contact-list">
-                                    <li><i class="fa-solid fa-phone"></i><a href="tel:+888123456765">(+888) 123  456 765</a></li>
-                                    <li><i class="fa-solid fa-envelope"></i><a href="mailto:infoname@mail.com">infoname@mail.com</a></li>
-                                    <li><i class="fa-solid fa-clock"></i><span>Mon-Sun : 9AM-5PM</span></li>
-                                    <li><i class="fa-solid fa-location-dot"></i><span>4140 Parker Rd. Allentown, New Mexico 31134</span></li>
+                                    <li><i class="fa-solid fa-phone"></i><a href="tel:+9779851014752">(+977) 98501014752</a></li>
+                                    <li><i class="fa-solid fa-envelope"></i><a href="mailto:info@mindworksme.com">info@mindworksme.com</a></li>
+                                    <li><i class="fa-solid fa-clock"></i><span>Mon-Fri : 9AM-6PM</span></li>
+                                    <li><i class="fa-solid fa-location-dot"></i><span>Kupondole, Lalitpur, Nepal</span></li>
                                 </ul>
                             </div>
                         </div>

@@ -4346,7 +4346,7 @@ START: Theme About CSS
 START: Theme Skill CSS
 ----------------------------------------*/
 .skill-content .section-heading {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 @media only screen and (max-width: 991px) {
   .skill-content .section-heading {
@@ -6893,6 +6893,29 @@ START: Theme Footer CSS
 .footer-logo{
     max-width: 35%;
 }
+
+.skill-content .skill-list{
+    list-style: none;
+
+    li i {
+        font-size: 14px;
+        color: var(--pb-color-theme-primary);
+        margin-right: 10px;
+    }
+
+    li:nth-child(2) i {
+        color: var(--pb-color-theme-secondary);
+    }
+
+    li:nth-child(3) i {
+        color: #FF9D15;
+    }
+
+    li:nth-child(4) i {
+        color: var(--pb-color-gradient-2);
+    }
+}
+
 
 /* !END: Theme Footer CSS */
 
