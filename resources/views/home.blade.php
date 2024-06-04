@@ -327,21 +327,13 @@
                     <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Projects</h4>
                     <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Optimizing Brands for Online <span>Success</span></h2>
                 </div>
+
                 <div class="project-filter">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="project-filter-list text-center">
-                                <div class="filter-item active" data-filter="*">Search Engine</div>
-                                <div class="filter-item" data-filter=".authority ">Real Authority Method</div>
-                                <div class="filter-item" data-filter=".content">Content Creation</div>
-                            </div>
-                        </div>
-                    </div>
                     <div class="row filter-items justify-content-center gy-lg-0 gy-4">
                         <div class="col-lg-4 col-md-6 single-item authority content">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-1.jpg')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-1.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Brand design</a></h3>
                                         <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
@@ -352,7 +344,7 @@
                         <div class="col-lg-4 col-md-6 single-item authority">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-2.jpg')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-2.png')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">E-commerce Solutions</a></h3>
                                         <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
@@ -363,9 +355,44 @@
                         <div class="col-lg-4 col-md-6 single-item content">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-3.jpg')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-3.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Mobile Marketing</a></h3>
+                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row filter-items justify-content-center gy-lg-0 gy-4 mt-4">
+                        <div class="col-lg-4 col-md-6 single-item authority content">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-4.png')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">International Authority</a></h3>
+                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item authority">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-5.png')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Brand Strategy</a></h3>
+                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item content">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-6.png')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Conversion Rate</a></h3>
                                         <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
                                     </div>
                                 </div>

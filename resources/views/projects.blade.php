@@ -44,14 +44,14 @@
         <!-- /.mobile-side-menu -->
         <div class="mobile-side-menu-overlay"></div>
 
-        <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
+        {{-- <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
             <div class="container">
                 <div class="page-header-content">
                     <h1 class="title">Project</h1>
                     <h4 class="sub-title"><a class="home" href="index.html">Home </a><span></span><a href="project.html " class="inner-page"> Project</a></h4>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ page-header -->
 
         <section class="project-section project-page pt-120 pb-120">
@@ -65,70 +65,48 @@
                         <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
                     </div>
                 </div>
-                <div class="row gy-4">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project-box">
-                            <div class="overlay"></div>
-                            <img src="{{url('assets/img/project-img-1.jpg')}}" alt="project">
-                            <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">Brand design</a></h3>
-                                <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                <a href="project-details.html" class="project-btn"><i class="fa-regular fa-arrow-right"></i></a>
+                <div class="project-filter">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="project-filter-list text-center">
+                                <div class="filter-item active" data-filter="*">Creative Designs</div>
+                                <div class="filter-item" data-filter=".authority ">3D & VFX</div>
+                                <div class="filter-item" data-filter=".content">Event Management</div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project-box">
-                            <div class="overlay"></div>
-                            <img src="{{url('assets/img/project-img-2.png')}}" alt="project">
-                            <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">E-commerce Solutions</a></h3>
-                                <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                <a href="project-details.html" class="project-btn"><i class="fa-regular fa-arrow-right"></i></a>
+                    <div class="row filter-items justify-content-center gy-lg-0 gy-4">
+                        <div class="col-lg-4 col-md-6 single-item authority content">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-1.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Brand design</a></h3>
+                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project-box">
-                            <div class="overlay"></div>
-                            <img src="{{url('assets/img/project-img-3.jpg')}}" alt="project">
-                            <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">Mobile Marketing</a></h3>
-                                <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                <a href="project-details.html" class="project-btn"><i class="fa-regular fa-arrow-right"></i></a>
+                        <div class="col-lg-4 col-md-6 single-item authority">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-2.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">E-commerce Solutions</a></h3>
+                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project-box">
-                            <div class="overlay"></div>
-                            <img src="{{url('assets/img/project-img-4.png')}}" alt="project">
-                            <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">International Authority</a></h3>
-                                <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                <a href="project-details.html" class="project-btn"><i class="fa-regular fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project-box">
-                            <div class="overlay"></div>
-                            <img src="{{url('assets/img/project-img-5.png')}}" alt="project">
-                            <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">Brand Strategy</a></h3>
-                                <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                <a href="project-details.html" class="project-btn"><i class="fa-regular fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project-box">
-                            <div class="overlay"></div>
-                            <img src="{{url('assets/img/project-img-6.png')}}" alt="project">
-                            <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">Conversion Rate</a></h3>
-                                <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                <a href="project-details.html" class="project-btn"><i class="fa-regular fa-arrow-right"></i></a>
+                        <div class="col-lg-4 col-md-6 single-item content">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/project-3.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Mobile Marketing</a></h3>
+                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
