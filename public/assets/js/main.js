@@ -185,29 +185,35 @@
         });
 
         // Isotope
-        $(".filter-items").imagesLoaded(function () {
-            // Add isotope click function
-            $(".project-filter-list .filter-item").on("click", function () {
-                $(".project-filter-list .filter-item").removeClass("active");
-                $(this).addClass("active");
+$(".filter-items").imagesLoaded(function () {
+    // Initialize Isotope with the initial filter
+    var $grid = $(".filter-items").isotope({
+        itemSelector: ".single-item",
+        percentPosition: true,
+        filter: '.design',  // Set the initial filter to the first category
+    });
 
-                var selector = $(this).attr("data-filter");
-                $(".filter-items").isotope({
-                    filter: selector,
-                    animationOptions: {
-                        duration: 750,
-                        easing: "linear",
-                        queue: false,
-                    },
-                });
-                return false;
-            });
+    // Add isotope click function
+    $(".project-filter-list .filter-item").on("click", function () {
+        $(".project-filter-list .filter-item").removeClass("active");
+        $(this).addClass("active");
 
-            $(".filter-items").isotope({
-                itemSelector: ".single-item",
-                percentPosition: true,
-            });
+        var selector = $(this).attr("data-filter");
+        $grid.isotope({
+            filter: selector,
+            animationOptions: {
+                duration: 750,
+                easing: "linear",
+                queue: false,
+            },
         });
+        return false;
+    });
+
+    // Set the initial active class on the first filter item
+    $(".project-filter-list .filter-item").first().addClass("active");
+});
+
 
         // Price range slider
         var priceRange = $("#price-range"),

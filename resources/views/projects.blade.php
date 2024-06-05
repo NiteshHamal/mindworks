@@ -69,42 +69,94 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="project-filter-list text-center">
-                                <div class="filter-item active" data-filter="*">Creative Designs</div>
-                                <div class="filter-item" data-filter=".authority ">3D & VFX</div>
-                                <div class="filter-item" data-filter=".content">Event Management</div>
+                                <div class="filter-item" data-filter=".design">Creative Designs</div>
+                                <div class="filter-item" data-filter=".vfx">3D & VFX</div>
+                                <div class="filter-item" data-filter=".event">Event Management</div>
                             </div>
                         </div>
                     </div>
-                    <div class="row filter-items justify-content-center gy-lg-0 gy-4">
-                        <div class="col-lg-4 col-md-6 single-item authority content">
+                    <div class="row filter-items justify-content-center gy-lg-4 gy-4">
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-1.jpg')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/ashok-leyland.jpg')}}" alt="project"></a>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Brand design</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                        <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 single-item authority">
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-2.jpg')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/muktinath-bikash-bank.jpg')}}" alt="project"></a>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">E-commerce Solutions</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                        <h3 class="title"><a href="project-details.html">Muktinath Biksash Bank</a></h3>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 single-item content">
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-3.jpg')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/pillsburry1.jpg')}}" alt="project"></a>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Mobile Marketing</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                        <h3 class="title"><a href="project-details.html">Pillsburry</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/pillsburry2.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Pillsburry</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/oak-barrel.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Oak Barrel</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/himalayan-danphe.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Himalayan Danphe</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/pure-sunflower-oil.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Pure Sunflower Oil</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/saivee.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Saivee</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/catmandu.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Catmandu</a></h3>
                                     </div>
                                 </div>
                             </div>

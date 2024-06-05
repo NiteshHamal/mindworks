@@ -655,7 +655,7 @@
         </section>
         <!-- ./ request-section -->
 
-        <section class="blog-section pt-120 pb-120">
+        {{-- <section class="blog-section pt-120 pb-120">
             <div class="container">
                 <div class="section-heading heading-2">
                     <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="400ms">Our Blogs</h4>
@@ -700,7 +700,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ blog-section -->
 
 
