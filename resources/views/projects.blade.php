@@ -106,7 +106,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><div class="col-lg-4 col-md-6 single-item design">
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <a href="project-details.html"><img src="{{url('assets/img/pillsburry2.jpg')}}" alt="project"></a>
@@ -115,7 +116,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><div class="col-lg-4 col-md-6 single-item design">
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <a href="project-details.html"><img src="{{url('assets/img/oak-barrel.jpg')}}" alt="project"></a>
@@ -124,7 +126,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><div class="col-lg-4 col-md-6 single-item design">
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <a href="project-details.html"><img src="{{url('assets/img/himalayan-danphe.jpg')}}" alt="project"></a>
@@ -133,7 +136,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><div class="col-lg-4 col-md-6 single-item design">
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <a href="project-details.html"><img src="{{url('assets/img/pure-sunflower-oil.jpg')}}" alt="project"></a>
@@ -142,7 +146,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><div class="col-lg-4 col-md-6 single-item design">
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <a href="project-details.html"><img src="{{url('assets/img/saivee.jpg')}}" alt="project"></a>
@@ -151,12 +156,103 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><div class="col-lg-4 col-md-6 single-item design">
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <a href="project-details.html"><img src="{{url('assets/img/catmandu.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Catmandu</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/asis.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Asis</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/delight-cookies.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Delight Cookies</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/escorts.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Escorts</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/green-ply.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Green Ply</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/livepure.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Livpure</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/mayur_ply.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Mayur Ply</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/pillsbury3.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Pillsburry</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item vfx">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/um.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Um</a></h3>
                                     </div>
                                 </div>
                             </div>
