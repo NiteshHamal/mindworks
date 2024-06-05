@@ -54,15 +54,15 @@
         </section> --}}
         <!-- ./ page-header -->
 
-        <section class="project-section project-page pt-120 pb-120">
+        <section class="project-section project-page pb-120" style="padding-top: 50px;">
             <div class="container">
                 <div class="gallary-top">
                     <div class="section-heading sub-heading-color heading-3">
                         <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Gallery</h4>
-                        <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Ignite Your Brand's Online Growth <span>Presence</span></h2>
+                        <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Showcasing Our Creative<span>Excellence</span></h2>
                     </div>
                     <div class="gallary-right">
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
+                        <p class="mb-0">Explore our diverse portfolio, where creativity meets innovation. Discover how we transform ideas into impactful visual experiences across various projects.</p>
                     </div>
                 </div>
                 <div class="project-filter">
@@ -253,6 +253,76 @@
                                     <a href="project-details.html"><img src="{{url('assets/img/um.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Um</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item event">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/care_nepal.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Care Nepal</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item event">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/chandragiri-hills.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Chandragiri Hills</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item event">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels1.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item event">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels2.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item event">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels3.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item event">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels4.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item event">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <a href="project-details.html"><img src="{{url('assets/img/united_cement.jpg')}}" alt="project"></a>
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="project-details.html">United Cement</a></h3>
                                     </div>
                                 </div>
                             </div>
