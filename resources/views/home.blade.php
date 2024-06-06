@@ -134,7 +134,7 @@
         </section>
         <!-- ./ service-section --> --}}
 
-        <div class="sponsor-section pt-180 pb-180">
+        {{-- <div class="sponsor-section" style="padding-top: 50px; padding-bottom: 50px;">
             <div class="container">
                 <div class="sponsor-carousel swiper">
                     <div class="swiper-wrapper">
@@ -163,6 +163,30 @@
                                 <a href="#"><img src="{{url('assets/img/KTM-Logo.webp')}}" alt="sponsor"></a>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div> --}}
+        <div class="client-logos-section" style="padding: 50px 0;">
+            <div class="section-heading text-center">
+                <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">We work with global giants and emerging <span>startups</span></h2>
+            </div>
+            <div class="container">
+                <div class="client-logos-table">
+                    <div class="client-logo-item">
+                        <a href="#"><img src="{{url('assets/img/JCB-Logo.webp')}}" alt="JCB Logo"></a>
+                    </div>
+                    <div class="client-logo-item">
+                        <a href="#"><img src="{{url('assets/img/Mahindra-Logo.webp')}}" alt="Mahindra Logo"></a>
+                    </div>
+                    <div class="client-logo-item">
+                        <a href="#"><img src="{{url('assets/img/Mero-Flight-logo.webp')}}" alt="Mero Flight Logo"></a>
+                    </div>
+                    <div class="client-logo-item">
+                        <a href="#"><img src="{{url('assets/img/Vector_Smart_Object1-01-1-1.webp')}}" alt="Vector Smart Object Logo"></a>
+                    </div>
+                    <div class="client-logo-item">
+                        <a href="#"><img src="{{url('assets/img/KTM-Logo.webp')}}" alt="KTM Logo"></a>
                     </div>
                 </div>
             </div>

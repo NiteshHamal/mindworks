@@ -44,14 +44,14 @@
         <!-- /.mobile-side-menu -->
         <div class="mobile-side-menu-overlay"></div>
 
-        <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
+        {{-- <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
             <div class="container">
                 <div class="page-header-content">
                     <h1 class="title">Pricing</h1>
                     <h4 class="sub-title"><a class="home" href="index.html">Home </a><span></span><a href="pricing.html" class="inner-page"> Pricing</a></h4>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ page-header -->
 
         <section class="pricing-section pt-120 pb-120">
@@ -176,7 +176,7 @@
         </section>
         <!-- ./ pricing-section -->
 
-        <section class="request-section pb-120">
+        {{-- <section class="request-section pb-120">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -223,7 +223,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ request-section -->
 
         @include('layouts.footer')
