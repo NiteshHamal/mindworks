@@ -263,7 +263,7 @@
         </section>
         <!-- ./ skill-section -->
 
-        <section class="counter-section">
+        {{-- <section class="counter-section">
             <div class="bg-color"></div>
             <div class="container">
                 <div class="row counter-wrap gy-lg-0 gy-4">
@@ -313,7 +313,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ counter-section -->
 
         <section class="project-section pt-120 bg-grey">
@@ -325,29 +325,27 @@
             <div class="container">
                 <div class="section-heading text-center">
                     <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Projects</h4>
-                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Optimizing Brands for Online <span>Success</span></h2>
+                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Showcasing Our Creative <span>Excellence</span></h2>
                 </div>
 
-                <div class="project-filter">
-                    <div class="row filter-items justify-content-center gy-lg-0 gy-4">
+                <div class="project-filter-home">
+                    <div class="row filter-items-home justify-content-center gy-lg-0 gy-4">
                         <div class="col-lg-4 col-md-6 single-item authority content">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-1.jpg')}}" alt="project"></a>
-                                    <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Brand design</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                <div class="project-item">
+                                    <div class="project-thumb">
+                                        <a href="project-details.html"><img src="{{url('assets/img/saivee.jpg')}}" alt="project"></a>
+                                        <div class="project-content">
+                                            <h3 class="title"><a href="project-details.html">Saivee</a></h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item authority">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-2.png')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project"></a>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">E-commerce Solutions</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                        <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -355,10 +353,9 @@
                         <div class="col-lg-4 col-md-6 single-item content">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-3.jpg')}}" alt="project"></a>
+                                    <a href="project-details.html"><img src="{{url('assets/img/care_nepal.jpg')}}" alt="project"></a>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Mobile Marketing</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
+                                        <h3 class="title"><a href="project-details.html">Care Nepal</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -404,7 +401,7 @@
         </section>
         <!-- ./ project-section -->
 
-        <section class="testimonial-section pt-120 pb-120">
+        {{-- <section class="testimonial-section pt-120 pb-120">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -457,10 +454,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ project-section -->
 
-        <section class="pricing-section pb-120 overflow-hidden">
+        <section class="pricing-section pb-120 pt-120 overflow-hidden">
             <div class="container">
                 <div class="section-heading text-center">
                     <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Pricing</h4>
@@ -472,6 +469,7 @@
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
                             <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Yearly</button>
                             <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Monthly</button>
+                            <a href={{url('pricing')}}><button class="nav-link" id="nav-profile-tab" type="button">More</button></a>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
@@ -603,7 +601,7 @@
         </section>
         <!-- ./ pricing-section -->
 
-        <section class="request-section bg-grey pt-120">
+        {{-- <section class="request-section bg-grey pt-120">
             <div class="bg-color"></div>
             <div class="container">
                 <div class="row">
@@ -652,7 +650,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ request-section -->
 
         {{-- <section class="blog-section pt-120 pb-120">
