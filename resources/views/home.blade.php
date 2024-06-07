@@ -174,19 +174,49 @@
             <div class="container">
                 <div class="client-logos-table">
                     <div class="client-logo-item">
-                        <a href="#"><img src="{{url('assets/img/JCB-Logo.webp')}}" alt="JCB Logo"></a>
+                        <img src="{{url('assets/img/JCB-Logo.webp')}}" alt="JCB Logo">
                     </div>
                     <div class="client-logo-item">
-                        <a href="#"><img src="{{url('assets/img/Mahindra-Logo.webp')}}" alt="Mahindra Logo"></a>
+                        <img src="{{url('assets/img/Mahindra-Logo.webp')}}" alt="Mahindra Logo">
                     </div>
                     <div class="client-logo-item">
-                        <a href="#"><img src="{{url('assets/img/Mero-Flight-logo.webp')}}" alt="Mero Flight Logo"></a>
+                        <img src="{{url('assets/img/Mero-Flight-logo.webp')}}" alt="Mero Flight Logo">
                     </div>
                     <div class="client-logo-item">
-                        <a href="#"><img src="{{url('assets/img/Vector_Smart_Object1-01-1-1.webp')}}" alt="Vector Smart Object Logo"></a>
+                        <img src="{{url('assets/img/Vector_Smart_Object1-01-1-1.webp')}}" alt="Vector Smart Object Logo">
                     </div>
                     <div class="client-logo-item">
-                        <a href="#"><img src="{{url('assets/img/KTM-Logo.webp')}}" alt="KTM Logo"></a>
+                        <img src="{{url('assets/img/KTM-Logo.webp')}}" alt="Nepal Telecom Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client1.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client2.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client3.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client4.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client5.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client6.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client7.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client8.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client9.jpg')}}" alt="KTM Logo">
+                    </div>
+                    <div class="client-logo-item">
+                        <img src="{{url('assets/img/client10.jpg')}}" alt="KTM Logo">
                     </div>
                 </div>
             </div>
