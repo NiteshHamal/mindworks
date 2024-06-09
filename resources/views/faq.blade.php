@@ -44,17 +44,23 @@
         <!-- /.mobile-side-menu -->
         <div class="mobile-side-menu-overlay"></div>
 
-        <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
+        {{-- <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
             <div class="container">
                 <div class="page-header-content">
                     <h1 class="title">Faq</h1>
                     <h4 class="sub-title"><a class="home" href="index.html">Home </a><span></span><a href="faq.html" class="inner-page"> Faq</a></h4>
                 </div>
             </div>
-        </section>
+        </section> --}}
+
+        <div class="client-logos-section">
+            <div class="section-heading text-center">
+                <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Discover <span>FAQ </span> Solutions</h2>
+            </div>
+        </div>
         <!-- ./ page-header -->
 
-        <section class="faq-section pt-120 pb-120">
+        <section class="faq-section pb-120">
             <div class="container">
                 <div class="row gy-lg-0 gy-4">
                     <div class="col-lg-6">
@@ -170,7 +176,7 @@
         </section>
         <!-- ./ faq-section -->
 
-        <section class="content-section pb-120">
+        {{-- <section class="content-section pb-120">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
@@ -205,7 +211,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ content-section -->
 
         @include('layouts.footer')
