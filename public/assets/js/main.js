@@ -338,5 +338,52 @@ $(".filter-items").imagesLoaded(function () {
             );
             return false;
         });
+
+
     });
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const texts = ["Marketing", "Branding", "Optimization"];
+        let count = 0;
+        let index = 0;
+        let currentText = '';
+        let isDeleting = false;
+        const dynamicText = document.querySelector('.dynamic-text');
+
+        function type() {
+            if (count === texts.length) {
+                count = 0;
+            }
+
+            currentText = texts[count];
+
+            if (isDeleting) {
+                dynamicText.textContent = currentText.substring(0, index--);
+                if (index === 0) {
+                    isDeleting = false;
+                    count++;
+                    setTimeout(type, 200); // Wait for 0.2 seconds before typing the next word
+                } else {
+                    setTimeout(type, 100); // Adjust deleting speed
+                }
+            } else {
+                dynamicText.textContent = currentText.substring(0, index++);
+                if (index === currentText.length + 1) {
+                    isDeleting = true;
+                    setTimeout(type, 1000); // Wait for 1 second before starting to delete
+                } else {
+                    setTimeout(type, 100); // Adjust typing speed
+                }
+            }
+        }
+
+        type();
+    });
+
+
+
+
+
+
+
 })(jQuery);

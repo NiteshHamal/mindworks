@@ -53,15 +53,20 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="hero-content md-pb-20">
-                            <h1 class="title tracking-in-expand wow fade-in-bottom" data-wow-delay="300ms"><span class="shape-text">Unlock Your <img class="shape" src="{{url('assets/img/hero-text-shape.png')}}" alt="shape"></span> Online <span class="gradient-text">Marketing</span></h1>
+                            <h1 class="title tracking-in-expand wow fade-in-bottom" data-wow-delay="300ms">
+                                <span class="shape-text">Unlock Your Online <img class="shape" src="{{url('assets/img/hero-text-shape.png')}}" alt="shape"></span>
+                                <br><span class="dynamic-text gradient-text"></span>
+                            </h1>
                             <p class="wow fade-in-bottom" data-wow-delay="500ms">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
-                            <a href="about.html" class="pb-primary-btn primary-2 wow fade-in-bottom" data-wow-delay="600ms">Learn More</a>
+                            <a href="{{'pricing'}}" class="pb-primary-btn primary-2 wow fade-in-bottom" data-wow-delay="600ms">Learn More</a>
                             <div class="shapes">
                                 <div class="round-shape"><img src="{{url('assets/img/hero-round.png')}}" alt="shape"></div>
                                 <div class="star"><img src="{{url('assets/img/hero-star.png')}}" alt="shape"></div>
                             </div>
                         </div>
                     </div>
+
+
                     <div class="col-lg-6">
                         <div class="hero-thumb text-center">
                             <div class="shapes">
