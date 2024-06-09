@@ -63,7 +63,7 @@
                             <p>Real estate is a lucrative industry that involves the buying selling and renting properties It encompasses residential commercial and help industrial properties. Real estate agentsial</p>
                             <div class="contact-box">
                                 <ul class="contact-list">
-                                    <li><i class="fa-solid fa-phone"></i><a href="tel:+9779851014752">(+977) 98501014752</a></li>
+                                    <li><i class="fa-solid fa-phone"></i><a href="tel:+9779851014752">(+977) 9851014752</a></li>
                                     <li><i class="fa-solid fa-envelope"></i><a href="mailto:info@mindworksme.com">info@mindworksme.com</a></li>
                                     <li><i class="fa-solid fa-clock"></i><span>Mon-Fri : 9AM-6PM</span></li>
                                     <li><i class="fa-solid fa-location-dot"></i><span>Kupondole, Lalitpur, Nepal</span></li>

@@ -74,13 +74,13 @@
                                 <div class="shape hero-shape-2"><img src="{{url('assets/img/hero-img-shape-1.png')}}" alt="shape"></div>
                                 <div class="shape hero-shape-3"><img src="{{url('assets/img/hero-img-shape-2.png')}}" alt="shape"></div>
                             </div>
-                            <div class="hero-counter">
+                            {{-- <div class="hero-counter">
                                 <img src="{{url('assets/img/hero-user.png')}}" alt="icon">
                                 <div class="counter-content">
                                     <h3 class="title"><span class="odometer" data-count="5000">0</span>+</h3>
                                     <p>Satisfied Clients</p>
                                 </div>
-                            </div>
+                            </div> --}}
                             <img src="{{url('assets/img/hero-img-1.png')}}" alt="hero">
                         </div>
                     </div>
