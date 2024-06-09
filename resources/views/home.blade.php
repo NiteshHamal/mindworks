@@ -32,13 +32,6 @@
                     <button class="mobile-side-menu-close"><i class="fa-regular fa-xmark"></i></button>
                 </div>
                 <div class="side-menu-wrap"></div>
-                <div class="contact-item item-2">
-                    <ul class="contact-list">
-                        <li>Address : <span>Amsterdam, 109-74</span></li>
-                        <li>Phone : <a href="tel:+01569896654">+01 569 896 654</a></li>
-                        <li>Email : <a href="mailto:info@example.com">info@example.com</a></li>
-                    </ul>
-                </div>
             </div>
         </div>
         <!-- /.mobile-side-menu -->
