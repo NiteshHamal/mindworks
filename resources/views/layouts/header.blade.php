@@ -4,7 +4,7 @@
         <meta name="description" content="">
 
         <!-- Site Title -->
-        <title>Optiboom - Digital Marketing & SEO Agency HTML5 Template</title>
+        <title>MindWorks Media</title>
 
         <!-- Place favicon.ico in the root directory -->
         <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.jpg">
