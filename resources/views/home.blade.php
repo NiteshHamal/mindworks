@@ -48,7 +48,10 @@
                         <div class="hero-content md-pb-20">
                             <h1 class="title tracking-in-expand wow fade-in-bottom" data-wow-delay="300ms">
                                 <span class="shape-text">Unlock Your Online <img class="shape" src="{{url('assets/img/hero-text-shape.png')}}" alt="shape"></span>
-                                <br><span class="dynamic-text gradient-text"></span>
+                                <br>
+                                <span class="dynamic-text-container">
+                                    <span class="dynamic-text gradient-text"></span>
+                                </span>
                             </h1>
                             <p class="wow fade-in-bottom" data-wow-delay="500ms">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
                             <a href="{{'pricing'}}" class="pb-primary-btn primary-2 wow fade-in-bottom" data-wow-delay="600ms">Learn More</a>
@@ -58,8 +61,6 @@
                             </div>
                         </div>
                     </div>
-
-
                     <div class="col-lg-6">
                         <div class="hero-thumb text-center">
                             <div class="shapes">
@@ -67,19 +68,13 @@
                                 <div class="shape hero-shape-2"><img src="{{url('assets/img/hero-img-shape-1.png')}}" alt="shape"></div>
                                 <div class="shape hero-shape-3"><img src="{{url('assets/img/hero-img-shape-2.png')}}" alt="shape"></div>
                             </div>
-                            {{-- <div class="hero-counter">
-                                <img src="{{url('assets/img/hero-user.png')}}" alt="icon">
-                                <div class="counter-content">
-                                    <h3 class="title"><span class="odometer" data-count="5000">0</span>+</h3>
-                                    <p>Satisfied Clients</p>
-                                </div>
-                            </div> --}}
                             <img src="{{url('assets/img/hero-img-1.png')}}" alt="hero">
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
         <!-- ./ hero-section -->
 
         {{-- <section class="service-section pt-120">

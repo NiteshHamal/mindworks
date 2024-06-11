@@ -6975,6 +6975,12 @@ START: Theme Footer CSS
     text-align: center;
 }
 
+.dynamic-text-container {
+    height: 2em; /* Adjust this height based on your font size and line height */
+    display: flex;
+    align-items: center;
+}
+
 .dynamic-text {
     display: inline-block;
     border-right: 0.1em solid orange;
@@ -6982,6 +6988,7 @@ START: Theme Footer CSS
     overflow: hidden;
     animation: blink-caret 0.75s step-end infinite;
 }
+
 
 @keyframes blink-caret {
     from, to { border-color: transparent; }
