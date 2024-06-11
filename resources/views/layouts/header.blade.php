@@ -7,7 +7,7 @@
         <title>MindWorks Media</title>
 
         <!-- Place favicon.ico in the root directory -->
-        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.jpg">
+        <link rel="shortcut icon" type="image/x-icon" href="{{url('assets/img/logo1.png')}}">
 
         <!-- CSS here -->
         <link rel="stylesheet" href="{{url('assets/css/bootstrap.min.css')}}">
