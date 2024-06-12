@@ -288,7 +288,7 @@
         </section>
         <!-- ./ pricings-section --> --}}
 
-        <section class="counter-section">
+        {{-- <section class="counter-section">
             <div class="bg-color"></div>
             <div class="container">
                 <div class="row counter-wrap wrap-2 gy-lg-0 gy-4">
@@ -327,7 +327,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- ./ counter-section -->
 
         {{-- <section class="project-section-2 bg-grey overflow-hidden pt-120 pb-120">
