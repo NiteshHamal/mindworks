@@ -53,10 +53,10 @@
                                     <span class="dynamic-text gradient-text"></span>
                                 </span>
                             </h1>
-                            <p class="wow fade-in-bottom" data-wow-delay="500ms">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
+                            <p class="wow fade-in-bottom" data-wow-delay="500ms">Your Full-Service Creative and Digital Marketing Agency in Nepal – Specializing in Branding, Advertising, SEO, and Social Media for Brands</p>
                             <a href="{{'pricing'}}" class="pb-primary-btn primary-2 wow fade-in-bottom" data-wow-delay="600ms">Learn More</a>
                             <div class="shapes">
-                                <div class="round-shape"><img src="{{url('assets/img/hero-round.png')}}" alt="shape"></div>
+                                <div class="round-shape"><img src="{{url('assets/img/4.png')}}" alt="shape"></div>
                                 <div class="star"><img src="{{url('assets/img/hero-star.png')}}" alt="shape"></div>
                             </div>
                         </div>
@@ -240,7 +240,7 @@
                             <div class="section-heading heading-2">
                                 <h4 class="sub-heading wow fade-in-right" data-wow-delay="300ms">About Us</h4>
                                 <h2 class="section-title wow fade-in-right" data-wow-delay="400ms">Fueling Your <span>Business's</span> Evolution</h2>
-                                <p class="wow fade-in-right" data-wow-delay="500ms">Welcome to Mindworks Media and Events Pvt. Ltd.! We're here to propel your business forward, crafting experiences that resonate with your audience and drive growth.</p>
+                                <p class="wow fade-in-right" data-wow-delay="500ms">We're dedicated to advancing your business through innovative branding, captivating advertising, powerful SEO, and engaging social media, creating experiences that truly resonate and drive your growth..</p>
                             </div>
                             <ul class="about-list wow fade-in-right" data-wow-delay="600ms">
                                 <li><i class="fa-regular fa-chevrons-right"></i>Strategic Designs</li>
@@ -264,7 +264,7 @@
                             <div class="section-heading heading-2">
                                 <h4 class="sub-heading wow fade-in-left" data-wow-delay="300ms">How We Do It</h4>
                                 <h2 class="section-title wow fade-in-left" data-wow-delay="400ms">Our Process of <span>Crafting</span> Excellence</h2>
-                                <p class="wow fade-in-left" data-wow-delay="500ms">We visualize the big picture and address the milestones accordingly to deliver quality work. The prominent individuals at Mindworks draft various ideas and collaboratively come up as a team with impactful stories that depict the brand value of our clients. Hitting the heart and mind of the audience is our concern, so we stand firm at serving our best to each and every one of our associates.</p>
+                                <p class="wow fade-in-left" data-wow-delay="500ms">We're more than just a digital agency; we're storytellers on a mission. Imagine us as your creative guides, charting the course while cherishing every milestone. Our team, a vibrant blend of passionate minds, collaborates to shape narratives that breathe life into your brand. We're not just about hitting targets; we aim to touch hearts and minds, crafting experiences that resonate deeply. From branding to SEO, we're here to fuel your growth and amplify your voice in the digital landscape. Join us on this journey, where every idea, every strategy, is infused with the human touch.</p>
                             </div>
                             <ul class="skill-list wow fade-in-right" data-wow-delay="600ms">
                                 <li><i class="fa-regular fa-chart-network"></i>Connect :- We engage with our clients to understand their vision and goals.</li>
