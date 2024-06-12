@@ -4718,7 +4718,7 @@ START: Theme Project CSS
 }
 @media only screen and (max-width: 767px) {
   .project-section-2 .section-heading {
-    margin-bottom: 120px;
+    margin-bottom: 50px;
   }
 }
 .project-section-2 .section-heading .section-title {

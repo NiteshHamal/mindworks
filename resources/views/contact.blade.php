@@ -28,7 +28,7 @@
         <div class="mobile-side-menu">
             <div class="side-menu-content">
                 <div class="side-menu-head">
-                    <a href="index.html"><img src="assets/img/logo/logo-dark.png" alt="logo"></a>
+                    <a href="index.html"><img src="{{url('assets/img/5.png')}}" alt="logo"></a>
                     <button class="mobile-side-menu-close"><i class="fa-regular fa-xmark"></i></button>
                 </div>
                 <div class="side-menu-wrap"></div>

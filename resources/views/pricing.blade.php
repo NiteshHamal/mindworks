@@ -28,7 +28,7 @@
         <div class="mobile-side-menu">
             <div class="side-menu-content">
                 <div class="side-menu-head">
-                    <a href="index.html"><img src="assets/img/logo/logo-dark.png" alt="logo"></a>
+                    <a href="index.html"><img src="{{url('assets/img/5.png')}}" alt="logo"></a>
                     <button class="mobile-side-menu-close"><i class="fa-regular fa-xmark"></i></button>
                 </div>
                 <div class="side-menu-wrap"></div>
@@ -54,7 +54,7 @@
         </section> --}}
         <!-- ./ page-header -->
 
-        <section class="project-section-2 overflow-hidden" style="padding-top: 50px; padding-bottom:50px;">
+        <section class="project-section-2 overflow-hidden" style="padding-top: 50px; padding-bottom:10px;">
             <div class="container">
                 <div class="section-heading sub-heading-color heading-3 text-center">
                     <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms" style=""><span>Personalized</span> Pricing for You</h2>
