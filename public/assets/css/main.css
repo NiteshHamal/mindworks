@@ -7005,98 +7005,189 @@ START: Theme Footer CSS
     max-width: 1200px;
     margin: 120px auto;
     padding: 40px;
+    box-sizing: border-box; /* Ensure padding is included in the width */
 
+    .headerpricing {
+        margin-bottom: 20px;
+    }
 
-.header {
-    margin-bottom: 20px;
+    .section-heading {
+        margin-bottom: 20px;
+        text-align: center; /* Center the heading */
+    }
+
+    .main-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        width: 100%; /* Ensure main-content takes full width */
+        box-sizing: border-box; /* Ensure padding is included in the width */
+    }
+
+    .form-content {
+        flex: 1;
+        width: 60%;
+        box-sizing: border-box; /* Ensure padding is included in the width */
+    }
+
+    .form-image {
+        width: 35%;
+        box-sizing: border-box; /* Ensure padding is included in the width */
+    }
+
+    .form-image img {
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .form-title {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .checkbox-group {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+
+    .checkbox-group label {
+        background-color: #f0f0f0;
+        border-radius: 20px;
+        padding: 10px 20px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+    .checkbox-group input[type="checkbox"] {
+        margin-right: 10px;
+    }
+
+    .checkbox-group label:hover {
+        background-color: #5952db;
+        color: #fff;
+    }
+
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        resize: none;
+        height: 100px;
+    }
+
+    button {
+        background-color: #6c63ff;
+        color: #fff;
+        border: none;
+        border-radius: 20px;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+    }
+
+    button:hover {
+        background-color: #5952db;
+    }
 }
 
-.section-heading {
-    margin-bottom: 20px;
+/* Media Queries for Mobile View */
+@media (max-width: 768px) {
+    .main-content {
+        align-items: center;
+        width: 100%; /* Ensure main-content takes full width */
+        box-sizing: border-box; /* Ensure padding is included in the width */
+    }
+
+    .form-content {
+        width: 100%; /* Make form-content take full width on mobile view */
+    }
+
+    .form-image {
+        display: none; /* Hide the image on mobile view */
+        width: 0;
+    }
+
+    .checkbox-group label {
+        width: calc(100% - 20px); /* Ensure checkboxes take full width */
+    }
+
+    textarea {
+        margin-top: 10px;
+    }
+
+    button {
+        margin-top: 20px;
+    }
 }
 
-.main-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+@media (max-width: 480px) {
+    .container-pricingform {
+        padding: 20px;
+    }
+
+    .section-heading h2 {
+        font-size: 1.5em;
+    }
+
+    .form-title h2 {
+        font-size: 1.5em;
+    }
+
+    .checkbox-group label {
+        padding: 10px;
+        font-size: 0.9em;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 10px;
+    }
 }
 
-.form-content {
-    flex: 1;
-    width: 60%;
+/* Align elements on mobile view */
+@media (max-width: 768px) {
+    .headerpricing,
+    .form-title,
+    .checkbox-group,
+    textarea,
+    button {
+        width: 100%;
+        text-align: center;
+    }
+
+    .checkbox-group {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .checkbox-group label {
+        width: 90%; /* Ensure checkboxes take full width */
+    }
+
+    textarea {
+        margin-top: 10px;
+    }
+
+    button {
+        margin-top: 20px;
+    }
 }
 
-.form-image {
-    width: 35%;
+/* Center the header section on mobile */
+@media (max-width: 768px) {
+    .headerpricing .section-heading {
+        width: 100%;
+        text-align: center;
+    }
 }
-
-.form-image img {
-    width: 100%;
-    border-radius: 10px;
-}
-
-.form-title {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.checkbox-group {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    gap: 10px;
-    margin-bottom: 20px; /* Add space between the checkboxes and the textarea */
-}
-
-.checkbox-group label {
-    background-color: #f0f0f0;
-    border-radius: 20px;
-    padding: 10px 20px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    flex: 1 1 calc(50% - 20px);
-}
-
-.checkbox-group input[type="checkbox"] {
-    margin-right: 10px;
-}
-
-.checkbox-group input[type="checkbox"]:checked + label {
-    background-color: #cce5ff;
-}
-
-.checkbox-group label:hover {
-    background-color: #5952db;
-    color: #fff; /* Ensure text remains readable on hover */
-}
-
-textarea {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    resize: none;
-    height: 100px;
-}
-
-button {
-    background-color: #6c63ff;
-    color: #fff;
-    border: none;
-    border-radius: 20px;
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 16px;
-    width: 100%;
-}
-
-button:hover {
-    background-color: #5952db;
-}
-
-}
-
 /* !END: Theme Footer CSS */
 
 /*# sourceMappingURL=main.css.map */
