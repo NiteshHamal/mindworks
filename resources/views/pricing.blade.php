@@ -57,7 +57,7 @@
         <section class="project-section-2 overflow-hidden" style="padding-top: 50px; padding-bottom:10px;">
             <div class="container">
                 <div class="section-heading sub-heading-color heading-3 text-center">
-                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms" style=""><span>Personalized</span> Pricing for You</h2>
+                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms" style=""><span>Personalized</span> Pricing</h2>
                 </div>
             </div>
         </section>
