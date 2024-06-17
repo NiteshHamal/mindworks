@@ -32,26 +32,10 @@
                     <button class="mobile-side-menu-close"><i class="fa-regular fa-xmark"></i></button>
                 </div>
                 <div class="side-menu-wrap"></div>
-                {{-- <div class="contact-item item-2">
-                    <ul class="contact-list">
-                        <li>Address : <span>Amsterdam, 109-74</span></li>
-                        <li>Phone : <a href="tel:+01569896654">+01 569 896 654</a></li>
-                        <li>Email : <a href="mailto:info@example.com">info@example.com</a></li>
-                    </ul>
-                </div> --}}
             </div>
         </div>
         <!-- /.mobile-side-menu -->
         <div class="mobile-side-menu-overlay"></div>
-
-        {{-- <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
-            <div class="container">
-                <div class="page-header-content">
-                    <h1 class="title">Faq</h1>
-                    <h4 class="sub-title"><a class="home" href="index.html">Home </a><span></span><a href="faq.html" class="inner-page"> Faq</a></h4>
-                </div>
-            </div>
-        </section> --}}
 
         <div class="client-logos-section">
             <div class="section-heading text-center">
@@ -175,44 +159,6 @@
             </div>
         </section>
         <!-- ./ faq-section -->
-
-        {{-- <section class="content-section pb-120">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="content-thumb">
-                            <img src="{{url('assets/img/content-img.png')}}" alt="content">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="content-info">
-                            <div class="section-heading sub-heading-color heading-3">
-                                <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fade-in-bottom;">What We Do</h4>
-                                <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fade-in-bottom;">Capitalize on the Power of <span>SEO Digital</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
-                            </div>
-                            <ul class="content-list">
-                                <li>
-                                    <div class="arrow"><img src="{{url('assets/img/arrow-shape.png')}}" alt="arrow"></div>
-                                    <span class="number">01</span>
-                                    <h4 class="title">Conversion Rate</h4>
-                                </li>
-                                <li style="--pb-color-theme-primary: #57D288;">
-                                    <div class="arrow"><img src="{{url('assets/img/arrow-shape.png')}}" alt="arrow"></div>
-                                    <span class="number">02</span>
-                                    <h4 class="title">Real Authority Method</h4>
-                                </li>
-                                <li style="--pb-color-theme-primary: #657EFF;">
-                                    <span class="number">03</span>
-                                    <h4 class="title">Conversion Rate</h4>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-        <!-- ./ content-section -->
 
         @include('layouts.footer')
     </body>

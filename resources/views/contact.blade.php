@@ -32,27 +32,10 @@
                     <button class="mobile-side-menu-close"><i class="fa-regular fa-xmark"></i></button>
                 </div>
                 <div class="side-menu-wrap"></div>
-                {{-- <div class="contact-item item-2">
-                    <ul class="contact-list">
-                        <li>Address : <span>Amsterdam, 109-74</span></li>
-                        <li>Phone : <a href="tel:+01569896654">+01 569 896 654</a></li>
-                        <li>Email : <a href="mailto:info@example.com">info@example.com</a></li>
-                    </ul>
-                </div> --}}
             </div>
         </div>
         <!-- /.mobile-side-menu -->
         <div class="mobile-side-menu-overlay"></div>
-
-        {{-- <section class="page-header" data-background="{{url('assets/img/page-header-bg.jpg')}}">
-            <div class="container">
-                <div class="page-header-content">
-                    <h1 class="title">Contact</h1>
-                    <h4 class="sub-title"><a class="home" href="index.html">Home </a><span></span><a href="contact.html" class="inner-page"> Contact</a></h4>
-                </div>
-            </div>
-        </section> --}}
-        <!-- ./ page-header -->
 
         <section class="contact-section bg-grey pt-120 pb-120">
             <div class="container">

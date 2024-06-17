@@ -77,89 +77,7 @@
 
         <!-- ./ hero-section -->
 
-        {{-- <section class="service-section pt-120">
-            <div class="container">
-                <div class="row justify-content-center gy-lg-0 gy-4">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="service-item text-center wow fade-in-bottom" data-wow-delay="400ms">
-                            <div class="service-icon">
-                                <img src="{{url('assets/img/service-icon-1.png')}}" alt="service">
-                            </div>
-                            <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Digital Advertising</a></h3>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-solid fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="service-item text-center wow fade-in-bottom" data-wow-delay="500ms">
-                            <div class="service-icon">
-                                <img src="{{url('assets/img/service-icon-2.png')}}" alt="service">
-                            </div>
-                            <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Search Engine </a></h3>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-solid fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="service-item text-center wow fade-in-bottom" data-wow-delay="600ms">
-                            <div class="service-icon">
-                                <img src="{{url('assets/img/service-icon-3.png')}}" alt="service">
-                            </div>
-                            <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Social Media Management</a></h3>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-solid fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- ./ service-section --> --}}
 
-        {{-- <div class="sponsor-section" style="padding-top: 50px; padding-bottom: 50px;">
-            <div class="container">
-                <div class="sponsor-carousel swiper">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="sponsor-item">
-                                <a href="#"><img src="{{url('assets/img/JCB-Logo.webp')}}" alt="sponsor"></a>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="sponsor-item">
-                                <a href="#"><img src="{{url('assets/img/Mahindra-Logo.webp')}}" alt="sponsor"></a>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="sponsor-item">
-                                <a href="#"><img src="{{url('assets/img/Mero-Flight-logo.webp')}}" alt="sponsor"></a>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="sponsor-item">
-                                <a href="#"><img src="{{url('assets/img/Vector_Smart_Object1-01-1-1.webp')}}" alt="sponsor"></a>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="sponsor-item">
-                                <a href="#"><img src="{{url('assets/img/KTM-Logo.webp')}}" alt="sponsor"></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
         <div class="client-logos-section" style="padding: 50px 0;">
             <div class="section-heading text-center">
                 <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">We work with global giants and emerging <span>startups</span></h2>
@@ -272,32 +190,6 @@
                                 <li><i class="fa-regular fa-ferris-wheel"></i>Build :- We develop and refine these ideas into cohesive, compelling stories.</li>
                                 <li><i class="fa-regular fa-person-dolly"></i>Deliver :- We ensure the final product resonates with the audience</li>
                             </ul>
-                            {{-- <div class="skills-items">
-                                <div class="skills-item wow fade-in-left" data-wow-delay="600ms">
-                                    <div class="item-content">
-                                        <h4 class="title">International Authority</h4>
-                                        <span>$4000</span>
-                                    </div>
-                                    <div class="progress">
-                                        <div class="progress-bar wow slideInLeft" data-wow-delay="0ms" data-wow-duration="2000ms" role="progressbar" style="width: 80%;">
-                                            <span data-background="{{url('assets/img/skill-shape.png')}}">80%</span>
-                                            <div class="dot"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="skills-item wow fade-in-left" data-wow-delay="700ms">
-                                    <div class="item-content">
-                                        <h4 class="title">Real Authority Method</h4>
-                                        <span>12 Month</span>
-                                    </div>
-                                    <div class="progress">
-                                        <div class="progress-bar wow slideInLeft" data-wow-delay="0ms" data-wow-duration="2000ms" role="progressbar" style="width: 70%;">
-                                            <span data-background="{{url('assets/img/skill-shape.png')}}">70%</span>
-                                            <div class="dot"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> --}}
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -309,59 +201,6 @@
             </div>
         </section>
         <!-- ./ skill-section -->
-
-        {{-- <section class="counter-section">
-            <div class="bg-color"></div>
-            <div class="container">
-                <div class="row counter-wrap gy-lg-0 gy-4">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="counter-item">
-                            <div class="counter-icon">
-                                <img src="{{url('assets/img/counter-1.png')}}" alt="icon">
-                            </div>
-                            <div class="counter-content">
-                                <h3 class="title"><span class="odometer" data-count="200">0</span><span class="text">+</span></h3>
-                                <p>Team member</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="counter-item">
-                            <div class="counter-icon">
-                                <img src="{{url('assets/img/counter-2.png')}}" alt="icon">
-                            </div>
-                            <div class="counter-content">
-                                <h3 class="title"><span class="odometer" data-count="30">0</span><span class="text">k+</span></h3>
-                                <p>Winning award</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="counter-item">
-                            <div class="counter-icon">
-                                <img src="{{url('assets/img/promo-1.png')}}" alt="icon">
-                            </div>
-                            <div class="counter-content">
-                                <h3 class="title"><span class="odometer" data-count="20">0</span><span class="text">+</span></h3>
-                                <p>Complete project</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="counter-item">
-                            <div class="counter-icon">
-                                <img src="{{url('assets/img/counter-4.png')}}" alt="icon">
-                            </div>
-                            <div class="counter-content">
-                                <h3 class="title"><span class="odometer" data-count="300">0</span><span class="text">+</span></h3>
-                                <p>Client review</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-        <!-- ./ counter-section -->
 
         <section class="project-section pt-120 bg-grey">
             <div class="bg-color"></div>
@@ -446,62 +285,6 @@
                 </div>
             </div>
         </section>
-        <!-- ./ project-section -->
-
-        {{-- <section class="testimonial-section pt-120 pb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="testi-info md-pb-40">
-                            <div class="section-heading heading-2">
-                                <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Cients</h4>
-                                <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Grow Your Business with Strategic <span>SEO</span></h2>
-                                <p class="wow fade-in-bottom" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
-                            </div>
-                            <img class="wow fade-in-bottom" data-wow-delay="600ms" src="{{url('assets/img/testi-img.png')}}" alt="testi">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="testi-items">
-                            <div class="testi-item wow fade-in-bottom" data-wow-delay="400ms">
-                                <div class="client-thumb">
-                                    <img src="{{url('assets/img/testi-client-1.png')}}" alt="testi">
-                                </div>
-                                <img class="quote" src="{{url('assets/img/quote.png')}}" alt="quote">
-                                <div class="testi-content">
-                                    <h3 class="name">Robert Fox <span>Nursing Assistant</span></h3>
-                                    <ul class="review">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <p>Financial planners help people to knowledge in about how to invest and save their moneye the most efficient way in to eve.planners Financial planners help people to my destin knowledge in about how to invest</p>
-                                </div>
-                            </div>
-                            <div class="testi-item wow fade-in-bottom" data-wow-delay="500ms">
-                                <div class="client-thumb">
-                                    <img src="{{url('assets/img/testi-client-2.png')}}" alt="testi">
-                                </div>
-                                <img class="quote" src="{{url('assets/img/quote.png')}}" alt="quote">
-                                <div class="testi-content">
-                                    <h3 class="name">Leslie Alexander <span>Nursing Assistant</span></h3>
-                                    <ul class="review">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <p>Financial planners help people to knowledge in about how to invest and save their moneye the most efficient way in to eve.planners Financial planners help people to my destin knowledge in about how to invest</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
         <!-- ./ project-section -->
 
         <section class="pricing-section pb-120 pt-120 overflow-hidden">
@@ -647,108 +430,6 @@
             </div>
         </section>
         <!-- ./ pricing-section -->
-
-        {{-- <section class="request-section bg-grey pt-120">
-            <div class="bg-color"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="request-content wow fade-in-left" data-wow-delay="400ms">
-                            <div class="shape"><img src="{{url('assets/img/request-shape.png')}}" alt="shape"></div>
-                            <div class="section-heading heading-2">
-                                <h4 class="sub-heading">Contact Us</h4>
-                                <h2 class="section-title">Stand Out in the <span>Digital</span> Crowd Presence</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
-                            </div>
-                            <div class="request-form">
-                                <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="nice-select select-control form-control country" tabindex="0"><span class="current">Sort by popular</span><ul class="list"><li data-value="" class="option selected focus">Sort by popular</li><li data-value="vdt" class="option">Plan One</li><li data-value="can" class="option">Plan Two</li><li data-value="uk" class="option">Plan Three</li></ul></div>
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-12">
-                                            <textarea id="message" name="message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="submit-btn text-center">
-                                        <button id="submit" class="pb-primary-btn" type="submit">Send a messege</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="request-img text-center wow fade-in-right" data-wow-delay="300ms">
-                            <img src="{{url('assets/img/request-img.png')}}" alt="img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-        <!-- ./ request-section -->
-
-        {{-- <section class="blog-section pt-120 pb-120">
-            <div class="container">
-                <div class="section-heading heading-2">
-                    <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="400ms">Our Blogs</h4>
-                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="600ms">Drive Results with <span>Effective</span> Online Marketing</h2>
-                </div>
-                <div class="row gy-lg-0 gy-4 justify-content-center">
-                    <div class="col-md-6">
-                        <div class="post-card wow fade-in-bottom" data-wow-delay="400ms">
-                            <div class="post-thumb">
-                                <img src="{{url('assets/img/post-1.jpg')}}" alt="post">
-                            </div>
-                            <div class="post-content-wrap">
-                                <ul class="post-meta">
-                                    <li>By admin</li>
-                                    <li>Comments (05)</li>
-                                    <li>October 19, 2023</li>
-                                </ul>
-                                <div class="post-content">
-                                    <h3 class="title"><a href="blog-details.html">Reach New Heights with Digital the Search Engine Results </a></h3>
-                                    <p>Medical is a field that deals with the study, diagnosis, and treatment diseases Medical is a field that deals with the </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="post-card wow fade-in-bottom" data-wow-delay="600ms">
-                            <div class="post-thumb">
-                                <img src="{{url('assets/img/post-2.jpg')}}" alt="post">
-                            </div>
-                            <div class="post-content-wrap">
-                                <ul class="post-meta">
-                                    <li>By admin</li>
-                                    <li>Comments (05)</li>
-                                    <li>October 19, 2023</li>
-                                </ul>
-                                <div class="post-content">
-                                    <h3 class="title"><a href="blog-details.html">Propel Your Business to Success with SEO Boost Your Online Presence </a></h3>
-                                    <p>Medical is a field that deals with the study, diagnosis, and treatment diseases Medical is a field that deals with the </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-        <!-- ./ blog-section -->
-
-
 
         @include('layouts.footer')
     </body>
