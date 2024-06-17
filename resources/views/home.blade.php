@@ -91,7 +91,7 @@
                         <img src="{{url('assets/img/Mahindra-Logo.webp')}}" alt="Mahindra Logo">
                     </div>
                     <div class="client-logo-item">
-                        <img src="{{url('assets/img/Mero-Flight-Logo.webp')}}" alt="Mero Flight Logo">
+                        <img src="{{url('assets/img/meroflightlogo.png')}}" alt="Mero Flight Logo">
                     </div>
                     <div class="client-logo-item">
                         <img src="{{url('assets/img/Vector_Smart_Object1-01-1-1.webp')}}" alt="Vector Smart Object Logo">
