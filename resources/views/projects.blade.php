@@ -63,7 +63,7 @@
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/ashok-leyland.jpg')}}" alt="project"></a>
+                                    <a href="#"><img src="{{url('assets/img/ashok-leyland.jpg')}}" alt="project"></a>
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
                                         {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
