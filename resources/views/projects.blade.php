@@ -20,7 +20,7 @@
         </div>
         <!-- /#popup-search-box -->
 
-        <div class="preloader">
+        <div class="preloader" id="preloader">
             <img src="{{url('assets/img/proloader.gif')}}" alt="preloader-icon">
         </div>
         <!--/.site-preloader-->
@@ -175,7 +175,7 @@
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/delight-cookies.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/delight-cookies.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Delight Cookies</a></h3>
                                     </div>
@@ -185,7 +185,7 @@
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/escorts.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/escorts.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Escorts</a></h3>
                                     </div>
@@ -195,7 +195,7 @@
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/green-ply.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/green-ply.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Green Ply</a></h3>
                                     </div>
@@ -205,7 +205,7 @@
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/livepure.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/livepure.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Livpure</a></h3>
                                     </div>
@@ -215,7 +215,7 @@
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/mayur_ply.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/mayur_ply.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Mayur Ply</a></h3>
                                     </div>
@@ -225,7 +225,7 @@
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/pillsbury3.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/pillsbury3.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Pillsburry</a></h3>
                                     </div>
@@ -235,7 +235,7 @@
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/um.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/um.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Um</a></h3>
                                     </div>
@@ -245,7 +245,7 @@
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/care_nepal.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Care Nepal</a></h3>
                                     </div>
@@ -255,7 +255,7 @@
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/chandragiri-hills.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/chandragiri-hills.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Chandragiri Hills</a></h3>
                                     </div>
@@ -265,7 +265,7 @@
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels1.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/radio_on_wheels1.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
                                     </div>
@@ -275,7 +275,7 @@
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels2.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/radio_on_wheels2.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
                                     </div>
@@ -285,7 +285,7 @@
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels3.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/radio_on_wheels3.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
                                     </div>
@@ -295,7 +295,7 @@
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/radio_on_wheels4.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/radio_on_wheels4.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
                                     </div>
@@ -305,7 +305,7 @@
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/united_cement.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/united_cement.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">United Cement</a></h3>
                                     </div>

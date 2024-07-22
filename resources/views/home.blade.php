@@ -20,7 +20,7 @@
         </div>
         <!-- /#popup-search-box -->
 
-        <div class="preloader">
+        <div class="preloader" id="preloader">
             <img src="{{url('assets/img/proloader.gif')}}" alt="preloader-icon">
         </div>
         <!--/.site-preloader-->
@@ -219,7 +219,7 @@
                         <div class="col-lg-4 col-md-6 single-item authority content">
                                 <div class="project-item">
                                     <div class="project-thumb">
-                                        <a href="project-details.html"><img src="{{url('assets/img/saivee.jpg')}}" alt="project"></a>
+                                        <img src="{{url('assets/img/saivee.jpg')}}" alt="project">
                                         <div class="project-content">
                                             <h3 class="title"><a href="project-details.html">Saivee</a></h3>
                                         </div>
@@ -229,7 +229,7 @@
                         <div class="col-lg-4 col-md-6 single-item authority">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
                                     </div>
@@ -239,7 +239,7 @@
                         <div class="col-lg-4 col-md-6 single-item content">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/care_nepal.jpg')}}" alt="project"></a>
+                                    <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">Care Nepal</a></h3>
                                     </div>

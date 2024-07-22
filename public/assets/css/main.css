@@ -1004,6 +1004,7 @@ START: Theme Header CSS
 }
 .header .primary-header {
   box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.05);
+  background-color: white;
 }
 .header .top-bar {
   background-color: var(--pb-color-common-black);

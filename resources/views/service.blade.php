@@ -20,7 +20,7 @@
         </div>
         <!-- /#popup-search-box -->
 
-        <div class="preloader">
+        <div class="preloader" id="preloader">
             <img src="{{url('assets/img/proloader.gif')}}" alt="preloader-icon">
         </div>
         <!--/.site-preloader-->
