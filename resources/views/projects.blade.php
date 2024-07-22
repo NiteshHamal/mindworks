@@ -56,6 +56,7 @@
                                 <div class="filter-item" data-filter=".design">Creative Designs</div>
                                 <div class="filter-item" data-filter=".vfx">3D & VFX</div>
                                 <div class="filter-item" data-filter=".event">Event Management</div>
+                                <div class="filter-item" data-filter=".webdesign">Web Design</div>
                             </div>
                         </div>
                     </div>
@@ -309,6 +310,18 @@
                                     <div class="project-content">
                                         <h3 class="title"><a href="project-details.html">United Cement</a></h3>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item webdesign">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                <a href="https://gamalaghar.com/" target="_blank">
+                                    <img src="{{url('assets/img/gamalaghar.png')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title"><a href="https://gamalaghar.com/" target="_blank">Gamalaghar</a></h3>
+                                    </div>
+                                </a>
                                 </div>
                             </div>
                         </div>

@@ -53,7 +53,7 @@
                                 <p>Boost your online presence with targeted campaigns across various social media platforms.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing/#social-media-marketing')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                                 <p>Improve your website's visibility and attract organic traffic with our comprehensive SEO strategies.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing/#search-engine-optimization')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                                 <p>Create a strong and memorable brand identity that deeply resonates with your target audience.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing/#company-branding')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                                 <p>Bring your ideas to life with visually stunning and effective graphic designs.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing/#graphic-designing')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -109,7 +109,7 @@
                                 <p>Engage your audience with high-quality, well-crafted content tailored to your needs.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing/#content-writing')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -123,7 +123,7 @@
                                 <p>Support your business growth with our wide range of digital services. </p>
                             </div>
                             <div class="service-btn">
-                                <a href="service-details.html"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing/#other-digital-services')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>

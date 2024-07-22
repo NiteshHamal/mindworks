@@ -69,21 +69,21 @@
 <!--scrollup-->
 
 <!-- JS here -->
-<script src="{{ url('assets/js/jquery-3.6.0.min.js') }}"></script>
-<script src="{{ url('assets/js/bootstrap-bundle.js') }}" defer></script>
-<script src="{{ url('assets/js/imagesloaded-pkgd.js') }}" defer></script>
-<script src="{{ url('assets/js/waypoints.min.js') }}" defer></script>
-<script src="{{ url('assets/js/venobox.min.js') }}" defer></script>
-<script src="{{ url('assets/js/odometer.min.js') }}" defer></script>
-<script src="{{ url('assets/js/meanmenu.js') }}" defer></script>
-<script src="{{ url('assets/js/jquery.isotope.js') }}" defer></script>
-<script src="{{ url('assets/js/nice-select.js') }}" defer></script>
-<script src="{{ url('assets/js/easypiechart.min.js') }}" defer></script>
-<script src="{{ url('assets/js/wow.min.js') }}" defer></script>
-<script src="{{ url('assets/js/swiper.min.js') }}" defer></script>
-<script src="{{ url('assets/js/smooth-scroll.js') }}" defer></script>
-<script src="{{ url('assets/js/ajax-form.js') }}" defer></script>
-<script src="{{ url('assets/js/main.js') }}" defer></script>
+<script src="{{ url('assets/js/jquary-3.6.0.min.js') }}"></script>
+<script src="{{ url('assets/js/bootstrap-bundle.js') }}" ></script>
+<script src="{{ url('assets/js/imagesloaded-pkgd.js') }}" ></script>
+<script src="{{ url('assets/js/waypoints.min.js') }}" ></script>
+<script src="{{ url('assets/js/venobox.min.js') }}" ></script>
+<script src="{{ url('assets/js/odometer.min.js') }}" ></script>
+<script src="{{ url('assets/js/meanmenu.js') }}" ></script>
+<script src="{{ url('assets/js/jquery.isotope.js') }}" ></script>
+<script src="{{ url('assets/js/nice-select.js') }}" ></script>
+<script src="{{ url('assets/js/easypiechart.min.js') }}" ></script>
+<script src="{{ url('assets/js/wow.min.js') }}" ></script>
+<script src="{{ url('assets/js/swiper.min.js') }}" ></script>
+<script src="{{ url('assets/js/smooth-scroll.js') }}" ></script>
+<script src="{{ url('assets/js/ajax-form.js') }}" ></script>
+<script src="{{ url('assets/js/main.js') }}" ></script>
 
 <!-- Ensure the preloader hides after a slight delay -->
 <script>

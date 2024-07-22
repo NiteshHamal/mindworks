@@ -299,7 +299,7 @@
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
                             <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Yearly</button>
                             <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Monthly</button>
-                            <a href={{url('pricing')}}><button class="nav-link" id="nav-profile-tab" type="button">More</button></a>
+                            <a href={{url('service')}}><button class="nav-link" id="nav-profile-tab" type="button">More</button></a>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
@@ -311,7 +311,7 @@
                                             <img src="{{url('assets/img/pricing-1.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Starter Plan</span>
+                                            <span class="sub-title">Basic Plan</span>
                                             <h3 class="title">$19 <span>/mo</span></h3>
                                             <p>Lorem Ipsum is simply dummy.</p>
                                             <ul class="pricing-list">
@@ -330,7 +330,7 @@
                                             <img src="{{url('assets/img/pricing-2.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Platinum Plan</span>
+                                            <span class="sub-title">Advance Plan</span>
                                             <h3 class="title">$39 <span>/mo</span></h3>
                                             <p>Lorem Ipsum is simply dummy.</p>
                                             <ul class="pricing-list">
@@ -349,7 +349,7 @@
                                             <img src="{{url('assets/img/pricing-3.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Gold Plan</span>
+                                            <span class="sub-title">Premium Plan</span>
                                             <h3 class="title">$69 <span>/mo</span></h3>
                                             <p>Lorem Ipsum is simply dummy.</p>
                                             <ul class="pricing-list">
@@ -372,7 +372,7 @@
                                             <img src="{{url('assets/img/pricing-1.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Starter Plan</span>
+                                            <span class="sub-title">Basic Plan</span>
                                             <h3 class="title">$29 <span>/mo</span></h3>
                                             <p>Lorem Ipsum is simply dummy.</p>
                                             <ul class="pricing-list">
@@ -391,7 +391,7 @@
                                             <img src="{{url('assets/img/pricing-2.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Platinum Plan</span>
+                                            <span class="sub-title">Advance Plan</span>
                                             <h3 class="title">$49 <span>/mo</span></h3>
                                             <p>Lorem Ipsum is simply dummy.</p>
                                             <ul class="pricing-list">
@@ -410,7 +410,7 @@
                                             <img src="{{url('assets/img/pricing-3.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Gold Plan</span>
+                                            <span class="sub-title">Premium Plan</span>
                                             <h3 class="title">$89 <span>/mo</span></h3>
                                             <p>Lorem Ipsum is simply dummy.</p>
                                             <ul class="pricing-list">
