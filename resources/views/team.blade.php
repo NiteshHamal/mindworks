@@ -61,7 +61,7 @@
                                 </ul>
                             </div>
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">Ronald Richards</a></h3>
+                                <h3 class="title"><a href="team-details.html">Saroj Devkota</a></h3>
                                 <span>President of Sales</span>
                             </div>
                         </div>
