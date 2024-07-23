@@ -49,7 +49,7 @@
                                 <img src="{{url('assets/img/service-icon-1.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Social Media Marketing</a></h3>
+                                <h3 class="title"><a href="{{url('pricing/#social-media-marketing')}}">Social Media Marketing</a></h3>
                                 <p>Boost your online presence with targeted campaigns across various social media platforms.</p>
                             </div>
                             <div class="service-btn">
@@ -63,7 +63,7 @@
                                 <img src="{{url('assets/img/service-icon-2.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Search Engine Optimization </a></h3>
+                                <h3 class="title"><a href="{{url('pricing/#search-engine-optimization')}}">Search Engine Optimization </a></h3>
                                 <p>Improve your website's visibility and attract organic traffic with our comprehensive SEO strategies.</p>
                             </div>
                             <div class="service-btn">
@@ -77,7 +77,7 @@
                                 <img src="{{url('assets/img/service-icon-3.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Company Branding</a></h3>
+                                <h3 class="title"><a href="{{url('pricing/#company-branding')}}">Company Branding</a></h3>
                                 <p>Create a strong and memorable brand identity that deeply resonates with your target audience.</p>
                             </div>
                             <div class="service-btn">
@@ -91,7 +91,7 @@
                                 <img src="{{url('assets/img/service-icon-4.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Graphic Designing</a></h3>
+                                <h3 class="title"><a href="{{url('pricing/#graphic-designing')}}">Graphic Designing</a></h3>
                                 <p>Bring your ideas to life with visually stunning and effective graphic designs.</p>
                             </div>
                             <div class="service-btn">
@@ -105,7 +105,7 @@
                                 <img src="{{url('assets/img/service-icon-5.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Content Writing</a></h3>
+                                <h3 class="title"><a href="{{url('pricing/#content-writing')}}">Content Writing</a></h3>
                                 <p>Engage your audience with high-quality, well-crafted content tailored to your needs.</p>
                             </div>
                             <div class="service-btn">
@@ -119,7 +119,7 @@
                                 <img src="{{url('assets/img/service-icon-6.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service-details.html">Other Digital Services</a></h3>
+                                <h3 class="title"><a href="{{url('pricing/#other-digital-services')}}">Other Digital Services</a></h3>
                                 <p>Support your business growth with our wide range of digital services. </p>
                             </div>
                             <div class="service-btn">
