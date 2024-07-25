@@ -71,7 +71,12 @@
                                             <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
                                         </div>
                                         <div class="col-md-6">
-                                            <div class="nice-select select-control form-control country" tabindex="0"><span class="current">Sort by popular</span><ul class="list"><li data-value="" class="option selected focus">Sort by popular</li><li data-value="vdt" class="option">Plan One</li><li data-value="can" class="option">Plan Two</li><li data-value="uk" class="option">Plan Three</li></ul></div>
+                                                <select id="my-multiselect" multiple="multiple">
+                                                    <option value="1">Option 1</option>
+                                                    <option value="2">Option 2</option>
+                                                    <option value="3">Option 3</option>
+                                                    <option value="4">Option 4</option>
+                                                </select>
                                         </div>
                                     </div>
                                     <div class="form-group row">
@@ -95,5 +100,19 @@
         </div>
 
         @include('layouts.footer')
+
+          <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Include Select2 JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Initialize Select2 for the multi-select dropdown
+            $('#my-multiselect').select2({
+                placeholder: 'Select options',
+                allowClear: true
+            });
+        });
+    </script>
     </body>
 </html>

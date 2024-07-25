@@ -5398,7 +5398,7 @@ START: Theme Pricing CSS
 }
 .pricing-item .pricing-icon {
   background-color: var(--pb-color-common-white);
-  height: 100px;
+  height: 70px;
   width: 100px;
   display: flex;
   align-items: center;
@@ -5438,12 +5438,12 @@ START: Theme Pricing CSS
   font-weight: 400;
 }
 .pricing-item .pricing-content p {
-  margin-bottom: 25px;
+  margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 .pricing-item .pricing-content .pricing-list {
   list-style: none;
-  margin-bottom: 40px;
+  margin-bottom: 15px;
 }
 .pricing-item .pricing-content .pricing-list li {
   font-size: 16px;
