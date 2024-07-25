@@ -71,12 +71,21 @@
                                             <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
                                         </div>
                                         <div class="col-md-6">
-                                                <select id="my-multiselect" multiple="multiple">
+                                            <div class="nice-select select-control form-control country" tabindex="0">
+                                                <span class="current">Sort by popular</span>
+                                                {{-- <select id="my-multiselect" multiple="multiple">
                                                     <option value="1">Option 1</option>
                                                     <option value="2">Option 2</option>
                                                     <option value="3">Option 3</option>
                                                     <option value="4">Option 4</option>
-                                                </select>
+                                                </select> --}}
+                                                <ul class="list">
+                                                    <li data-value class="option selected focus"> Sort by popular</li>
+                                                    <li data-value="vdt" class="option ">Plan One</li>
+                                                    <li data-value="can" class="option ">Plan Two</li>
+                                                    <li data-value="uk" class="option ">Plan Three</li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="form-group row">
