@@ -5371,6 +5371,10 @@ START: Theme Pricing CSS
   border-radius: 20px;
   transition: all 0.3s ease-in-out;
   z-index: 1;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 @media (max-width: 1170px) {
   .pricing-item {
@@ -7188,6 +7192,11 @@ START: Theme Footer CSS
         width: 100%;
         text-align: center;
     }
+}
+
+
+.col-lg-4.col-md-6 {
+    display: flex;
 }
 /* !END: Theme Footer CSS */
 

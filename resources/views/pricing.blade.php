@@ -47,12 +47,12 @@
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
-                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
+                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#smm-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
+                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#smm-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade show active" id="smm-home" role="tabpanel" aria-labelledby="nav-home-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -150,7 +150,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="tab-pane fade" id="smm-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -225,12 +225,12 @@
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
-                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
+                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#seo-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
+                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#seo-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade show active" id="seo-home" role="tabpanel" aria-labelledby="nav-home-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -323,7 +323,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="tab-pane fade" id="seo-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -398,12 +398,12 @@
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
-                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
+                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#branding-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
+                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#branding-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade show active" id="branding-home" role="tabpanel" aria-labelledby="nav-home-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -513,7 +513,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="tab-pane fade" id="branding-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -588,12 +588,12 @@
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Yearly</button>
-                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Monthly</button>
+                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#graphic-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
+                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#graphic-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade show active" id="graphic-home" role="tabpanel" aria-labelledby="nav-home-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -654,7 +654,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="tab-pane fade" id="graphic-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -729,12 +729,12 @@
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Yearly</button>
-                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Monthly</button>
+                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#content-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
+                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#content-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade show active" id="content-home" role="tabpanel" aria-labelledby="nav-home-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -795,7 +795,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="tab-pane fade" id="content-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -870,12 +870,12 @@
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Yearly</button>
-                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Monthly</button>
+                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#other-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Montly</button>
+                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#other-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade show active" id="other-home" role="tabpanel" aria-labelledby="nav-home-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -936,7 +936,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="tab-pane fade" id="other-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                             <div class="row gy-lg-0 gy-4 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="pricing-item">
@@ -1002,6 +1002,9 @@
             </div>
         </section>
         <!-- ./ Other digital services pricing-section -->
+
+
+
 
         <div class="container-pricingform">
             <div class="headerpricing">
