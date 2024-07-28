@@ -55,7 +55,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="contact-form">
+                        {{-- <div class="contact-form">
                             <div class="request-form">
                                 <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
                                     <div class="form-group row">
@@ -73,12 +73,6 @@
                                         <div class="col-md-6">
                                             <div class="nice-select select-control form-control country" tabindex="0">
                                                 <span class="current">Sort by popular</span>
-                                                {{-- <select id="my-multiselect" multiple="multiple">
-                                                    <option value="1">Option 1</option>
-                                                    <option value="2">Option 2</option>
-                                                    <option value="3">Option 3</option>
-                                                    <option value="4">Option 4</option>
-                                                </select> --}}
                                                 <ul class="list">
                                                     <li data-value class="option selected focus"> Sort by popular</li>
                                                     <li data-value="vdt" class="option ">Plan One</li>
@@ -98,7 +92,49 @@
                                     </div>
                                 </form>
                             </div>
+                        </div> --}}
+                        <div class="contact-form">
+                            <div class="request-form">
+                                <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
+                                    <div class="form-group row">
+                                        <div class="col-md-6">
+                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-md-6">
+                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <!-- Add the multiple class here -->
+                                            <div class="nice-select select-control form-control country multiple" tabindex="0">
+                                                <div class="current-wrapper">
+                                                <span class="current">Select the Services..</span>
+                                                </div>
+                                                <ul class="list">
+                                                    <li data-value="vdt" class="option">Social Media Marketing</li>
+                                                    <li data-value="can" class="option">Plan Two</li>
+                                                    <li data-value="uk" class="option">Plan Three</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-md-12">
+                                            <textarea id="message" name="message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="submit-btn text-center">
+                                        <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
+                                    </div>
+                                </form>
+                            </div>
                         </div>
+
+
                     </div>
                 </div>
             </div>
@@ -109,19 +145,5 @@
         </div>
 
         @include('layouts.footer')
-
-          <!-- Include jQuery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <!-- Include Select2 JavaScript -->
-    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            // Initialize Select2 for the multi-select dropdown
-            $('#my-multiselect').select2({
-                placeholder: 'Select options',
-                allowClear: true
-            });
-        });
-    </script>
     </body>
 </html>
