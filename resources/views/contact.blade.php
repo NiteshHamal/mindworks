@@ -111,9 +111,7 @@
                                         <div class="col-md-6">
                                             <!-- Add the multiple class here -->
                                             <div class="nice-select select-control form-control country multiple" tabindex="0">
-                                                <div class="current-wrapper">
                                                 <span class="current">Select the Services..</span>
-                                                </div>
                                                 <ul class="list">
                                                     <li data-value="vdt" class="option">Social Media Marketing</li>
                                                     <li data-value="can" class="option">Plan Two</li>
@@ -145,5 +143,85 @@
         </div>
 
         @include('layouts.footer')
+
+        <script>
+document.addEventListener('DOMContentLoaded', function () {
+    const current = document.querySelector('.nice-select .current');
+
+    let isDown = false;
+    let startX;
+    let scrollLeft;
+
+    current.addEventListener('mousedown', (e) => {
+        isDown = true;
+        current.classList.add('active');
+        startX = e.pageX - current.offsetLeft;
+        scrollLeft = current.scrollLeft;
+    });
+
+    current.addEventListener('mouseleave', () => {
+        isDown = false;
+        current.classList.remove('active');
+    });
+
+    current.addEventListener('mouseup', () => {
+        isDown = false;
+        current.classList.remove('active');
+    });
+
+    current.addEventListener('mousemove', (e) => {
+        if (!isDown) return;
+        e.preventDefault();
+        const x = e.pageX - current.offsetLeft;
+        const walk = (x - startX) * 3; // Adjust scroll speed as needed
+        current.scrollLeft = scrollLeft - walk;
+    });
+
+    // Update the text content when options are selected
+    document.querySelectorAll('.nice-select .option').forEach(option => {
+        option.addEventListener('click', () => {
+            const selectedOptions = document.querySelectorAll('.nice-select .option.selected');
+            const selectedTexts = Array.from(selectedOptions).map(opt => opt.innerText).join(', ');
+            current.innerText = selectedTexts || 'Select the Services..';
+        });
+    });
+});
+
+        </script>
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+    const currentElement = document.querySelector('.nice-select .current');
+
+    let isDown = false;
+    let startX;
+    let scrollLeft;
+
+    currentElement.addEventListener('mousedown', (e) => {
+        isDown = true;
+        currentElement.classList.add('active');
+        startX = e.pageX - currentElement.offsetLeft;
+        scrollLeft = currentElement.scrollLeft;
+    });
+
+    currentElement.addEventListener('mouseleave', () => {
+        isDown = false;
+        currentElement.classList.remove('active');
+    });
+
+    currentElement.addEventListener('mouseup', () => {
+        isDown = false;
+        currentElement.classList.remove('active');
+    });
+
+    currentElement.addEventListener('mousemove', (e) => {
+        if (!isDown) return;
+        e.preventDefault();
+        const x = e.pageX - currentElement.offsetLeft;
+        const walk = (x - startX) * 3; //scroll-fast
+        currentElement.scrollLeft = scrollLeft - walk;
+    });
+});
+
+        </script>
     </body>
 </html>

@@ -7198,6 +7198,25 @@ START: Theme Footer CSS
 .col-lg-4.col-md-6 {
     display: flex;
 }
+
+
+/* contact form selector  */
+.nice-select .current {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto; /* Enables horizontal scrolling */
+    white-space: nowrap; /* Prevents text from wrapping */
+    padding: 5px;
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.nice-select .current::-webkit-scrollbar {
+    display: none;  /* Safari and Chrome */
+}
+
+
+
 /* !END: Theme Footer CSS */
 
 /*# sourceMappingURL=main.css.map */
