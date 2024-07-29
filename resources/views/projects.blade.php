@@ -67,7 +67,7 @@
                                     {{-- < a href="project-details.html" keep image inside> --}}
                                     <img src="{{url('assets/img/ashok-leyland.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
+                                        <h3 class="title">Ashok Leyland</h3>
                                         {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
                                     </div>
                                 </div>
@@ -78,7 +78,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/muktinath-bikash-bank.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Muktinath Biksash Bank</a></h3>
+                                        <h3 class="title">Muktinath Biksash Bank</h3>
                                     </div>
                                 </div>
                             </div>
@@ -88,7 +88,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/pillsburry1.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Pillsburry</a></h3>
+                                        <h3 class="title">Pillsburry</h3>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/pillsburry2.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Pillsburry</a></h3>
+                                        <h3 class="title">Pillsburry</h3>
                                     </div>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/oak-barrel.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Oak Barrel</a></h3>
+                                        <h3 class="title">Oak Barrel</h3>
                                     </div>
                                 </div>
                             </div>
@@ -118,7 +118,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/himalayan-danphe.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Himalayan Danphe</a></h3>
+                                        <h3 class="title">Himalayan Danphe</h3>
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/pure-sunflower-oil.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Pure Sunflower Oil</a></h3>
+                                        <h3 class="title">Pure Sunflower Oil</h3>
                                     </div>
                                 </div>
                             </div>
@@ -138,7 +138,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/saivee.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Saivee</a></h3>
+                                        <h3 class="title">Saivee</h3>
                                     </div>
                                 </div>
                             </div>
@@ -148,7 +148,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/catmandu.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Catmandu</a></h3>
+                                        <h3 class="title">Catmandu</h3>
                                     </div>
                                 </div>
                             </div>
@@ -158,7 +158,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
+                                        <h3 class="title">Ashok Leyland</h3>
                                     </div>
                                 </div>
                             </div>
@@ -168,7 +168,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/asis.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Asis</a></h3>
+                                        <h3 class="title">Asis</h3>
                                     </div>
                                 </div>
                             </div>
@@ -178,7 +178,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/delight-cookies.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Delight Cookies</a></h3>
+                                        <h3 class="title">Delight Cookies</h3>
                                     </div>
                                 </div>
                             </div>
@@ -188,7 +188,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/escorts.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Escorts</a></h3>
+                                        <h3 class="title">Escorts</h3>
                                     </div>
                                 </div>
                             </div>
@@ -198,7 +198,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/green-ply.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Green Ply</a></h3>
+                                        <h3 class="title">Green Ply</h3>
                                     </div>
                                 </div>
                             </div>
@@ -208,7 +208,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/livepure.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Livpure</a></h3>
+                                        <h3 class="title">Livpure</h3>
                                     </div>
                                 </div>
                             </div>
@@ -218,7 +218,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/mayur_ply.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Mayur Ply</a></h3>
+                                        <h3 class="title">Mayur Ply</h3>
                                     </div>
                                 </div>
                             </div>
@@ -228,7 +228,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/pillsbury3.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Pillsburry</a></h3>
+                                        <h3 class="title">Pillsburry</h3>
                                     </div>
                                 </div>
                             </div>
@@ -238,7 +238,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/um.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Um</a></h3>
+                                        <h3 class="title">Um</h3>
                                     </div>
                                 </div>
                             </div>
@@ -248,7 +248,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Care Nepal</a></h3>
+                                        <h3 class="title">Care Nepal</h3>
                                     </div>
                                 </div>
                             </div>
@@ -258,7 +258,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/chandragiri-hills.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Chandragiri Hills</a></h3>
+                                        <h3 class="title">Chandragiri Hills</h3>
                                     </div>
                                 </div>
                             </div>
@@ -268,7 +268,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/radio_on_wheels1.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                        <h3 class="title">Radio on Wheels</h3>
                                     </div>
                                 </div>
                             </div>
@@ -278,7 +278,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/radio_on_wheels2.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                        <h3 class="title">Radio on Wheels</h3>
                                     </div>
                                 </div>
                             </div>
@@ -288,7 +288,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/radio_on_wheels3.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                        <h3 class="title">Radio on Wheels</h3>
                                     </div>
                                 </div>
                             </div>
@@ -298,7 +298,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/radio_on_wheels4.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Radio on Wheels</a></h3>
+                                        <h3 class="title">Radio on Wheels</h3>
                                     </div>
                                 </div>
                             </div>
@@ -308,7 +308,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/united_cement.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">United Cement</a></h3>
+                                        <h3 class="title">United Cement</h3>
                                     </div>
                                 </div>
                             </div>

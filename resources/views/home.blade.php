@@ -221,7 +221,7 @@
                                     <div class="project-thumb">
                                         <img src="{{url('assets/img/saivee.jpg')}}" alt="project">
                                         <div class="project-content">
-                                            <h3 class="title"><a href="project-details.html">Saivee</a></h3>
+                                            <h3 class="title">Saivee</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -231,7 +231,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Ashok Leyland</a></h3>
+                                        <h3 class="title">Ashok Leyland</h3>
                                     </div>
                                 </div>
                             </div>
@@ -241,7 +241,7 @@
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Care Nepal</a></h3>
+                                        <h3 class="title">Care Nepal</h3>
                                     </div>
                                 </div>
                             </div>
