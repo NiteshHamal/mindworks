@@ -1003,58 +1003,100 @@
         </section>
         <!-- ./ Other digital services pricing-section -->
 
-
-
-
-        <div class="container-pricingform">
-            <div class="headerpricing">
-                <div class="section-heading text-center">
-                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Craft Your Ideal Plan with <span>Custom</span> Solutions!</h2>
-                </div>
-            </div>
-            <div class="main-content">
-                <div class="form-content">
-                    <div class="form-title">
-                        <h2>Customize Your Plan</h2>
-                    </div>
-                    <form>
-                        <div class="checkbox-group">
-                            <!-- Checkbox options here -->
-                            <label>
-                                <input type="checkbox" value="Social Media Marketing">
-                                Social Media Marketing
-                            </label>
-                            <label>
-                                <input type="checkbox" value="Company Branding">
-                                Company Branding
-                            </label>
-                            <label>
-                                <input type="checkbox" value="Content Writing">
-                                Content Writing
-                            </label>
-                            <label>
-                                <input type="checkbox" value="Search Engine Optimization">
-                                Search Engine Optimization
-                            </label>
-                            <label>
-                                <input type="checkbox" value="Graphic Designing">
-                                Graphic Designing
-                            </label>
-                            <label>
-                                <input type="checkbox" value="Other Digital Services">
-                                Other Digital Services
-                            </label>
+        <section class="request-section pb-120 pt-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="request-content">
+                            <div class="section-heading heading-2">
+                                <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Pricing</h4>
+                                <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Crast your ideal Plan with <span>Custom</span> Solutions</h2>
+                                <p class="wow fade-in-bottom" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
+                            </div>
+                            <div class="request-form">
+                                <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
+                                    <div class="form-group row">
+                                        <div class="col-md-6">
+                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-md-6">
+                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <!-- Add the multiple class here -->
+                                            <div class="nice-select select-control form-control country multiple" tabindex="0">
+                                                <span class="current">Select the Services..</span>
+                                                <ul class="list">
+                                                    <li data-value="vdt" class="option">Social Media Marketing</li>
+                                                    <li data-value="can" class="option">Plan Two</li>
+                                                    <li data-value="uk" class="option">Plan Three</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-md-12">
+                                            <textarea id="message" name="message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="submit-btn text-center">
+                                        <button id="submit" class="pb-primary-btn" type="submit">Send a messege</button>
+                                    </div>
+                                </form>
+                            </div>
                         </div>
-                        <textarea placeholder="If other please specify...."></textarea>
-                        <button type="submit">Submit</button>
-                    </form>
-                </div>
-                <div class="form-image">
-                    <img src="{{url('assets/img/request-img.png') }}" alt="Request Image">
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="request-img text-center">
+                            <img src="{{url('assets/img/request-img.png')}}" alt="img">
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
+        <!-- ./ request-section -->
 
         @include('layouts.footer')
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const currentElement = document.querySelector('.nice-select .current');
+
+                let isDown = false;
+                let startX;
+                let scrollLeft;
+
+                currentElement.addEventListener('mousedown', (e) => {
+                    isDown = true;
+                    currentElement.classList.add('active');
+                    startX = e.pageX - currentElement.offsetLeft;
+                    scrollLeft = currentElement.scrollLeft;
+                });
+
+                currentElement.addEventListener('mouseleave', () => {
+                    isDown = false;
+                    currentElement.classList.remove('active');
+                });
+
+                currentElement.addEventListener('mouseup', () => {
+                    isDown = false;
+                    currentElement.classList.remove('active');
+                });
+
+                currentElement.addEventListener('mousemove', (e) => {
+                    if (!isDown) return;
+                    e.preventDefault();
+                    const x = e.pageX - currentElement.offsetLeft;
+                    const walk = (x - startX) * 3; //scroll-fast
+                    currentElement.scrollLeft = scrollLeft - walk;
+                });
+            });
+
+        </script>
     </body>
 </html>
