@@ -53,7 +53,7 @@
             <div class="copyright-content">
                 <p>&copy; Mindworks 2024 | <span>info@mindworksme.com</span>, All Rights Reserved.</p>
                 <ul class="copy-list">
-                    <li><a href="{{ url('contact') }}">Terms & Condition</a></li>
+                    <li><a href="{{ url('terms-and-conditions') }}">Terms & Condition</a></li>
                     <li><a href="{{ url('contact') }}">Privacy Policy</a></li>
                     <li><a href="{{ url('contact') }}">Contact Us</a></li>
                 </ul>

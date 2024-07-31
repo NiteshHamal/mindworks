@@ -9,6 +9,8 @@ use App\Http\Controllers\TeamController;
 use App\Http\Controllers\PricingController;
 use App\Http\Controllers\FaqController;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\TermsController;
+
 
 
 Route::get('/', [HomeController::class, 'index']);
@@ -26,6 +28,9 @@ Route::get('pricing', [PricingController::class, 'index']);
 Route::get('faq', [FaqController::class, 'index']);
 
 Route::get('contact', [ContactController::class, 'index']);
+
+Route::get('terms-and-conditions', [TermsController::class, 'index']);
+
 
 
 
