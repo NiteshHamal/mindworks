@@ -6936,14 +6936,14 @@ START: Theme Footer CSS
 /* client logo section css */
 .client-logos-grid {
     position: relative;
-    
+
 }
 
 .client-logos-page {
     display: flex;
     flex-wrap: wrap;
     justify-content: center; /* Center items */
-    gap: 10px; /* Space between items */
+    gap: 5px; /* Space between items */
 }
 
 .client-logo-item {
