@@ -55,44 +55,6 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        {{-- <div class="contact-form">
-                            <div class="request-form">
-                                <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="nice-select select-control form-control country" tabindex="0">
-                                                <span class="current">Sort by popular</span>
-                                                <ul class="list">
-                                                    <li data-value class="option selected focus"> Sort by popular</li>
-                                                    <li data-value="vdt" class="option ">Plan One</li>
-                                                    <li data-value="can" class="option ">Plan Two</li>
-                                                    <li data-value="uk" class="option ">Plan Three</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-12">
-                                            <textarea id="message" name="message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="submit-btn text-center">
-                                        <button id="submit" class="pb-primary-btn" type="submit">Send a messege</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div> --}}
                         <div class="contact-form">
                             <div class="request-form">
                                 <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
@@ -113,9 +75,12 @@
                                             <div class="nice-select select-control form-control country multiple" tabindex="0">
                                                 <span class="current">Select the Services..</span>
                                                 <ul class="list">
-                                                    <li data-value="vdt" class="option">Social Media Marketing</li>
-                                                    <li data-value="can" class="option">Plan Two</li>
-                                                    <li data-value="uk" class="option">Plan Three</li>
+                                                    <li class="option">Social Media Marketing</li>
+                                                    <li class="option">Search Engine Optimization</li>
+                                                    <li class="option">Company Branding</li>
+                                                    <li class="option">Graphic Designing</li>
+                                                    <li class="option">Content Writing</li>
+                                                    <li class="option">Other Digital Services</li>
                                                 </ul>
                                             </div>
                                         </div>

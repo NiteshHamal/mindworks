@@ -1150,9 +1150,12 @@
                                             <div class="nice-select select-control form-control country multiple" tabindex="0">
                                                 <span class="current">Select the Services..</span>
                                                 <ul class="list">
-                                                    <li data-value="vdt" class="option">Social Media Marketing</li>
-                                                    <li data-value="can" class="option">Plan Two</li>
-                                                    <li data-value="uk" class="option">Plan Three</li>
+                                                    <li class="option">Social Media Marketing</li>
+                                                    <li class="option">Search Engine Optimization</li>
+                                                    <li class="option">Company Branding</li>
+                                                    <li class="option">Graphic Designing</li>
+                                                    <li class="option">Content Writing</li>
+                                                    <li class="option">Other Digital Services</li>
                                                 </ul>
                                             </div>
                                         </div>
