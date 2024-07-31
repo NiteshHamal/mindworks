@@ -6933,43 +6933,66 @@ START: Theme Footer CSS
 }
 
 
-.client-logos-section {
-    padding: 50px 0;
+/* client logo section css */
+.client-logos-grid {
+    position: relative;
+    
 }
 
-.client-logos-table {
+.client-logos-page {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
+    justify-content: center; /* Center items */
+    gap: 10px; /* Space between items */
 }
 
 .client-logo-item {
-    flex: 1 1 calc(20% - 40px); /* Five items per row with 20px gap */
-    border: 1px solid #ddd;
-    /* padding: 5px; Adjust padding as needed */
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    flex: 0 1 calc(20% - 10px); /* Adjust width to fit 5 items per row */
     box-sizing: border-box;
-    height: 100px; /* Fixed height for all items */
+    border: 1px solid #ddd; /* Border around each item */
+    background-color: #fff; /* Background color for items */
+    padding: 10px; /* Padding inside the border */
+    transition: box-shadow 0.3s ease; /* Smooth transition for box shadow */
+    height: 120px; /* Fixed height for the boxes */
 }
 
 .client-logo-item img {
     max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-    display: block;
-    max-width: 99px; /* Limit the maximum width of the image */
-    max-height: 100px; /* Limit the maximum height of the image */
-    filter: grayscale(100%); /* Convert image to black and white */
-    transition: filter 0.3s ease; /* Smooth transition for filter change */
+    max-height: 100%; /* Ensure the image doesn't exceed the box size */
+    object-fit: contain; /* Maintain aspect ratio */
 }
 
-.client-logo-item:hover img {
-    filter: grayscale(0%); /* Convert image to color on hover */
+.client-logo-item:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Shadow effect on hover */
 }
+
+.pagination-controls {
+    margin-top: 20px;
+}
+
+.pagination-controls button {
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.pagination-controls button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+
+
+
+/*  */
 
 
 .center-content {

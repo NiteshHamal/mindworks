@@ -85,6 +85,7 @@
 <script src="{{ url('assets/js/ajax-form.js') }}" ></script>
 <script src="{{ url('assets/js/main.js') }}" ></script>
 
+
 <!-- Ensure the preloader hides after a slight delay -->
 <script>
     document.addEventListener("DOMContentLoaded", function() {
