@@ -5433,8 +5433,8 @@ START: Theme Pricing CSS
   transition: all 0.3s ease-in-out;
 }
 .pricing-item .pricing-content .title {
-  font-size: 54px;
-  font-weight: 700;
+  font-size: 45px;
+  font-weight: 600;
   margin-bottom: 30px;
   transition: all 0.3s ease-in-out;
 }
@@ -5443,12 +5443,12 @@ START: Theme Pricing CSS
   font-weight: 400;
 }
 .pricing-item .pricing-content p {
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   transition: all 0.3s ease-in-out;
 }
 .pricing-item .pricing-content .pricing-list {
   list-style: none;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .pricing-item .pricing-content .pricing-list li {
   font-size: 16px;
@@ -5479,6 +5479,8 @@ START: Theme Pricing CSS
   text-align: center;
   position: relative;
   z-index: 1;
+  align-self: flex-end;
+  margin-top: auto;
 }
 .pricing-item .pricing-content .pricing-btn:before {
   background: var(--pb-color-gradient-1);
@@ -7239,6 +7241,13 @@ START: Theme Footer CSS
     display: none;  /* Safari and Chrome */
 }
 
+
+/* pricing content */
+.pricing-content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
 
 
 /* !END: Theme Footer CSS */

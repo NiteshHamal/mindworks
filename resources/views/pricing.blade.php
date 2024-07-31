@@ -158,14 +158,25 @@
                                             <img src="{{url('assets/img/pricing-1.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Basic Plan</span>
-                                            <h3 class="title">$29 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <span class="sub-title">Basic Plan:</span>
+                                            <h3 class="title">NPR.370,000<span>/yr</span></h3>
+                                            <p>Social Media Handling:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                            </ul>
+                                            <p>Promotional Campagin Development:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            </ul>
+                                            <p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>12 Graphic Deisgns</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                            </ul>
+                                            <p>Adaptations:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -178,13 +189,26 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Advance Plan</span>
-                                            <h3 class="title">$49 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.730,000<span>/yr</span></h3>
+                                            <p>Social Meida Handling:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>including standard query response*</li>
+                                            </ul>
+                                            <p>Promotional Campagin Development:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            </ul><p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>20 Graphic Deisgns</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1 Video (up to 15 sec.)</li>
+                                            </ul>
+                                            <p>Adaptations:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -197,13 +221,26 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Premium Plan</span>
-                                            <h3 class="title">$89 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.1,450,000<span>/yr</span></h3>
+                                            <p>Social Meida Handling:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>including query response*</li>
+                                            </ul>
+                                            <p>Promotional Campagin Development:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Once Detailed Development</li>
+                                            </ul><p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>25 Graphic Deisgns</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>3 GIFs</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>2 Video (up to 25 sec.)</li>
+                                            </ul>
+                                            <p>Adaptations:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Up to 3 Sizes per grahic</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -332,13 +369,20 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Basic Plan</span>
-                                            <h3 class="title">$29 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.490,000<span>/yr</span></h3>
+                                            <p>SEO Services:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Keyword research and analysis (up to 15 keywords)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>on-Page Optimization (up to 15 pages)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic SEO audit and recommendations</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic local SEO optimization</li>
+                                            </ul>
+                                            <p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Keyword research and analysis (up to 15 keywords)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>on-Page Optimization (up to 15 pages)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic SEO audit and recommendations</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic local SEO optimization</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -351,13 +395,20 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Standard Plan</span>
-                                            <h3 class="title">$49 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.850,000<span>/yr</span></h3>
+                                            <p>SEO Services:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive Keyword research and analysis (up to 25 keywords)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>on-Page Optimization (up to 20 pages)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advance Technical SEO audit and recommendations</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Content gap analysis and suggestions</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Off-page SEO </li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>SEO to improve online presence </li>
+                                            </ul>
+                                            <p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>8 SEO-optimization blog posts/articles (up to 1500 words each)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>20 meta link and description optimizations</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -370,13 +421,31 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Premium Plan</span>
-                                            <h3 class="title">$89 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.1,750,000<span>/yr</span></h3>
+                                            <p>SEO Services:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive Keyword research and analysis (up to 40 keywords)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>On-Page Optimization (up to 40 pages)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive Technical SEO audit and recommendations</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Content strategy development and implementation</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced Off-page SEO </li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Conversion Rate Optimization </li>
+                                            </ul>
+                                            <p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>12 SEO-optimization blog posts/articles (up to 1800 words each)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>300 meta link and description optimizations</li>
+                                            </ul>
+                                            <p>Monthly Reporting:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Detailed performance report with actionable insights and recommendations</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Competitor analysis and adjustments</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced analytics setup and reporting</li>
+                                            </ul>
+                                            <p>Additional Features:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Rank optimization for 15+ primary keywords</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Monthly strategy sessions with an SEO expert</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -522,13 +591,29 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Basic Plan</span>
-                                            <h3 class="title">$29 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.550,000<span>/yr</span></h3>
+                                            <p>Brand Strategy:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Discovery Session</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Brand Audit</li>
+                                            </ul>
+                                            <p>Visual Identity:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (2 concepts, 2 revisions)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Color Palette</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Typography</li>
+                                            </ul>
+                                            <p>Brand Guidelines:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Style Guide (logo usage, colors, typography)</li>
+                                            </ul>
+                                            <p>Stationary Design:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Business card, Letterhead, Envelope</li>
+                                            </ul>
+                                            <p>Digital Presence:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Social Media Kit (2 platforms)</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -540,14 +625,34 @@
                                             <img src="{{url('assets/img/pricing-2.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Advance Plan</span>
-                                            <h3 class="title">$49 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <span class="sub-title">Standard Plan</span>
+                                            <h3 class="title">NPR.790,000<span>/yr</span></h3>
+                                            <p>Brand Strategy:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive Audit</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Brand Positioning Statement</li>
+                                            </ul>
+                                            <p>Visual Identity:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (3 concepts, 3 revisions)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Expanded Color Palette and Typography</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Iconography</li>
+                                            </ul>
+                                            <p>Brand Guidelines:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive Style Guide (logo, colors, typography, visuals)</li>
+                                            </ul>
+                                            <p>Stationary and Collateral:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Business card</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Letterhead</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Envelope</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Brochure or Flyer</li>
+                                            </ul>
+                                            <p>Digital Presence:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Social Media Kit (3 platforms)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Website Branding Elements</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -560,13 +665,26 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Premium Plan</span>
-                                            <h3 class="title">$89 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.1,150,000<span>/yr</span></h3>
+                                            <p>Brand Strategy:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>In-depth Audit and strategy development</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Brand positioning and messaging framework</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Customer Personas development</li>
+                                            </ul><p>Visual Identity:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (5 concepts, Unlimited revisions)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Complete Visual Language (color paletts, typography, iconography, imagery)</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Custom illustrations or graphics</li>
+                                            </ul>
+                                            <p>Brand Guidelines:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Extensive Style Guide (voice, tone, visual style, application examples)</li>
+                                            </ul>
+                                            <p>Stationary and Collateral:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Complete suite of business stationery</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Multiple marketing collateral pieces (brochures, flyers, posters)</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
