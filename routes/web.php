@@ -29,8 +29,7 @@ Route::get('faq', [FaqController::class, 'index']);
 
 Route::get('contact', [ContactController::class, 'index']);
 
-Route::get('terms-and-conditions', [TermsController::class, 'index']);
-
+Route::get('terms-and-controller', [TermsController::class, 'index']);
 
 
 
