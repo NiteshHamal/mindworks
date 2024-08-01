@@ -106,16 +106,16 @@
                             <img src="{{url('assets/img/37.jpg')}}" alt="Godrej">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/32.jpg')}}" alt="JCB Logo">
+                            <img src="{{url('assets/img/29.jpg')}}" alt="Crompton">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/30.jpg')}}" alt="Hafele">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/31.jpg')}}" alt="Faber">
                         </div>
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/34.jpg')}}" alt="Mero Flight Logo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/24.jpg')}}" alt="KTM Logo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client1.jpg')}}" alt="Nepal Telecom">
                         </div>
                     </div>
                     <div class="client-logos-page" id="page2" style="display: none;">
@@ -203,13 +203,13 @@
                             <img src="{{url('assets/img/27.jpg')}}" alt="Fuji Electric">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/29.jpg')}}" alt="Crompton">
+                            <img src="{{url('assets/img/24.jpg')}}" alt="KTM Logo">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/30.jpg')}}" alt="Hafele">
+                            <img src="{{url('assets/img/client1.jpg')}}" alt="Nepal Telecom">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/31.jpg')}}" alt="Faber">
+                            <img src="{{url('assets/img/32.jpg')}}" alt="JCB Logo">
                         </div>
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/33.jpg')}}" alt="Mukthinath Bank">
@@ -232,9 +232,7 @@
             </div>
         </div>
 
-
         <!-- ./ sponsor-section -->
-
         <section class="about-section pb-120">
             <div class="container">
                 <div class="row align-items-center gy-lg-0 gy-4">
