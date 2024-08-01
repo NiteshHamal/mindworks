@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html class="no-js" lang="en">
     <head>
@@ -123,9 +122,6 @@
                 </ul>
             </div>
         </div>
-
-
-
         @include('layouts.footer')
     </body>
 </html>
