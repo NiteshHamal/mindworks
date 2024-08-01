@@ -9,8 +9,9 @@ use App\Http\Controllers\TeamController;
 use App\Http\Controllers\PricingController;
 use App\Http\Controllers\FaqController;
 use App\Http\Controllers\ContactController;
-use App\Http\Controllers\TermsController;
-use App\Http\Controllers\PrivacyController;
+use App\Http\Controllers\PrivacyPolicyController;
+use App\Http\Controllers\TermsandConditionController;
+
 
 
 
@@ -30,9 +31,10 @@ Route::get('faq', [FaqController::class, 'index']);
 
 Route::get('contact', [ContactController::class, 'index']);
 
-Route::get('terms_and_condition', [TermsController::class, 'index']);
+Route::get('privacy_policy', [PrivacyPolicyController::class, 'index']);
 
-Route::get('privacy_policy', [PrivacyController::class, 'index']);
+Route::get('terms_and_condition', [TermsandConditionController::class, 'index']);
+
 
 
 

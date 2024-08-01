@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class PrivacyController extends Controller
+class PrivacyPolicyController extends Controller
 {
     public function index(){
         return view('privacy_policy');
