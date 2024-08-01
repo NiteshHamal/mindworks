@@ -77,148 +77,6 @@
 
         <!-- ./ hero-section -->
 
-        {{-- <div class="client-logos-section" style="padding: 50px 0;">
-            <div class="section-heading text-center">
-                <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">We work with global giants and emerging <span>startups</span></h2>
-            </div>
-            <div class="container">
-                <div class="client-logos-wrapper">
-                    <div class="client-logos-table">
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/32.jpg')}}" alt="JCB Logo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/35.jpg')}}" alt="Mahindra Logo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/34.jpg')}}" alt="Mero Flight Logo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/38.jpg')}}" alt="LG">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/24.jpg')}}" alt="KTM Logo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client1.jpg')}}" alt="Nepal Telecom">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client2.jpg')}}" alt="IME Automotives">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client3.jpg')}}" alt="Green Ply">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/12.jpg')}}" alt="Mayur Ply">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client5.jpg')}}" alt="DishHome">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/40.jpg')}}" alt="Chandragiri Hills">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client7.jpg')}}" alt="Action Nepal">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/19.jpg')}}" alt="Ashok Leyland">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/6.jpg')}}" alt="Intex Logo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client10.jpg')}}" alt="Everest Equity">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/2.jpg')}}" alt="Skyworth">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/3.jpg')}}" alt="Kiozee">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/4.jpg')}}" alt="Delicious">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/7.jpg')}}" alt="Care">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/8.jpg')}}" alt="Greenlam">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/9.jpg')}}" alt="Asis">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/10.jpg')}}" alt="Cecolin">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/11.jpg')}}" alt="Sukam">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/13.jpg')}}" alt="Pasupati">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/14.jpg')}}" alt="Livpure">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/15.jpg')}}" alt="Everest">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/16.jpg')}}" alt="LuckyTravel">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/17.jpg')}}" alt="LuckyHoliday">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/18.jpg')}}" alt="Agni">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/20.jpg')}}" alt="Bajeko Sekuwa">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/21.jpg')}}" alt="IME Motors">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/22.jpg')}}" alt="United Cement">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/23.jpg')}}" alt="Radio Kantipur">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/25.jpg')}}" alt="Massimo">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/26.jpg')}}" alt="Smarten">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/27.jpg')}}" alt="Fuji Electric">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/29.jpg')}}" alt="Crompton">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/30.jpg')}}" alt="Hafele">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/31.jpg')}}" alt="Faber">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/33.jpg')}}" alt="Mukthinath Bank">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/36.jpg')}}" alt="TCL">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/37.jpg')}}" alt="Godrej">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/39.jpg')}}" alt="Biotech">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
-
-
         <div class="client-logos-section" style="padding: 50px 0;">
             <div class="section-heading text-center">
                 <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">
@@ -230,16 +88,28 @@
                     <!-- Add logos with pagination controls -->
                     <div class="client-logos-page" id="page1">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/32.jpg')}}" alt="JCB Logo">
-                        </div>
-                        <div class="client-logo-item">
                             <img src="{{url('assets/img/35.jpg')}}" alt="Mahindra Logo">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/34.jpg')}}" alt="Mero Flight Logo">
+                            <img src="{{url('assets/img/38.jpg')}}" alt="LG">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/38.jpg')}}" alt="LG">
+                            <img src="{{url('assets/img/40.jpg')}}" alt="Chandragiri Hills">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/2.jpg')}}" alt="Skyworth">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/36.jpg')}}" alt="TCL">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/37.jpg')}}" alt="Godrej">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/32.jpg')}}" alt="JCB Logo">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/34.jpg')}}" alt="Mero Flight Logo">
                         </div>
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/24.jpg')}}" alt="KTM Logo">
@@ -247,22 +117,10 @@
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/client1.jpg')}}" alt="Nepal Telecom">
                         </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client2.jpg')}}" alt="IME Automotives">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client3.jpg')}}" alt="Green Ply">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/12.jpg')}}" alt="Mayur Ply">
-                        </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/client5.jpg')}}" alt="DishHome">
-                        </div>
                     </div>
                     <div class="client-logos-page" id="page2" style="display: none;">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/40.jpg')}}" alt="Chandragiri Hills">
+                            <img src="{{url('assets/img/client5.jpg')}}" alt="DishHome">
                         </div>
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/client7.jpg')}}" alt="Action Nepal">
@@ -276,9 +134,7 @@
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/client10.jpg')}}" alt="Everest Equity">
                         </div>
-                        <div class="client-logo-item">
-                            <img src="{{url('assets/img/2.jpg')}}" alt="Skyworth">
-                        </div>
+
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/3.jpg')}}" alt="Kiozee">
                         </div>
@@ -290,6 +146,9 @@
                         </div>
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/8.jpg')}}" alt="Greenlam">
+                        </div>
+                        <div class="client-logo-item">
+                            <img src="{{url('assets/img/12.jpg')}}" alt="Mayur Ply">
                         </div>
                     </div>
                     <div class="client-logos-page" id="page3" style="display: none;">
@@ -358,10 +217,10 @@
                     </div>
                     <div class="client-logos-page" id="page5" style="display: none;">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/36.jpg')}}" alt="TCL">
+                            <img src="{{url('assets/img/client2.jpg')}}" alt="IME Automotives">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/37.jpg')}}" alt="Godrej">
+                            <img src="{{url('assets/img/client3.jpg')}}" alt="Green Ply">
                         </div>
                         <div class="client-logo-item">
                             <img src="{{url('assets/img/39.jpg')}}" alt="Biotech">
@@ -737,9 +596,6 @@
                 setInterval(nextPage, delay);
             });
         </script>
-
-
-
 
     </body>
 </html>

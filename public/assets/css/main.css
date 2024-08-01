@@ -6939,7 +6939,6 @@ START: Theme Footer CSS
 /* client logo section css */
 .client-logos-grid {
     position: relative;
-
 }
 
 .client-logos-page {
@@ -6959,7 +6958,7 @@ START: Theme Footer CSS
     background-color: #fff; /* Background color for items */
     padding: 10px; /* Padding inside the border */
     transition: box-shadow 0.3s ease; /* Smooth transition for box shadow */
-    height: 120px; /* Fixed height for the boxes */
+    height: 140px; /* Increased height for the boxes */
 }
 
 .client-logo-item img {
@@ -6972,24 +6971,20 @@ START: Theme Footer CSS
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Shadow effect on hover */
 }
 
-.pagination-controls {
-    margin-top: 20px;
+/* Media query for tablets and below */
+@media (max-width: 992px) {
+    .client-logo-item {
+        flex: 0 1 calc(33.33% - 10px); /* 3 items per row */
+        height: 160px; /* Increased height for tablets */
+    }
 }
 
-.pagination-controls button {
-    background-color: #007bff; /* Blue background */
-    color: white; /* White text */
-    border: none;
-    padding: 10px 20px;
-    margin: 0 5px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    transition: background-color 0.3s;
-}
-
-.pagination-controls button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
+/* Media query for mobile devices */
+@media (max-width: 576px) {
+    .client-logo-item {
+        flex: 0 1 calc(33.33% - 10px); /* 3 items per row */
+        height: 160px; /* Increased height for mobile */
+    }
 }
 
 
