@@ -65,57 +65,9 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bigmaster1.jpg')}}" alt="project">
+                                    <img src="{{url('assets/img/godrej.jpg')}}" alt="project">
                                     <div class="project-content">
-                                        <h3 class="title">Bigmaster</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bigmaster.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">BigMaster</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara2.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Rara</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Rara</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Rara</h3>
+                                        <h3 class="title">Godrej</h3>
                                         {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
                                     </div>
                                 </div>
@@ -181,6 +133,127 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/lg.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">LG</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/lg1.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">LG</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/skyworth.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">Skyworth</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/tcl.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">TCL</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/tcl1.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">TCL</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/bigmaster1.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">Bigmaster</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/bigmaster.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">BigMaster</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/rara2.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">Rara</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/rara1.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">Rara</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 single-item design">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    {{-- < a href="project-details.html" keep image inside> --}}
+                                    <img src="{{url('assets/img/rara.jpg')}}" alt="project">
+                                    <div class="project-content">
+                                        <h3 class="title">Rara</h3>
+                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
@@ -265,18 +338,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/godrej.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Godrej</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
@@ -284,30 +346,6 @@
                                     <img src="{{url('assets/img/hetauda-dairy.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title">Hetauda Dairy</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/lg.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">LG</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/lg1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">LG</h3>
                                         {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
                                     </div>
                                 </div>
@@ -361,42 +399,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/skyworth.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Skyworth</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">TCL</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item design">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">TCL</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
