@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class TermsController extends Controller
 {
     public function index(){
-        return view('termsandcondition');
+        return view('terms_and_condition');
     }
 }
