@@ -119,11 +119,11 @@
                                 <img src="{{url('assets/img/service-icon-6.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="{{url('pricing#other-digital-services')}}">Other Digital Services</a></h3>
-                                <p>Support your business growth with our wide range of digital services. </p>
+                                <h3 class="title"><a href="{{url('pricing#webdevelopment')}}">Web Development</a></h3>
+                                <p>Build a Robust Online Platform with Our Custom Web Development Solutions</p>
                             </div>
                             <div class="service-btn">
-                                <a href="{{url('pricing#other-digital-services')}}"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing#webdevelopment')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>

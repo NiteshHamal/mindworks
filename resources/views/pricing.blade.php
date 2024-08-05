@@ -980,10 +980,10 @@
         </section>
         <!-- ./ content writing pricing-section -->
 
-        <section class="pricing-section pb-50 pt-120 overflow-hidden" id="other-digital-services">
+        <section class="pricing-section pb-50 pt-120 overflow-hidden" id="webdevelopment">
             <div class="container">
                 <div class="section-heading text-center">
-                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Other Digital <span>Services</span></h2>
+                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Web <span>Development</span></h2>
                 </div>
                 <div class="pricing-tab wow fade-in-bottom" data-wow-delay="500ms">
                     <nav>
@@ -1119,7 +1119,7 @@
                 </div>
             </div>
         </section>
-        <!-- ./ Other digital services pricing-section -->
+        <!-- ./ Web Development services pricing-section -->
 
         <section class="request-section pb-120 pt-120">
             <div class="container">
@@ -1155,7 +1155,7 @@
                                                     <li class="option">Company Branding</li>
                                                     <li class="option">Graphic Designing</li>
                                                     <li class="option">Content Writing</li>
-                                                    <li class="option">Other Digital Services</li>
+                                                    <li class="option">Web Development</li>
                                                 </ul>
                                             </div>
                                         </div>

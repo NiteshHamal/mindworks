@@ -80,7 +80,7 @@
                                                     <li class="option">Company Branding</li>
                                                     <li class="option">Graphic Designing</li>
                                                     <li class="option">Content Writing</li>
-                                                    <li class="option">Other Digital Services</li>
+                                                    <li class="option">Web Development</li>
                                                 </ul>
                                             </div>
                                         </div>
