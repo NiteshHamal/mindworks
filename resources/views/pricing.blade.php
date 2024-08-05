@@ -1002,13 +1002,19 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Basic Plan</span>
-                                            <h3 class="title">$19 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.50,000<span>/mo</span></h3>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Responsive Design</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Custom Domain</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Contact From</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Social Media Integration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Google Maps Intergration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Analytics</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Content Management System</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Blog Setup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Accessibility Features</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1-month Basic Hosting Plan</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>SSL Certificate</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -1020,14 +1026,21 @@
                                             <img src="{{url('assets/img/pricing-2.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Advance Plan</span>
-                                            <h3 class="title">$39 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <span class="sub-title">Standard Plan</span>
+                                            <h3 class="title">NPR.100,000 <span>/mo</span></h3>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Everything in the Basic Package</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>CMS Integration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Analytics Setup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Blog Setup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>E-commerce Capability</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Enhanced Security</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Newsletter Integration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Custom Forms</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Training</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Testimonials and Reviews</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Portfolio Showcase</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1-month Standard Hosting plan</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -1040,13 +1053,21 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Premium Plan</span>
-                                            <h3 class="title">$69 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.150,000 <span>/mo</span></h3>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Everything in the Standard Package</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Custom Design</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced E-commerce</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Multi-language Support</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced Analytics</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Third-party Integrations</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Content Creation</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1-month Premium Hosting Plan</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced Custom Fonts</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Video Gallery</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>API Development</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Performance Optimization</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Backup and Recovery</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -1063,13 +1084,19 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Basic Plan</span>
-                                            <h3 class="title">$29 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.550,000<span>/yr</span></h3>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Responsive Design</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Custom Domain</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Contact From</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Social Media Integration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Google Maps Intergration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Analytics</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Content Management System</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Blog Setup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Accessibility Features</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1-year Basic Hosting Plan</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>SSL Certificate</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -1081,14 +1108,21 @@
                                             <img src="{{url('assets/img/pricing-2.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Advance Plan</span>
-                                            <h3 class="title">$49 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <span class="sub-title">Standard Plan</span>
+                                            <h3 class="title">NPR.1,150,000 <span>/yr</span></h3>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Everything in the Basic Package</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>CMS Integration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Analytics Setup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Blog Setup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>E-commerce Capability</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Enhanced Security</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Newsletter Integration</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Custom Forms</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Basic Training</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Testimonials and Reviews</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Portfolio Showcase</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1-year Standard Hosting plan</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -1101,13 +1135,21 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Premium Plan</span>
-                                            <h3 class="title">$89 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.1,700,000 <span>/mo</span></h3>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Everything in the Standard Package</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Custom Design</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced E-commerce</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Multi-language Support</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced Analytics</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Third-party Integrations</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Content Creation</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1-month Premium Hosting Plan</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Advanced Custom Fonts</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Video Gallery</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>API Development</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Performance Optimization</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Backup and Recovery</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
