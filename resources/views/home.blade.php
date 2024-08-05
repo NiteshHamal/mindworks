@@ -318,9 +318,11 @@
                         <div class="col-lg-4 col-md-6 single-item authority content">
                                 <div class="project-item">
                                     <div class="project-thumb">
-                                        <img src="{{url('assets/img/saivee.jpg')}}" alt="project">
+                                        {{-- < a href="project-details.html" keep image inside> --}}
+                                        <img src="{{url('assets/img/tcl3.jpg')}}" alt="project">
                                         <div class="project-content">
-                                            <h3 class="title">Saivee</h3>
+                                            <h3 class="title">TCL</h3>
+                                            {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
                                         </div>
                                     </div>
                                 </div>
@@ -508,14 +510,25 @@
                                             <img src="{{url('assets/img/pricing-1.png')}}" alt="icon">
                                         </div>
                                         <div class="pricing-content">
-                                            <span class="sub-title">Basic Plan</span>
-                                            <h3 class="title">$29 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <span class="sub-title">Basic Plan:</span>
+                                            <h3 class="title">NPR.370,000<span>/yr</span></h3>
+                                            <p>Social Media Handling:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                            </ul>
+                                            <p>Promotional Campagin Development:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            </ul>
+                                            <p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>12 Graphic Deisgns</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                            </ul>
+                                            <p>Adaptations:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -528,13 +541,26 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Advance Plan</span>
-                                            <h3 class="title">$49 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.730,000<span>/yr</span></h3>
+                                            <p>Social Meida Handling:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>including standard query response*</li>
+                                            </ul>
+                                            <p>Promotional Campagin Development:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            </ul><p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>20 Graphic Deisgns</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>1 Video (up to 15 sec.)</li>
+                                            </ul>
+                                            <p>Adaptations:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
@@ -547,13 +573,26 @@
                                         </div>
                                         <div class="pricing-content">
                                             <span class="sub-title">Premium Plan</span>
-                                            <h3 class="title">$89 <span>/mo</span></h3>
-                                            <p>Lorem Ipsum is simply dummy.</p>
+                                            <h3 class="title">NPR.1,450,000<span>/yr</span></h3>
+                                            <p>Social Meida Handling:</p>
                                             <ul class="pricing-list">
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Mistakes To Avoid</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Your Startup</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Knew About Fonts</li>
-                                                <li><i class="fa-regular fa-chevrons-right"></i>Winning Metric Startup</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>including query response*</li>
+                                            </ul>
+                                            <p>Promotional Campagin Development:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Once Detailed Development</li>
+                                            </ul><p>Content Deliverables:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>25 Graphic Deisgns</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>3 GIFs</li>
+                                                <li><i class="fa-regular fa-chevrons-right"></i>2 Video (up to 25 sec.)</li>
+                                            </ul>
+                                            <p>Adaptations:</p>
+                                            <ul class="pricing-list">
+                                                <li><i class="fa-regular fa-chevrons-right"></i>Up to 3 Sizes per grahic</li>
                                             </ul>
                                             <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                         </div>
