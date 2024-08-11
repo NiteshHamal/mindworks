@@ -57,7 +57,8 @@
                     <div class="col-lg-6">
                         <div class="contact-form">
                             <div class="request-form">
-                                <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
+                                {{-- <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
+                                    @csrf
                                     <div class="form-group row">
                                         <div class="col-md-6">
                                             <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
@@ -93,7 +94,48 @@
                                     <div class="submit-btn text-center">
                                         <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
                                     </div>
+                                </form> --}}
+                                <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
+                                    @csrf
+                                    <div class="form-group row">
+                                        <div class="col-md-6">
+                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-md-6">
+                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <!-- Add a hidden input to hold the selected services -->
+                                            <input type="hidden" id="selected_services" name="selected_services">
+                                            <div class="nice-select select-control form-control country multiple" tabindex="0">
+                                                <span class="current">Select the Services..</span>
+                                                <select name="services[]" id="services" multiple style="width: 200px;">
+                                                    <option value="Social Media Marketing">Social Media Marketing</option>
+                                                    <option value="Search Engine Optimization">Search Engine Optimization</option>
+                                                    <option value="Company Branding">Company Branding</option>
+                                                    <option value="Graphic Designing">Graphic Designing</option>
+                                                    <option value="Content Writing">Content Writing</option>
+                                                    <option value="Web Development">Web Development</option>
+                                                </select>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-md-12">
+                                            <textarea id="message" name="contact_message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="submit-btn text-center">
+                                        <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
+                                    </div>
                                 </form>
+
                             </div>
                         </div>
 
@@ -110,7 +152,7 @@
         @include('layouts.footer')
 
 
-        <script>
+        {{-- <script>
             document.addEventListener("DOMContentLoaded", function () {
                 const currentElement = document.querySelector('.nice-select .current');
 
@@ -144,6 +186,21 @@
                 });
             });
 
-        </script>
+        </script> --}}
+<script>
+    document.querySelector('form').addEventListener('submit', function(event) {
+    event.preventDefault();
+
+    const selectedOptions = Array.from(document.getElementById('services').selectedOptions)
+        .map(option => option.value);
+
+    console.log('Selected Services:', selectedOptions);
+
+    // Proceed with form submission or AJAX request
+});
+
+</script>
+
+
     </body>
 </html>
