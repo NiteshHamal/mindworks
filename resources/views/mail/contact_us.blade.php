@@ -70,7 +70,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Mero Vision</h1>
+            <h1>Mind Works</h1>
         </div>
         <div class="content">
             <p>Hello Mindworks Media,</p>
@@ -86,7 +86,7 @@
             <p>Please respond to this request at your earliest convenience.</p>
         </div>
         <div class="footer">
-            <p>&copy; 2024 Mero Vision. All rights reserved.</p>
+            <p>&copy; 2024 Minds Works. All rights reserved.</p>
         </div>
     </div>
 </body>
