@@ -86,34 +86,6 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
-                        <div class="service-item text-center wow fade-in-bottom" data-wow-delay="400ms">
-                            <div class="service-icon">
-                                <img src="{{url('assets/img/service-icon-4.png')}}" alt="service">
-                            </div>
-                            <div class="service-content">
-                                <h3 class="title"><a href="{{url('pricing#graphic-designing')}}">Graphic Designing</a></h3>
-                                <p>Bring your ideas to life with visually stunning and effective graphic designs.</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="{{url('pricing#graphic-designing')}}"><i class="fa-regular fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="service-item text-center wow fade-in-bottom" data-wow-delay="500ms">
-                            <div class="service-icon">
-                                <img src="{{url('assets/img/service-icon-5.png')}}" alt="service">
-                            </div>
-                            <div class="service-content">
-                                <h3 class="title"><a href="{{url('pricing#content-writing')}}">Content Writing</a></h3>
-                                <p>Engage your audience with high-quality, well-crafted content tailored to your needs.</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="{{url('pricing#content-writing')}}"><i class="fa-regular fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
                         <div class="service-item text-center wow fade-in-bottom" data-wow-delay="600ms">
                             <div class="service-icon">
                                 <img src="{{url('assets/img/service-icon-6.png')}}" alt="service">

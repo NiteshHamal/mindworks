@@ -57,7 +57,7 @@
                     <div class="col-lg-6">
                         <div class="contact-form">
                             <div class="request-form">
-                                {{-- <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
+                                <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
                                     @csrf
                                     <div class="form-group row">
                                         <div class="col-md-6">
@@ -69,21 +69,10 @@
                                     </div>
                                     <div class="form-group row">
                                         <div class="col-md-6">
-                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
+                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Your Phone">
                                         </div>
                                         <div class="col-md-6">
-                                            <!-- Add the multiple class here -->
-                                            <div class="nice-select select-control form-control country multiple" tabindex="0">
-                                                <span class="current">Select the Services..</span>
-                                                <ul class="list">
-                                                    <li class="option">Social Media Marketing</li>
-                                                    <li class="option">Search Engine Optimization</li>
-                                                    <li class="option">Company Branding</li>
-                                                    <li class="option">Graphic Designing</li>
-                                                    <li class="option">Content Writing</li>
-                                                    <li class="option">Web Development</li>
-                                                </ul>
-                                            </div>
+                                            <input type="text" id="address" name="address" class="form-control" placeholder="Your Address">
                                         </div>
                                     </div>
                                     <div class="form-group row">
@@ -94,8 +83,8 @@
                                     <div class="submit-btn text-center">
                                         <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
                                     </div>
-                                </form> --}}
-                                <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
+                                </form>
+                                {{-- <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
                                     @csrf
                                     <div class="form-group row">
                                         <div class="col-md-6">
@@ -134,7 +123,7 @@
                                     <div class="submit-btn text-center">
                                         <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
                                     </div>
-                                </form>
+                                </form> --}}
 
                             </div>
                         </div>
