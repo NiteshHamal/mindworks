@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html class="no-js" lang="en">
     <head>
@@ -84,46 +83,7 @@
                                         <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
                                     </div>
                                 </form>
-                                {{-- <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
-                                    @csrf
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <!-- Add a hidden input to hold the selected services -->
-                                            <input type="hidden" id="selected_services" name="selected_services">
-                                            <div class="nice-select select-control form-control country multiple" tabindex="0">
-                                                <span class="current">Select the Services..</span>
-                                                <select name="services[]" id="services" multiple style="width: 200px;">
-                                                    <option value="Social Media Marketing">Social Media Marketing</option>
-                                                    <option value="Search Engine Optimization">Search Engine Optimization</option>
-                                                    <option value="Company Branding">Company Branding</option>
-                                                    <option value="Graphic Designing">Graphic Designing</option>
-                                                    <option value="Content Writing">Content Writing</option>
-                                                    <option value="Web Development">Web Development</option>
-                                                </select>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-12">
-                                            <textarea id="message" name="contact_message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="submit-btn text-center">
-                                        <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
-                                    </div>
-                                </form> --}}
 
                             </div>
                         </div>
@@ -139,57 +99,6 @@
         </div>
 
         @include('layouts.footer')
-
-
-        {{-- <script>
-            document.addEventListener("DOMContentLoaded", function () {
-                const currentElement = document.querySelector('.nice-select .current');
-
-                let isDown = false;
-                let startX;
-                let scrollLeft;
-
-                currentElement.addEventListener('mousedown', (e) => {
-                    isDown = true;
-                    currentElement.classList.add('active');
-                    startX = e.pageX - currentElement.offsetLeft;
-                    scrollLeft = currentElement.scrollLeft;
-                });
-
-                currentElement.addEventListener('mouseleave', () => {
-                    isDown = false;
-                    currentElement.classList.remove('active');
-                });
-
-                currentElement.addEventListener('mouseup', () => {
-                    isDown = false;
-                    currentElement.classList.remove('active');
-                });
-
-                currentElement.addEventListener('mousemove', (e) => {
-                    if (!isDown) return;
-                    e.preventDefault();
-                    const x = e.pageX - currentElement.offsetLeft;
-                    const walk = (x - startX) * 3; //scroll-fast
-                    currentElement.scrollLeft = scrollLeft - walk;
-                });
-            });
-
-        </script> --}}
-<script>
-    document.querySelector('form').addEventListener('submit', function(event) {
-    event.preventDefault();
-
-    const selectedOptions = Array.from(document.getElementById('services').selectedOptions)
-        .map(option => option.value);
-
-    console.log('Selected Services:', selectedOptions);
-
-    // Proceed with form submission or AJAX request
-});
-
-</script>
-
 
     </body>
 </html>
