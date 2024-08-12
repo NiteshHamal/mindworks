@@ -919,6 +919,8 @@
                                                 </ul>
                                             </div>
                                         </div>
+                                        <!-- Hidden input to store the selected services -->
+                                        <input type="hidden" id="services" name="services">
                                     </div>
                                     <div class="form-group row">
                                         <div class="col-md-12">
@@ -977,7 +979,6 @@
                     currentElement.scrollLeft = scrollLeft - walk;
                 });
             });
-
         </script>
     </body>
 </html>
