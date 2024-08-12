@@ -25,7 +25,6 @@ class ContactUsCreateRequest extends FormRequest
             'fullname'=>['required'],
             'email'=>['required'],
             'phone'=>[ 'required'],
-            'services'=>['nullable'],
             'contact_message'=>['required']
         ];
     }

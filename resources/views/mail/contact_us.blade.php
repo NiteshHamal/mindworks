@@ -78,10 +78,9 @@
             <ul>
                 <li><strong>Name:</strong> {{ $fullname }}</li>
                 <li><strong>Email:</strong> {{ $email }}</li>
-                {{-- <li><strong>Subject:</strong> {{ $services }}</li> --}}
+                <li><strong>Phone:</Strong> {{ $phone }}</li>
             </ul>
             <p><strong>Message:</strong> {!! $contact_message !!}</p>
-
 
             <p>Please respond to this request at your earliest convenience.</p>
         </div>
