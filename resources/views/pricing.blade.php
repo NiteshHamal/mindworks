@@ -881,7 +881,7 @@
         </section>
         <!-- ./ Web Development services pricing-section -->
 
-        <section class="request-section pb-120 pt-120">
+        <section class="request-section pb-120 pt-120" id="custom-solutions">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">

@@ -3,6 +3,8 @@
 <html class="no-js" lang="en">
     <head>
         @include('layouts.header')
+
+        
     </head>
 
     <body>

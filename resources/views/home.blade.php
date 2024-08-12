@@ -3,6 +3,11 @@
 <html class="no-js" lang="en">
     <head>
         @include('layouts.header')
+        <style>
+            .counter-section {
+                padding: 40px 20px;
+            }
+        </style>
     </head>
 
     <body>
@@ -602,9 +607,23 @@
                         </div>
                     </div>
                 </div>
+                <section class="counter-section">
+                    <div class="container">
+                        <div class="row counter-wrap wrap-2 gy-lg-0 gy-4">
+                            <div class="section-heading text-center m-0">
+                                <h2 class="section-title wow fade-in-bottom mb-3" data-wow-delay="400ms" style="max-width: 800px">Want to <span>Customize</span> the plans?</h2>
+                                <a href="{{'pricing#custom-solutions'}}" class="pb-primary-btn primary-2 wow fade-in-bottom" data-wow-delay="600ms">Click Here!</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+                {{-- custom sections --}}
             </div>
         </section>
         <!-- ./ pricing-section -->
+
+
 
         @include('layouts.footer')
         <script>
