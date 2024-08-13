@@ -892,7 +892,8 @@
                                 <p class="wow fade-in-bottom" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt.</p>
                             </div>
                             <div class="request-form">
-                                <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
+                                <form action="{{url('custom-pricing')}}" method="post" id="ajax_contact" class="form-horizontal">
+                                    @csrf
                                     <div class="form-group row">
                                         <div class="col-md-6">
                                             <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
