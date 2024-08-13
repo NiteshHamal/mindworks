@@ -35,7 +35,7 @@ Route::get('privacy_policy', [PrivacyPolicyController::class, 'index']);
 
 Route::get('terms_and_condition', [TermsandConditionController::class, 'index']);
 
-Route::post('contact-us', [ContactController::class, 'sendEmail']);
+Route::post('contactmail', [ContactController::class, 'sendEmail']);
 
 Route::post('custom-pricing', [PricingController::class, 'sendMessage']);
 
