@@ -43,7 +43,7 @@
                 <div class="gallary-top">
                     <div class="section-heading sub-heading-color heading-3">
                         <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Gallery</h4>
-                        <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Showcasing Our Creative<span>Excellence</span></h2>
+                        <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Showcasing Our Creative <span>Excellence</span></h2>
                     </div>
                     <div class="gallary-right">
                         <p class="mb-0">Explore our diverse portfolio, where creativity meets innovation. Discover how we transform ideas into impactful visual experiences across various projects.</p>
@@ -695,4 +695,39 @@
         <!-- ./ project-section -->
 
         @include('layouts.footer')
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                // Isotope
+                var $grid = $(".filter-items").imagesLoaded(function () {
+                    // Initialize Isotope with the initial filter
+                    $grid.isotope({
+                        itemSelector: ".single-item",
+                        percentPosition: true,
+                        filter: ".design", // Set the initial filter to the first category
+                    });
+
+                    // Add isotope click function
+                    $(".project-filter-list .filter-item").on("click", function () {
+                        $(".project-filter-list .filter-item").removeClass("active");
+                        $(this).addClass("active");
+
+                        var selector = $(this).attr("data-filter");
+                        $grid.isotope({
+                            filter: selector,
+                            animationOptions: {
+                                duration: 750,
+                                easing: "linear",
+                                queue: false,
+                            },
+                        });
+                        return false;
+                    });
+
+                    // Set the initial active class on the first filter item
+                    $(".project-filter-list .filter-item").first().addClass("active");
+                });
+            });
+        </script>
+    </body>
 </html>

@@ -1306,6 +1306,10 @@ progress {
         flex: 0 0 auto;
         width: 33.33333333%;
     }
+    .services-items .col-lg-4 {
+        flex: 0 0 auto;
+        width: auto;
+    }
     .col-lg-5 {
         flex: 0 0 auto;
         width: 41.66666667%;

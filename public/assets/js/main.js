@@ -184,36 +184,35 @@
             });
         });
 
-        // Isotope
-$(".filter-items").imagesLoaded(function () {
-    // Initialize Isotope with the initial filter
-    var $grid = $(".filter-items").isotope({
-        itemSelector: ".single-item",
-        percentPosition: true,
-        filter: '.design',  // Set the initial filter to the first category
-    });
+        // // Isotope
+        // $(".filter-items").imagesLoaded(function () {
+        //     // Initialize Isotope with the initial filter
+        //     var $grid = $(".filter-items").isotope({
+        //         itemSelector: ".single-item",
+        //         percentPosition: true,
+        //         filter: ".design", // Set the initial filter to the first category
+        //     });
 
-    // Add isotope click function
-    $(".project-filter-list .filter-item").on("click", function () {
-        $(".project-filter-list .filter-item").removeClass("active");
-        $(this).addClass("active");
+        //     // Add isotope click function
+        //     $(".project-filter-list .filter-item").on("click", function () {
+        //         $(".project-filter-list .filter-item").removeClass("active");
+        //         $(this).addClass("active");
 
-        var selector = $(this).attr("data-filter");
-        $grid.isotope({
-            filter: selector,
-            animationOptions: {
-                duration: 750,
-                easing: "linear",
-                queue: false,
-            },
-        });
-        return false;
-    });
+        //         var selector = $(this).attr("data-filter");
+        //         $grid.isotope({
+        //             filter: selector,
+        //             animationOptions: {
+        //                 duration: 750,
+        //                 easing: "linear",
+        //                 queue: false,
+        //             },
+        //         });
+        //         return false;
+        //     });
 
-    // Set the initial active class on the first filter item
-    $(".project-filter-list .filter-item").first().addClass("active");
-});
-
+        //     // Set the initial active class on the first filter item
+        //     $(".project-filter-list .filter-item").first().addClass("active");
+        // });
 
         // Price range slider
         var priceRange = $("#price-range"),
@@ -338,17 +337,15 @@ $(".filter-items").imagesLoaded(function () {
             );
             return false;
         });
-
-
     });
 
-    document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener("DOMContentLoaded", function () {
         const texts = ["Marketing", "Branding", "Optimization"];
         let count = 0;
         let index = 0;
-        let currentText = '';
+        let currentText = "";
         let isDeleting = false;
-        const dynamicText = document.querySelector('.dynamic-text');
+        const dynamicText = document.querySelector(".dynamic-text");
 
         function type() {
             if (count === texts.length) {
@@ -379,11 +376,4 @@ $(".filter-items").imagesLoaded(function () {
 
         type();
     });
-
-
-
-
-
-
-
 })(jQuery);

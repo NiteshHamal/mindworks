@@ -2576,12 +2576,13 @@
     -webkit-transform-origin: 16% 16%;
             transform-origin: 16% 16%;
   }
+}
 /*
  * ----------------------------------------
  * Jump Animation
  * ----------------------------------------
  */
- 
+
 @-webkit-keyframes jump {
   20% {
     -webkit-transform: translateY(2%) scaleY(0.9);
