@@ -2974,7 +2974,7 @@ START: Theme Hero CSS
 @media only screen and (max-width: 767px) {
   .hero-content .title .shape-text .shape {
     top: -25px;
-    right: -30px;
+    right: -3commit0px;
   }
 }
 .hero-content p {
