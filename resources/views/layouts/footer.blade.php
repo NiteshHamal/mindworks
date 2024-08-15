@@ -10,7 +10,7 @@
                         </a>
                     </div>
                     <div class="section-heading heading-2">
-                        <h2 class="section-title">Drive us with <span>Effective</span> Online Marketing</h2>
+                        <h2 class="section-title">Let Us Drive Your Growth With Effective <span>Digital Marketing</span></h2>
                     </div>
                 </div>
             </div>

@@ -52,13 +52,13 @@
                     <div class="col-lg-6">
                         <div class="hero-content md-pb-20">
                             <h1 class="title tracking-in-expand wow fade-in-bottom" data-wow-delay="300ms">
-                                <span class="shape-text">Unlock Your Online <img class="shape" src="{{url('assets/img/hero-text-shape.png')}}" alt="shape"></span>
+                                <span class="shape-text">Transform Your Online <img class="shape" src="{{url('assets/img/hero-text-shape.png')}}" alt="shape"></span>
                                 <br>
                                 <span class="dynamic-text-container">
                                     <span class="dynamic-text gradient-text"></span>
                                 </span>
                             </h1>
-                            <p class="wow fade-in-bottom" data-wow-delay="500ms">Your Full-Service Creative and Digital Marketing Agency in Nepal – Specializing in Branding, Advertising, SEO, and Social Media for Brands</p>
+                            <p class="wow fade-in-bottom" data-wow-delay="500ms">We are a full-service creative agency specializing in innovative campaigns, memorable branding, impactful advertising, effective SEO, and engaging Social Media strategies.</p>
                             <a href="{{'pricing'}}" class="pb-primary-btn primary-2 wow fade-in-bottom" data-wow-delay="600ms">Learn More</a>
                             <div class="shapes">
                                 <div class="round-shape"><img src="{{url('assets/img/4.png')}}" alt="shape"></div>
@@ -261,14 +261,14 @@
                             <div class="shape wow fade-in-right" data-wow-delay="400ms"><img src="{{url('assets/img/about-shape-2.png')}}" alt="shape"></div>
                             <div class="section-heading heading-2">
                                 <h4 class="sub-heading wow fade-in-right" data-wow-delay="300ms">About Us</h4>
-                                <h2 class="section-title wow fade-in-right" data-wow-delay="400ms">Fueling Your <span>Business's</span> Evolution</h2>
-                                <p class="wow fade-in-right" data-wow-delay="500ms">We're dedicated to advancing your business through innovative branding, captivating advertising, powerful SEO, and engaging social media, creating experiences that truly resonate and drive your growth..</p>
+                                <h2 class="section-title wow fade-in-right" data-wow-delay="400ms">Empowering Your <span>Business</span> Growth with Innovative Digital Marketing Strategies</h2>
+                                <p class="wow fade-in-right" data-wow-delay="500ms">At Mindworks Media and Event Pvt. We propel businesses forward with marketing solutions tailored to your unique needs.  With 10+ years of Experience in Marketing, we offer customized marketing and creative solutions that help companies thrive in this competitive environment.</p>
                             </div>
                             <ul class="about-list wow fade-in-right" data-wow-delay="600ms">
-                                <li><i class="fa-regular fa-chevrons-right"></i>Strategic Designs</li>
-                                <li><i class="fa-regular fa-chevrons-right"></i>Creative Campaigns</li>
-                                <li><i class="fa-regular fa-chevrons-right"></i>Effective Solutions</li>
-                                <li><i class="fa-regular fa-chevrons-right"></i>Innovative Strategies</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>Social Media Marketing</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>SEO & SEM</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>Company Branding</li>
+                                <li><i class="fa-regular fa-chevrons-right"></i>And Many More</li>
                             </ul>
                             <a href="{{url('about')}}" class="pb-primary-btn wow fade-in-right" data-wow-delay="700ms">Read More</a>
                         </div>
@@ -286,14 +286,11 @@
                             <div class="section-heading heading-2">
                                 <h4 class="sub-heading wow fade-in-left" data-wow-delay="300ms">How We Do It</h4>
                                 <h2 class="section-title wow fade-in-left" data-wow-delay="400ms">Our Process of <span>Crafting</span> Excellence</h2>
-                                <p class="wow fade-in-left" data-wow-delay="500ms">We're more than just a digital agency; we're storytellers on a mission. Imagine us as your creative guides, charting the course while cherishing every milestone. Our team, a vibrant blend of passionate minds, collaborates to shape narratives that breathe life into your brand. We're not just about hitting targets; we aim to touch hearts and minds, crafting experiences that resonate deeply. From branding to SEO, we're here to fuel your growth and amplify your voice in the digital landscape. Join us on this journey, where every idea, every strategy, is infused with the human touch.</p>
+                                <p class="wow fade-in-left" data-wow-delay="500ms">We're more than just a digital marketing agency; we're storytellers on a mission. As your creative guides, we navigate your brand's journey with passion and precision, celebrating every milestone along the way. Our team, a dynamic blend of innovative and passionate minds collaborates to shape narratives that breathe life into your brand. We don’t just hit targets, we aim to touch hearts and minds, and craft experiences that resonate deeply with your customers.</p>
                             </div>
-                            <ul class="skill-list wow fade-in-right" data-wow-delay="600ms">
-                                <li><i class="fa-regular fa-chart-network"></i>Connect :- We engage with our clients to understand their vision and goals.</li>
-                                <li><i class="fa-regular fa-compass-drafting"></i>Draft :- We brainstorm and draft creative ideas that align with the client's brand.</li>
-                                <li><i class="fa-regular fa-ferris-wheel"></i>Build :- We develop and refine these ideas into cohesive, compelling stories.</li>
-                                <li><i class="fa-regular fa-person-dolly"></i>Deliver :- We ensure the final product resonates with the audience</li>
-                            </ul>
+                            <div class="skill-list wow fade-in-right" data-wow-delay="600ms">
+                                <i class="fa-regular fa-chart-network red"></i> Connect &nbsp;&nbsp; - &nbsp;&nbsp; <i class="fa-regular fa-compass-drafting green"></i> Draft &nbsp;&nbsp; - &nbsp;&nbsp; <i class="fa-regular fa-ferris-wheel yellow"></i> Build &nbsp;&nbsp; - &nbsp;&nbsp; <i class="fa-regular fa-person-dolly"></i> Deliver
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -348,41 +345,6 @@
                                     <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
                                     <div class="project-content">
                                         <h3 class="title">Care Nepal</h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row filter-items justify-content-center gy-lg-0 gy-4 mt-4">
-                        <div class="col-lg-4 col-md-6 single-item authority content">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-4.png')}}" alt="project"></a>
-                                    <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">International Authority</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item authority">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-5.png')}}" alt="project"></a>
-                                    <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Brand Strategy</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 single-item content">
-                            <div class="project-item">
-                                <div class="project-thumb">
-                                    <a href="project-details.html"><img src="{{url('assets/img/project-img-6.png')}}" alt="project"></a>
-                                    <div class="project-content">
-                                        <h3 class="title"><a href="project-details.html">Conversion Rate</a></h3>
-                                        <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p>
                                     </div>
                                 </div>
                             </div>
