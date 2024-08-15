@@ -2959,7 +2959,7 @@ START: Theme Hero CSS
 }
 @media only screen and (max-width: 767px) {
   .hero-content .title {
-    font-size: 40px;
+    font-size: 28px;
     max-width: 315px;
   }
 }
@@ -2974,7 +2974,7 @@ START: Theme Hero CSS
 @media only screen and (max-width: 767px) {
   .hero-content .title .shape-text .shape {
     top: -25px;
-    right: -40px;
+    right: -30px;
   }
 }
 .hero-content p {
