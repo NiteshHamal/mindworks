@@ -49,11 +49,11 @@
                                 <img src="{{url('assets/img/service-icon-1.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="{{url('pricing#social-media-marketing')}}">Social Media Marketing</a></h3>
+                                <h3 class="title"><a href="{{url('pricing')}}">Social Media Marketing</a></h3>
                                 <p>Boost your online presence with targeted campaigns across various social media platforms.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="{{url('pricing#social-media-marketing')}}"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -63,11 +63,11 @@
                                 <img src="{{url('assets/img/service-icon-2.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="{{url('pricing#search-engine-optimization')}}">Search Engine Optimization </a></h3>
+                                <h3 class="title"><a href="{{url('pricing')}}">Search Engine Optimization </a></h3>
                                 <p>Improve your website's visibility and attract organic traffic with our comprehensive SEO strategies.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="{{url('pricing#search-engine-optimization')}}"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -77,11 +77,11 @@
                                 <img src="{{url('assets/img/service-icon-3.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="{{url('pricing#company-branding')}}">Company Branding</a></h3>
+                                <h3 class="title"><a href="{{url('pricing')}}">Company Branding</a></h3>
                                 <p>Create a strong and memorable brand identity that deeply resonates with your target audience.</p>
                             </div>
                             <div class="service-btn">
-                                <a href="{{url('pricing#company-branding')}}"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -91,11 +91,11 @@
                                 <img src="{{url('assets/img/service-icon-6.png')}}" alt="service">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="{{url('pricing#webdevelopment')}}">Web Development</a></h3>
+                                <h3 class="title"><a href="{{url('pricing')}}">Web Development</a></h3>
                                 <p>Build a Robust Online Platform with Our Custom Web Development Solutions</p>
                             </div>
                             <div class="service-btn">
-                                <a href="{{url('pricing#webdevelopment')}}"><i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="{{url('pricing')}}"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
