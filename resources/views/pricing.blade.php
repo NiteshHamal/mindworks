@@ -433,34 +433,23 @@
                                                 </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan</span>
-                                                    <h3 class="title">NPR.490,000<span>/yr</span></h3>
-                                                    <p>SEO Services:</p>
+                                                    <h3 class="title">NPR.240,000<span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Keyword
-                                                            research and
-                                                            analysis (up to 15 keywords)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>on-Page
-                                                            Optimization (up to
-                                                            15 pages)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic SEO audit
-                                                            and
-                                                            recommendations</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic local SEO
-                                                            optimization</li>
-                                                    </ul>
-                                                    <p>Content Deliverables:</p>
-                                                    <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Keyword
-                                                            research and
-                                                            analysis (up to 15 keywords)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>on-Page
-                                                            Optimization (up to
-                                                            15 pages)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic SEO audit
-                                                            and
-                                                            recommendations</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic local SEO
-                                                            optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 15
+                                                            Keywords</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                            Analysis</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>URL and Image
+                                                            Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 Blog Article
+                                                        </li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Few Existing
+                                                            Content Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Site
+                                                            Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Link
+                                                            Building</li>
                                                     </ul>
                                                     <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                                 </div>
@@ -473,35 +462,23 @@
                                                 </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
-                                                    <h3 class="title">NPR.850,000<span>/yr</span></h3>
-                                                    <p>SEO Services:</p>
+                                                    <h3 class="title">NPR.480,000<span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive
-                                                            Keyword
-                                                            research and analysis (up to 25 keywords)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>on-Page
-                                                            Optimization (up to
-                                                            20 pages)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advance
-                                                            Technical SEO audit
-                                                            and recommendations</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Content gap
-                                                            analysis and
-                                                            suggestions</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Off-page SEO
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 30
+                                                            Keywords</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                            Analysis</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Meta Tag, URL,
+                                                            and Image Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>4 Blog Articles
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>SEO to improve
-                                                            online
-                                                            presence </li>
-                                                    </ul>
-                                                    <p>Content Deliverables:</p>
-                                                    <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>8
-                                                            SEO-optimization blog
-                                                            posts/articles (up to 1500 words each)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>20 meta link
-                                                            and
-                                                            description optimizations</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Existing
+                                                            Content Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site and Page
+                                                            Speed Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>High Authority
+                                                            Link Building</li>
                                                     </ul>
                                                     <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                                 </div>
@@ -514,55 +491,23 @@
                                                 </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
-                                                    <h3 class="title">NPR.1,750,000<span>/yr</span></h3>
-                                                    <p>SEO Services:</p>
+                                                    <h3 class="title">NPR.780,000<span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive
-                                                            Keyword
-                                                            research and analysis (up to 40 keywords)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>On-Page
-                                                            Optimization (up to
-                                                            40 pages)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive
-                                                            Technical SEO
-                                                            audit and recommendations</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Content
-                                                            strategy
-                                                            development and implementation</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced
-                                                            Off-page SEO </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Conversion Rate
-                                                            Optimization </li>
-                                                    </ul>
-                                                    <p>Content Deliverables:</p>
-                                                    <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>12
-                                                            SEO-optimization blog
-                                                            posts/articles (up to 1800 words each)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>300 meta link
-                                                            and
-                                                            description optimizations</li>
-                                                    </ul>
-                                                    <p>Monthly Reporting:</p>
-                                                    <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Detailed
-                                                            performance report
-                                                            with actionable insights and recommendations</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 60
+                                                            Keywords</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
                                                         <li><i class="fa-regular fa-chevrons-right"></i>Competitor
-                                                            analysis and
-                                                            adjustments</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced
-                                                            analytics setup
-                                                            and reporting</li>
-                                                    </ul>
-                                                    <p>Additional Features:</p>
-                                                    <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Rank
-                                                            optimization for 15+
-                                                            primary keywords</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Monthly
-                                                            strategy sessions
-                                                            with an SEO expert</li>
+                                                            Analysis and Backlink Analysis</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Meta Tag, URL,
+                                                            and Image Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>8 Blog Articles
+                                                        </li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Existing
+                                                            Content Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>Full TEchnical
+                                                            SEO Optimization</li>
+                                                        <li><i class="fa-regular fa-chevrons-right"></i>High Authority
+                                                            Link Building</li>
                                                     </ul>
                                                     <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                                 </div>
