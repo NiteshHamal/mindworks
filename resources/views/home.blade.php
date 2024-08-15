@@ -367,7 +367,7 @@
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
                             <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#smm-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
                             <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#smm-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
-                            <a href={{url('service')}}><button class="nav-link" id="nav-profile-tab" type="button">Explore All</button></a>
+                            <a href={{url('pricing')}}><button class="nav-link" id="nav-profile-tab" type="button">Explore All</button></a>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
