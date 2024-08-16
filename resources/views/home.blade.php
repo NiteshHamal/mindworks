@@ -289,7 +289,10 @@
                                 <p class="wow fade-in-left" data-wow-delay="500ms">We're more than just a digital marketing agency; we're storytellers on a mission. As your creative guides, we navigate your brand's journey with passion and precision, celebrating every milestone along the way. Our team, a dynamic blend of innovative and passionate minds collaborates to shape narratives that breathe life into your brand. We don’t just hit targets, we aim to touch hearts and minds, and craft experiences that resonate deeply with your customers.</p>
                             </div>
                             <div class="skill-list wow fade-in-right" data-wow-delay="600ms">
-                                <i class="fa-regular fa-chart-network red"></i> Connect &nbsp;&nbsp; - &nbsp;&nbsp; <i class="fa-regular fa-compass-drafting green"></i> Draft &nbsp;&nbsp; - &nbsp;&nbsp; <i class="fa-regular fa-ferris-wheel yellow"></i> Build &nbsp;&nbsp; - &nbsp;&nbsp; <i class="fa-regular fa-person-dolly"></i> Deliver
+                                <div><i class="fa-regular fa-chart-network red"></i>Connect</div>
+                                <div><i class="fa-regular fa-compass-drafting green"></i>Draft</div>
+                                <div><i class="fa-regular fa-ferris-wheel yellow"></i>Build</div>
+                                <div><i class="fa-regular fa-person-dolly"></i>Deliver</div>
                             </div>
                         </div>
                     </div>
