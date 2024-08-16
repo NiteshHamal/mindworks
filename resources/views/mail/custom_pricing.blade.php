@@ -82,7 +82,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Mind Works</h1>
+            <h1>Mindworks</h1>
         </div>
         <div class="content">
             <p>Hello Mindworks Media,</p>
@@ -91,6 +91,7 @@
                 <li><strong>Name:</strong> {{ $fullname }}</li>
                 <li><strong>Email:</strong> {{ $email }}</li>
                 <li><strong>Phone:</strong> {{ $phone }}</li>
+                <li><strong>Services:</strong> {{ $services }}</li>
             </ul>
             <p><strong>Message:</strong> {!! $contact_message !!}</p>
             <p>Please respond to this request at your earliest convenience.</p>

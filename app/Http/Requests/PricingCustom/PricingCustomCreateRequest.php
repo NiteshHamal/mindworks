@@ -26,7 +26,7 @@ class PricingCustomCreateRequest extends FormRequest
             'email'=>['required'],
             'phone'=>[ 'required'],
             'services'=>['required'],
-            'contact_message'=>['required']
+            'contact_message'=>['nullable']
         ];
     }
 }

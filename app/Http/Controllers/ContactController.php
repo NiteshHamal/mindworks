@@ -18,8 +18,10 @@ class ContactController extends Controller
         // dd($data);
 
         Mail::send('mail.contact_us', $data, function ($message) use ($data) {
-            $message->to('nitesh0hamal@gmail.com');
+            $message->to('info@minndworksme.com');
             $message->subject('Contact Us');
+            $message->replyTo($data['email']);
+
         });
 
         // sweetalert()->addSuccess('');

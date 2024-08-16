@@ -1180,8 +1180,8 @@
                                 </div>
                                 <div class="form-group row">
                                     <div class="col-md-12">
-                                        <textarea id="message" name="message" cols="30" rows="5" class="form-control address"
-                                            placeholder="Message" required=""></textarea>
+                                        <textarea id="message" name="contact_message" cols="30" rows="5" class="form-control address"
+                                            placeholder="Message"></textarea>
                                     </div>
                                 </div>
                                 <div class="submit-btn text-center">
