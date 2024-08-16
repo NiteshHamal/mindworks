@@ -56,7 +56,7 @@
                     <div class="col-lg-6">
                         <div class="contact-form">
                             <div class="request-form">
-                                <form action="{{url('contactmail')}}" method="post" id="ajax_contact" class="form-horizontal">
+                                <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
                                     @csrf
                                     <div class="form-group row">
                                         <div class="col-md-6">

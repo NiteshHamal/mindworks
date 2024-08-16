@@ -13,19 +13,4 @@ class PricingController extends Controller
         return view('pricing');
     }
 
-    public function sendMessage(PricingCustomCreateRequest $request) {
-
-        $data = $request->validated();
-
-        dd($data);
-
-
-        Mail::send('mail.custom_pricing', $data, function ($message) use ($data) {
-            $message->to('nitesh.mindworksme@gmail.com');
-            $message->subject('New Contact Us Message');
-        });
-
-        // sweetalert()->addSuccess('');
-        return back()->with('success','Contact has been send successfully!');
-    }
 }
