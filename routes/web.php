@@ -11,6 +11,7 @@ use App\Http\Controllers\FaqController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\PrivacyPolicyController;
 use App\Http\Controllers\TermsandConditionController;
+use App\Http\Controllers\FormController;
 use App\Http\Requests\ContactUs\ContactUsCreateRequest;
 
 
@@ -39,7 +40,6 @@ Route::get('terms_and_condition', [TermsandConditionController::class, 'index'])
 
 Route::post('contactus', [ContactController::class, 'sendEmail']);
 
-
-
+Route::get('form', [FormController::class, 'index']);
 
 

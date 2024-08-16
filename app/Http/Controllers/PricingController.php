@@ -13,6 +13,4 @@ class PricingController extends Controller
         return view('pricing');
     }
 
-    
-
 }
