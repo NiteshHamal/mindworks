@@ -56,7 +56,7 @@
                     <div class="col-lg-6">
                         <div class="contact-form">
                             <div class="request-form">
-                                <form action="{{url('contact-us')}}" method="post" id="ajax_contact" class="form-horizontal">
+                                <form action="{{url('contactus')}}" method="POST" id="ajax_contact" class="form-horizontal">
                                     @csrf
                                     <div class="form-group row">
                                         <div class="col-md-6">
@@ -76,7 +76,7 @@
                                     </div>
                                     <div class="form-group row">
                                         <div class="col-md-12">
-                                            <textarea id="message" name="message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
+                                            <textarea id="message" name="contact_message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
                                         </div>
                                     </div>
                                     <div class="submit-btn text-center">
@@ -91,7 +91,7 @@
         </section>
 
         <div class="map-wrapper">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8826.923787362664!2d-118.27754354757262!3d34.03471770929568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2sLos%20Angeles%2C%20California%2C%20Hoa%20K%E1%BB%B3!5e0!3m2!1svi!2s!4v1566525118697!5m2!1svi!2s" width="100%" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d524.0412785830342!2d85.31957026335881!3d27.68654705507272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1997bcf1739f%3A0x841ecf584e7cff8d!2sMindworks%20-%20Branding%20%7C%20Advertising%20%7C%20Digital%20%7C%20Ad%20films%20%7C%20Creative%20agency!5e0!3m2!1sen!2snp!4v1723785500504!5m2!1sen!2snp" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
         @include('layouts.footer')

@@ -15,20 +15,14 @@ class ContactController extends Controller
     public function sendEmail(ContactUsCreateRequest $request){
         $data = $request->validated();
 
-
-        dd($request->message);
-        // $selectedServices = $request->input('services', []);
-        // dd($selectedServices);
+        // dd($data);
 
         Mail::send('mail.contact_us', $data, function ($message) use ($data) {
-            $message->to('nitesh.mindworksme@gmail.com');
-            $message->subject('New Contact Us Message');
+            $message->to('nitesh0hamal@gmail.com');
+            $message->subject('Contact Us');
         });
 
         // sweetalert()->addSuccess('');
         return back()->with('success','Contact has been send successfully!');
-
-
-
     }
 }

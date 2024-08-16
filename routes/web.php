@@ -11,6 +11,8 @@ use App\Http\Controllers\FaqController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\PrivacyPolicyController;
 use App\Http\Controllers\TermsandConditionController;
+use App\Http\Requests\ContactUs\ContactUsCreateRequest;
+
 
 
 
@@ -35,9 +37,10 @@ Route::get('privacy_policy', [PrivacyPolicyController::class, 'index']);
 
 Route::get('terms_and_condition', [TermsandConditionController::class, 'index']);
 
-Route::post('contact-us', [ContactController::class, 'sendEmail']);
+Route::post('contactus', [ContactController::class, 'sendEmail']);
 
 Route::post('custom-pricing', [PricingController::class, 'sendMessage']);
+
 
 
 

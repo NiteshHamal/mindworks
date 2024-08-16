@@ -4,11 +4,11 @@
 <head>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f9f9f9;
+            font-family: 'Urbanist', sans-serif;
+            background-color: #F4F5F9;
             margin: 0;
             padding: 20px;
-            color: #333;
+            color: #6D6C79;
         }
 
         .container {
@@ -16,20 +16,22 @@
             margin: 0 auto;
             background-color: #ffffff;
             border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
             overflow: hidden;
         }
 
         .header {
-            background-color: #007bff;
+            background: linear-gradient(45deg, #FB5252, #57D288);
             color: #ffffff;
-            padding: 15px 20px;
+            padding: 20px;
             text-align: center;
+            border-bottom: 4px solid #FB5252;
         }
 
         .header h1 {
             margin: 0;
             font-size: 24px;
+            font-family: 'Urbanist', serif;
         }
 
         .content {
@@ -37,8 +39,9 @@
         }
 
         .content p {
-            margin: 0 0 10px;
+            margin: 0 0 15px;
             line-height: 1.6;
+            font-size: 16px;
         }
 
         .content ul {
@@ -47,22 +50,31 @@
         }
 
         .content ul li {
-            background-color: #f1f1f1;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 4px;
+            background-color: #ffffff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 6px;
+            border: 1px solid rgba(109, 108, 121, 0.2);
+            box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        .content ul li:hover {
+            background-color: #F4F5F9;
         }
 
         .footer {
-            background-color: #f1f1f1;
-            padding: 15px 20px;
+            background-color: #221F3F;
+            color: #ffffff;
+            padding: 15px;
             text-align: center;
+            border-top: 4px solid #57D288;
         }
 
         .footer p {
             margin: 0;
-            font-size: 14px;
-            color: #666;
+            font-size: 16px;
         }
     </style>
 </head>
@@ -76,16 +88,19 @@
             <p>Hello Mindworks Media,</p>
             <p>You have received a new contact request with the following details:</p>
             <ul>
-                <li><strong>Name:</strong> {{ $fullname }}</li>
+                {{-- <li><strong>Name:</strong> {{ $fullname }}</li>
                 <li><strong>Email:</strong> {{ $email }}</li>
-                <li><strong>Phone:</Strong> {{ $phone }}</li>
+                <li><strong>Phone:</strong> {{ $phone }}</li> --}}
+
+                <li><strong>Name:</strong> Nitesh Hamal</li>
+                <li><strong>Email:</strong> nitesh0hamal@gmail.com</li>
+                <li><strong>Phone:</strong> 9813371345</li>
             </ul>
             <p><strong>Message:</strong> {!! $contact_message !!}</p>
-
             <p>Please respond to this request at your earliest convenience.</p>
         </div>
         <div class="footer">
-            <p>&copy; 2024 Minds Works. All rights reserved.</p>
+            <p>&copy; 2024 Mind Works. All rights reserved.</p>
         </div>
     </div>
 </body>
