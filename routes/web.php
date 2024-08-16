@@ -39,8 +39,6 @@ Route::get('terms_and_condition', [TermsandConditionController::class, 'index'])
 
 Route::post('contactus', [ContactController::class, 'sendEmail']);
 
-Route::post('custom-pricing', [PricingController::class, 'sendMessage']);
-
 
 
 

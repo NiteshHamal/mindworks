@@ -1144,7 +1144,7 @@
                             </p>
                         </div>
                         <div class="request-form">
-                            <form action="{{ url('custom-pricing') }}" method="post" id="ajax_contact"
+                            <form action="{{ url('contactus') }}" method="post" id="ajax_contact"
                                 class="form-horizontal">
                                 @csrf
                                 <div class="form-group row">

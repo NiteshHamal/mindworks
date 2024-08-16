@@ -13,19 +13,6 @@ class PricingController extends Controller
         return view('pricing');
     }
 
-    public function sendMessage(PricingCustomCreateRequest $request){
-        $data = $request->validated();
-
-        Mail::send('mail.custom_pricing', $data, function ($message) use ($data) {
-            $message->to('info@mindworksme.com');
-            $message->subject('Custom Pricing');
-            $message->replyTo($data['email']);
-        });
-
-
-
-        // sweetalert()->addSuccess('');
-        return back()->with('success','Email has been send successfully!');
-    }
+    
 
 }

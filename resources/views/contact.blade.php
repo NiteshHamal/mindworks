@@ -56,33 +56,51 @@
                     <div class="col-lg-6">
                         <div class="contact-form">
                             <div class="request-form">
-                                <form action="{{url('contactus')}}" method="POST" id="ajax_contact" class="form-horizontal">
-                                    @csrf
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="fullname" name="fullname" class="form-control" placeholder="Your Name">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email">
+                                <form action="{{ url('contactus') }}" method="post" id="ajax_contact"
+                                class="form-horizontal">
+                                @csrf
+                                <div class="form-group row">
+                                    <div class="col-md-6">
+                                        <input type="text" id="fullname" name="fullname" class="form-control"
+                                            placeholder="Your Name">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="email" id="email" name="email" class="form-control"
+                                            placeholder="Your Email">
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <div class="col-md-6">
+                                        <input type="text" id="phone" name="phone" class="form-control"
+                                            placeholder="Phone">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <!-- Add the multiple class here -->
+                                        <div class="nice-select select-control form-control country multiple"
+                                            tabindex="0">
+                                            <span class="current">Select the Services..</span>
+                                            <ul class="list">
+                                                <li class="option">Social Media Marketing</li>
+                                                <li class="option">Search Engine Optimization</li>
+                                                <li class="option">Company Branding</li>
+                                                <li class="option">Web Development</li>
+                                            </ul>
                                         </div>
                                     </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-6">
-                                            <input type="text" id="phone" name="phone" class="form-control" placeholder="Your Phone">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <input type="text" id="address" name="address" class="form-control" placeholder="Your Address">
-                                        </div>
+                                    <!-- Hidden input to store the selected services -->
+                                    <input type="hidden" id="services" name="services">
+                                </div>
+                                <div class="form-group row">
+                                    <div class="col-md-12">
+                                        <textarea id="message" name="contact_message" cols="30" rows="5" class="form-control address"
+                                            placeholder="Message"></textarea>
                                     </div>
-                                    <div class="form-group row">
-                                        <div class="col-md-12">
-                                            <textarea id="message" name="contact_message" cols="30" rows="5" class="form-control address" placeholder="Message" required=""></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="submit-btn text-center">
-                                        <button id="submit" class="pb-primary-btn" type="submit">Send a message</button>
-                                    </div>
-                                </form>
+                                </div>
+                                <div class="submit-btn text-center">
+                                    <button id="submit" class="pb-primary-btn" type="submit">Send a
+                                        messege</button>
+                                </div>
+                            </form>
                             </div>
                         </div>
                     </div>
