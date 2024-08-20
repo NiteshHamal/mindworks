@@ -323,12 +323,8 @@
                         <div class="col-lg-4 col-md-6 single-item authority content">
                                 <div class="project-item">
                                     <div class="project-thumb">
-                                        {{-- < a href="project-details.html" keep image inside> --}}
                                         <img src="{{url('assets/img/tcl3.jpg')}}" alt="project">
-                                        <div class="project-content">
-                                            <h3 class="title">TCL</h3>
-                                            {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                        </div>
+
                                     </div>
                                 </div>
                         </div>
@@ -336,9 +332,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Ashok Leyland</h3>
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -346,9 +340,6 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Care Nepal</h3>
-                                    </div>
                                 </div>
                             </div>
                         </div>

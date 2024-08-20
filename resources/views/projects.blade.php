@@ -65,11 +65,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/godrej.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Godrej</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/godrej.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -77,11 +73,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl3.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">TCL</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/tcl3.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -89,11 +81,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl2.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">TCL</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/tcl2.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -101,11 +89,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/mahindra.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Mahindra</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/mahindra.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -113,11 +97,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/agni1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Agni</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/agni1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -125,11 +105,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/agni.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Agni</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/agni.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -137,11 +113,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/lg.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">LG</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/lg.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -149,11 +121,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/lg1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">LG</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/lg1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -161,11 +129,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/skyworth.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Skyworth</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/skyworth.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -173,11 +137,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">TCL</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/tcl.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -185,11 +145,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">TCL</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/tcl1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -197,11 +153,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bigmaster1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Bigmaster</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/bigmaster1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -209,11 +161,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bigmaster.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">BigMaster</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/bigmaster.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -221,11 +169,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara2.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Rara</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/rara2.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -233,11 +177,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Rara</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/rara1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -245,11 +185,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Rara</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/rara.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -258,11 +194,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bio-vodka1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Bio Tech Spirits</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/bio-vodka1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -270,11 +202,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bio-whiskey.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Bio Tech Spirits</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/bio-whiskey.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -282,11 +210,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/chandragiri_hills.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Chandragiri Hills</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/chandragiri_hills.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -294,11 +218,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/chandragiri_hills1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Chandragiri Hills</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/chandragiri_hills1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -306,11 +226,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/chandragiri_hills2.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Chandragiri Hills</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/chandragiri_hills2.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -318,11 +234,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/delight-cookie.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Delight Cookie</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/delight-cookie.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -330,11 +242,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/electrolux.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Electrolux</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/electrolux.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -343,11 +251,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/hetauda-dairy.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Hetauda Dairy</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/hetauda-dairy.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -355,11 +259,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/muktinath_bikash_bank.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Muktinath Bikash Bank</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/muktinath_bikash_bank.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -367,11 +267,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/muktinath_bikash_bank1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Muktinath Bikash Bank</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/muktinath_bikash_bank1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -379,11 +275,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/muktinath_bikash_bank2.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Muktinath Bikash Bank</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/muktinath_bikash_bank2.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -391,11 +283,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/radio_kantipur.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Radio Kantipur</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/radio_kantipur.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -404,11 +292,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/top_biscuit.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Pashupati Biscuits</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/top_biscuit.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -416,11 +300,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/ashok-leyland.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Ashok Leyland</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/ashok-leyland.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -428,251 +308,175 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bio-vodka.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Bio Tech Spirits</h3>
-                                        {{-- <p>Customer satisfaction is crucial for a des amohlodi business as it leads</p> --}}
-                                    </div>
+                                    <img src="{{url('assets/img/bio-vodka.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/muktinath-bikash-bank.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Muktinath Biksash Bank</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/muktinath-bikash-bank.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pillsburry1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Pillsburry</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/pillsburry1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pillsburry2.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Pillsburry</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/pillsburry2.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/oak-barrel.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Oak Barrel</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/oak-barrel.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/himalayan-danphe.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Himalayan Danphe</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/himalayan-danphe.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pure-sunflower-oil.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Pure Sunflower Oil</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/pure-sunflower-oil.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/saivee.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Saivee</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/saivee.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/catmandu.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Catmandu</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/catmandu.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Ashok Leyland</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/asis.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Asis</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/asis.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/delight-cookies.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Delight Cookies</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/delight-cookies.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/escorts.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Escorts</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/escorts.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/green-ply.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Green Ply</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/green-ply.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/livepure.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Livpure</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/livepure.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/mayur_ply.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Mayur Ply</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/mayur_ply.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pillsbury3.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Pillsburry</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/pillsbury3.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/um.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Um</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/um.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Care Nepal</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/chandragiri-hills.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Chandragiri Hills</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/chandragiri-hills.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels1.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Radio on Wheels</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/radio_on_wheels1.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels2.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Radio on Wheels</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/radio_on_wheels2.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels3.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Radio on Wheels</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/radio_on_wheels3.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels4.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">Radio on Wheels</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/radio_on_wheels4.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/united_cement.jpg')}}" alt="project">
-                                    <div class="project-content">
-                                        <h3 class="title">United Cement</h3>
-                                    </div>
+                                    <img src="{{url('assets/img/united_cement.jpg')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -680,7 +484,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                 <a href="https://gamalaghar.com/" target="_blank">
-                                    <img src="{{url('assets/img/gamalaghar.png')}}" alt="project">
+                                    <img src="{{url('assets/img/gamalaghar.png')}}" alt="project" loading="lazy">
                                     <div class="project-content">
                                         <h3 class="title"><a href="https://gamalaghar.com/" target="_blank">Gamalaghar</a></h3>
                                     </div>
