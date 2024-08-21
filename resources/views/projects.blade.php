@@ -65,7 +65,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/godrej.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/godrej.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl3.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/tcl3.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl2.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/tcl2.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/mahindra.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/mahindra.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/agni1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/agni1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/agni.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/agni.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -113,7 +113,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/lg.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/lg.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/lg1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/lg1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -129,7 +129,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/skyworth.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/skyworth.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/tcl.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -145,7 +145,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/tcl1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/tcl1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -153,7 +153,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bigmaster1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/bigmaster1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bigmaster.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/bigmaster.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -169,7 +169,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara2.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/rara2.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -177,7 +177,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/rara1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/rara.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/rara.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bio-vodka1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/bio-vodka1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bio-whiskey.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/bio-whiskey.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -210,7 +210,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/chandragiri_hills.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/chandragiri_hills.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -218,7 +218,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/chandragiri_hills1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/chandragiri_hills1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -226,7 +226,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/chandragiri_hills2.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/chandragiri_hills2.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -234,7 +234,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/delight-cookie.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/delight-cookie.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -242,7 +242,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/electrolux.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/electrolux.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/hetauda-dairy.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/hetauda-dairy.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/muktinath_bikash_bank.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/muktinath_bikash_bank.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -267,7 +267,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/muktinath_bikash_bank1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/muktinath_bikash_bank1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -275,7 +275,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/muktinath_bikash_bank2.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/muktinath_bikash_bank2.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -283,7 +283,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/radio_kantipur.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/radio_kantipur.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -292,7 +292,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/top_biscuit.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/top_biscuit.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -300,7 +300,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/ashok-leyland.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/ashok-leyland.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -308,175 +308,175 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                     {{-- < a href="project-details.html" keep image inside> --}}
-                                    <img src="{{url('assets/img/bio-vodka.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/bio-vodka.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/muktinath-bikash-bank.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/muktinath-bikash-bank.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pillsburry1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/pillsburry1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pillsburry2.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/pillsburry2.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/oak-barrel.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/oak-barrel.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/himalayan-danphe.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/himalayan-danphe.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pure-sunflower-oil.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/pure-sunflower-oil.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/saivee.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/saivee.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item design">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/catmandu.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/catmandu.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/ashok-leyland (1).webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/asis.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/asis.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/delight-cookies.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/delight-cookies.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/escorts.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/escorts.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/green-ply.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/green-ply.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/livepure.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/livepure.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/mayur_ply.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/mayur_ply.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/pillsbury3.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/pillsbury3.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item vfx">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/um.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/um.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/care_nepal.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/chandragiri-hills.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/chandragiri-hills.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels1.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/radio_on_wheels1.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels2.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/radio_on_wheels2.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels3.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/radio_on_wheels3.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/radio_on_wheels4.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/radio_on_wheels4.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 single-item event">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/united_cement.jpg')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/united_cement.webp')}}" alt="project" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -484,7 +484,7 @@
                             <div class="project-item">
                                 <div class="project-thumb">
                                 <a href="https://gamalaghar.com/" target="_blank">
-                                    <img src="{{url('assets/img/gamalaghar.png')}}" alt="project" loading="lazy">
+                                    <img src="{{url('assets/img/gamalaghar.webp')}}" alt="project" loading="lazy">
                                     <div class="project-content">
                                         <h3 class="title"><a href="https://gamalaghar.com/" target="_blank">Gamalaghar</a></h3>
                                     </div>
