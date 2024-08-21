@@ -93,142 +93,142 @@
                     <!-- Add logos with pagination controls -->
                     <div class="client-logos-page" id="page1">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/35.jpg')}}" alt="Mahindra Logo">
+                            <img src="{{url('assets/img/35.webp')}}" alt="Mahindra Logo">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/38.jpg')}}" alt="LG">
+                            <img src="{{url('assets/img/38.webp')}}" alt="LG">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/40.jpg')}}" alt="Chandragiri Hills">
+                            <img src="{{url('assets/img/40.webp')}}" alt="Chandragiri Hills">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/2.jpg')}}" alt="Skyworth">
+                            <img src="{{url('assets/img/2.webp')}}" alt="Skyworth">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/36.jpg')}}" alt="TCL">
+                            <img src="{{url('assets/img/36.webp')}}" alt="TCL">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/37.jpg')}}" alt="Godrej">
+                            <img src="{{url('assets/img/37.webp')}}" alt="Godrej">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/29.jpg')}}" alt="Crompton">
+                            <img src="{{url('assets/img/29.webp')}}" alt="Crompton">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/30.jpg')}}" alt="Hafele">
+                            <img src="{{url('assets/img/30.webp')}}" alt="Hafele">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/31.jpg')}}" alt="Faber">
+                            <img src="{{url('assets/img/31.webp')}}" alt="Faber">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/34.jpg')}}" alt="Mero Flight Logo">
+                            <img src="{{url('assets/img/34.webp')}}" alt="Mero Flight Logo">
                         </div>
                     </div>
                     <div class="client-logos-page" id="page2" style="display: none;">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/client5.jpg')}}" alt="DishHome">
+                            <img src="{{url('assets/img/client5.webp')}}" alt="DishHome">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/client7.jpg')}}" alt="Action Nepal">
+                            <img src="{{url('assets/img/client7.webp')}}" alt="Action Nepal">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/19.jpg')}}" alt="Ashok Leyland">
+                            <img src="{{url('assets/img/19.webp')}}" alt="Ashok Leyland">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/6.jpg')}}" alt="Intex Logo">
+                            <img src="{{url('assets/img/6.webp')}}" alt="Intex Logo">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/client10.jpg')}}" alt="Everest Equity">
+                            <img src="{{url('assets/img/client10.webp')}}" alt="Everest Equity">
                         </div>
 
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/3.jpg')}}" alt="Kiozee">
+                            <img src="{{url('assets/img/3.webp')}}" alt="Kiozee">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/4.jpg')}}" alt="Delicious">
+                            <img src="{{url('assets/img/4.webp')}}" alt="Delicious">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/7.jpg')}}" alt="Care">
+                            <img src="{{url('assets/img/7.webp')}}" alt="Care">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/8.jpg')}}" alt="Greenlam">
+                            <img src="{{url('assets/img/8.webp')}}" alt="Greenlam">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/12.jpg')}}" alt="Mayur Ply">
+                            <img src="{{url('assets/img/12.webp')}}" alt="Mayur Ply">
                         </div>
                     </div>
                     <div class="client-logos-page" id="page3" style="display: none;">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/9.jpg')}}" alt="Asis">
+                            <img src="{{url('assets/img/9.webp')}}" alt="Asis">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/10.jpg')}}" alt="Cecolin">
+                            <img src="{{url('assets/img/10.webp')}}" alt="Cecolin">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/11.jpg')}}" alt="Sukam">
+                            <img src="{{url('assets/img/11.webp')}}" alt="Sukam">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/13.jpg')}}" alt="Pasupati">
+                            <img src="{{url('assets/img/13.webp')}}" alt="Pasupati">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/14.jpg')}}" alt="Livpure">
+                            <img src="{{url('assets/img/14.webp')}}" alt="Livpure">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/15.jpg')}}" alt="Everest">
+                            <img src="{{url('assets/img/15.webp')}}" alt="Everest">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/16.jpg')}}" alt="LuckyTravel">
+                            <img src="{{url('assets/img/16.webp')}}" alt="LuckyTravel">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/17.jpg')}}" alt="LuckyHoliday">
+                            <img src="{{url('assets/img/17.webp')}}" alt="LuckyHoliday">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/18.jpg')}}" alt="Agni">
+                            <img src="{{url('assets/img/18.webp')}}" alt="Agni">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/20.jpg')}}" alt="Bajeko Sekuwa">
+                            <img src="{{url('assets/img/20.webp')}}" alt="Bajeko Sekuwa">
                         </div>
                     </div>
                     <div class="client-logos-page" id="page4" style="display: none;">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/21.jpg')}}" alt="IME Motors">
+                            <img src="{{url('assets/img/21.webp')}}" alt="IME Motors">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/22.jpg')}}" alt="United Cement">
+                            <img src="{{url('assets/img/22.webp')}}" alt="United Cement">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/23.jpg')}}" alt="Radio Kantipur">
+                            <img src="{{url('assets/img/23.webp')}}" alt="Radio Kantipur">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/25.jpg')}}" alt="Massimo">
+                            <img src="{{url('assets/img/25.webp')}}" alt="Massimo">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/26.jpg')}}" alt="Smarten">
+                            <img src="{{url('assets/img/26.webp')}}" alt="Smarten">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/27.jpg')}}" alt="Fuji Electric">
+                            <img src="{{url('assets/img/27.webp')}}" alt="Fuji Electric">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/24.jpg')}}" alt="KTM Logo">
+                            <img src="{{url('assets/img/24.webp')}}" alt="KTM Logo">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/client1.jpg')}}" alt="Nepal Telecom">
+                            <img src="{{url('assets/img/client1.webp')}}" alt="Nepal Telecom">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/32.jpg')}}" alt="JCB Logo">
+                            <img src="{{url('assets/img/32.webp')}}" alt="JCB Logo">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/33.jpg')}}" alt="Mukthinath Bank">
+                            <img src="{{url('assets/img/33.webp')}}" alt="Mukthinath Bank">
                         </div>
                     </div>
                     <div class="client-logos-page" id="page5" style="display: none;">
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/client2.jpg')}}" alt="IME Automotives">
+                            <img src="{{url('assets/img/client2.webp')}}" alt="IME Automotives">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/client3.jpg')}}" alt="Green Ply">
+                            <img src="{{url('assets/img/client3.webp')}}" alt="Green Ply">
                         </div>
                         <div class="client-logo-item">
-                            <img src="{{url('assets/img/39.jpg')}}" alt="Biotech">
+                            <img src="{{url('assets/img/39.webp')}}" alt="Biotech">
                         </div>
                     </div>
                     <!-- Add more pages as needed -->
@@ -323,7 +323,7 @@
                         <div class="col-lg-4 col-md-6 single-item authority content">
                                 <div class="project-item">
                                     <div class="project-thumb">
-                                        <img src="{{url('assets/img/tcl3.jpg')}}" alt="project">
+                                        <img src="{{url('assets/img/tcl3.webp')}}" alt="project">
 
                                     </div>
                                 </div>
@@ -331,7 +331,7 @@
                         <div class="col-lg-4 col-md-6 single-item authority">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/ashok-leyland (1).jpg')}}" alt="project">
+                                    <img src="{{url('assets/img/ashok-leyland (1).webp')}}" alt="project">
 
                                 </div>
                             </div>
@@ -339,7 +339,7 @@
                         <div class="col-lg-4 col-md-6 single-item content">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <img src="{{url('assets/img/care_nepal.jpg')}}" alt="project">
+                                    <img src="{{url('assets/img/care_nepal.webp')}}" alt="project">
                                 </div>
                             </div>
                         </div>
