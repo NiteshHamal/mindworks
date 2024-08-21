@@ -5367,7 +5367,7 @@ START: Theme Pricing CSS
 .pricing-item {
   background-color: var(--pb-color-grey-1);
   position: relative;
-  padding: 40px;
+  padding: 25px;
   border-radius: 20px;
   transition: all 0.3s ease-in-out;
   z-index: 1;
@@ -5424,26 +5424,29 @@ START: Theme Pricing CSS
 }
 .pricing-item .pricing-content .sub-title {
   color: var(--pb-color-heading-primary);
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
   display: block;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   line-height: 1;
   transition: all 0.3s ease-in-out;
+  align-self: center;
 }
 .pricing-item .pricing-content .title {
-  font-size: 45px;
-  font-weight: 600;
+  font-size: 40px;
+  font-weight: 500;
   margin-bottom: 30px;
   transition: all 0.3s ease-in-out;
+  align-self: center;
 }
 .pricing-item .pricing-content .title span {
   font-size: 16px;
   font-weight: 400;
 }
 .pricing-item .pricing-content p {
-  margin-bottom: 20px;
+  margin-bottom: 0;
   transition: all 0.3s ease-in-out;
+  font-weight: 700;
 }
 .pricing-item .pricing-content .pricing-list {
   list-style: none;
@@ -5455,7 +5458,7 @@ START: Theme Pricing CSS
   transition: all 0.3s ease-in-out;
 }
 .pricing-item .pricing-content .pricing-list li:not(:last-of-type) {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 .pricing-item .pricing-content .pricing-list li i {
   margin-right: 10px;

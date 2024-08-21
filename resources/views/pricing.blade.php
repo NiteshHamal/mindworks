@@ -80,9 +80,6 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan:</span>
                                                     <h3 class="title">NPR.35,000<span>/mo</span></h3>
@@ -117,9 +114,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.65,000<span>/mo</span></h3>
@@ -161,9 +155,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.125,000<span>/mo</span></h3>
@@ -212,9 +203,6 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan:</span>
                                                     <h3 class="title">NPR.370,000<span>/yr</span></h3>
@@ -248,9 +236,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.730,000<span>/yr</span></h3>
@@ -291,9 +276,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.1,450,000<span>/yr</span></h3>
@@ -357,9 +339,6 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.35,000<span>/mo</span></h3>
@@ -389,9 +368,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.55,000<span>/mo</span></h3>
@@ -421,9 +397,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.80,000<span>/mo</span></h3>
@@ -458,9 +431,6 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.240,000<span>/yr</span></h3>
@@ -490,9 +460,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.480,000<span>/yr</span></h3>
@@ -522,9 +489,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.780,000<span>/yr</span></h3>
@@ -575,9 +539,6 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.50,000<span>/mo</span></h3>
@@ -624,9 +585,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.70,000<span>/mo</span></h3>
@@ -682,9 +640,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.100,000<span>/mo</span></h3>
@@ -741,9 +696,6 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.550,000<span>/yr</span></h3>
@@ -790,9 +742,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.790,000<span>/yr</span></h3>
@@ -848,9 +797,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.1,150,000<span>/yr</span></h3>
@@ -922,9 +868,6 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.50,000<span>/mo</span></h3>
@@ -966,9 +909,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.100,000 <span>/mo</span></h3>
@@ -1009,9 +949,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.150,000 <span>/mo</span></h3>
@@ -1060,9 +997,7 @@
                                     <div class="row gy-lg-0 gy-4 justify-content-center">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-1.png') }}" alt="icon">
-                                                </div>
+
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.550,000<span>/yr</span></h3>
@@ -1104,9 +1039,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item active">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-2.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.1,150,000 <span>/yr</span></h3>
@@ -1148,9 +1080,6 @@
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="pricing-item">
-                                                <div class="pricing-icon">
-                                                    <img src="{{ url('assets/img/pricing-3.png') }}" alt="icon">
-                                                </div>
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.1,700,000 <span>/mo</span></h3>
