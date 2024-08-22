@@ -13,7 +13,7 @@
                             @foreach ([
                                 'Home' => '/',
                                 'About Us' => 'about',
-                                'Service' => 'service',
+                                'Services' => 'services',
                                 'Projects' => 'projects',
                                 'Team' => 'team',
                                 'Pricing' => 'pricing',

@@ -604,8 +604,12 @@ ul {
 }
 
 .bg-dark-1 {
-  background-color: #1d1d1d;
+  background-color: var(--pb-color-common-white);
 }
+
+/* .bg-dark-1 {
+    background-color: yellow;
+} */
 
 .bg-dark-light {
   background-color: #212121;
@@ -725,9 +729,7 @@ ul {
 .section-heading.heading-3 p {
   margin-top: 20px;
 }
-.section-heading.heading-4 .sub-heading {
-  color: var(--pb-color-theme-secondary);
-}
+
 .section-heading.heading-4 .section-title {
   max-width: 600px;
   width: 100%;
@@ -5433,9 +5435,9 @@ START: Theme Pricing CSS
   align-self: center;
 }
 .pricing-item .pricing-content .title {
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 500;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   transition: all 0.3s ease-in-out;
   align-self: center;
 }
@@ -5747,7 +5749,7 @@ START: Theme Promo CSS
 START: Theme Feature CSS
 ----------------------------------------*/
 .feature-section {
-  padding: 200px 0;
+  padding: 50px 0;
   overflow: hidden;
 }
 @media only screen and (max-width: 991px) {
@@ -5790,7 +5792,7 @@ START: Theme Feature CSS
 .feature-item .feature-left {
   display: flex;
   align-items: center;
-  column-gap: 100px;
+  column-gap: 50px;
 }
 @media only screen and (max-width: 991px) {
   .feature-item .feature-left {
@@ -5808,7 +5810,7 @@ START: Theme Feature CSS
   }
 }
 .feature-item .feature-left .title {
-  color: var(--pb-color-common-white);
+  color: var(--pb-color-common-black);
   font-size: 30px;
   font-weight: 600;
   margin-bottom: 0;
@@ -5819,7 +5821,7 @@ START: Theme Feature CSS
   }
 }
 .feature-item p {
-  color: rgba(255, 255, 255, 0.7);
+  color: var(--pb-color-common-black);
   margin-bottom: 0;
   max-width: 630px;
   width: 100%;

@@ -40,7 +40,73 @@
 
 
 
-        <section class="service-section service-page pt-120 pb-120">
+        <div class="feature-section bg-dark-1">
+            <div class="container">
+                <div class="section-heading heading-4">
+                    <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Services</h4>
+                    <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Dominate the <span>Digital</span> Landscape</h2>
+                </div>
+                <div class="feature-items">
+                    <div class="feature-item row align-items-center wow fade-in-bottom" data-wow-delay="400ms">
+                        <div class="col-md-6">
+                            <div class="feature-left">
+                                <div class="icon">
+                                    <img src="{{url('assets/img/feature-1.png')}}" alt="icon">
+                                </div>
+                                <h3 class="title">Social Media Marketing</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p>Boost your online presence with targeted campaigns across various social media platforms.</p>
+                        </div>
+                    </div>
+                    <div class="feature-item row align-items-center wow fade-in-bottom" data-wow-delay="500ms">
+                        <div class="col-md-6">
+                            <div class="feature-left">
+                                <div class="icon">
+                                    <img src="{{url('assets/img/feature-2.png')}}" alt="icon">
+                                </div>
+                                <h3 class="title">Search Engine Optimization</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet</p>
+                        </div>
+                    </div>
+                    <div class="feature-item row align-items-center wow fade-in-bottom" data-wow-delay="600ms">
+                        <div class="col-md-6">
+                            <div class="feature-left">
+                                <div class="icon">
+                                    <img src="{{url('assets/img/feature-3.png')}}" alt="icon">
+                                </div>
+                                <h3 class="title">Company Branding</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet</p>
+                        </div>
+                    </div>
+                    <div class="feature-item row align-items-center wow fade-in-bottom" data-wow-delay="600ms">
+                        <div class="col-md-6">
+                            <div class="feature-left">
+                                <div class="icon">
+                                    <img src="{{url('assets/img/feature-4.png')}}" alt="icon">
+                                </div>
+                                <h3 class="title">Web Development</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ./ feature-section -->
+
+
+
+        {{-- <section class="service-section service-page pt-120 pb-120">
             <div class="container">
                 <div class="row justify-content-center gy-4">
                     <div class="col-lg-4 col-md-6">
@@ -102,7 +168,7 @@
                 </div>
             </div>
         </section>
-        <!-- ./ service-section -->
+        <!-- ./ service-section --> --}}
 
         @include('layouts.footer')
     </body>
