@@ -5650,7 +5650,7 @@ START: Theme Pricing CSS
     transition: all 0.3s ease-in-out;
 }
 .pricing-item .pricing-content .pricing-list li:not(:last-of-type) {
-    margin-bottom: 12px;
+    margin-bottom: 0;
 }
 .pricing-item .pricing-content .pricing-list li i {
     margin-right: 10px;

@@ -404,21 +404,21 @@
                                         <h3 class="title">NPR.35,000<span>/mo</span></h3>
                                         <p>Social Media Handling:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                         </ul>
                                         <p>Promotional Campagin Development:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            <li><i class="fa-solid fa-circle-small"></i> Basic Development</li>
                                         </ul>
                                         <p>Content Deliverables:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>12 Graphic Deisgns</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>12 Graphic Deisgns</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes</li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                     </div>
@@ -431,26 +431,26 @@
                                         <h3 class="title">NPR.65,000<span>/mo</span></h3>
                                         <p>Social Meida Handling:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>including standard query
+                                            <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>including standard query
                                                 response*</li>
                                         </ul>
                                         <p>Promotional Campagin Development:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Once Basic Development</li>
                                         </ul>
                                         <p>Content Deliverables:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>20 Graphic Deisgns</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>1 Video (up to 15 sec.)
+                                            <li><i class="fa-solid fa-circle-small"></i>20 Graphic Deisgns</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>1 Video (up to 15 sec.)
                                             </li>
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes</li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                     </div>
@@ -463,27 +463,27 @@
                                         <h3 class="title">NPR.125,000<span>/mo</span></h3>
                                         <p>Social Meida Handling:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>including query response*
+                                            <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>including query response*
                                             </li>
                                         </ul>
                                         <p>Promotional Campagin Development:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Once Detailed Development
+                                            <li><i class="fa-solid fa-circle-small"></i>Once Detailed Development
                                             </li>
                                         </ul>
                                         <p>Content Deliverables:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>25 Graphic Deisgns</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>3 GIFs</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>2 Video (up to 25 sec.)
+                                            <li><i class="fa-solid fa-circle-small"></i>25 Graphic Deisgns</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>3 GIFs</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>2 Video (up to 25 sec.)
                                             </li>
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Up to 3 Sizes per grahic
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes per grahic
                                             </li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>
@@ -501,21 +501,21 @@
                                         <h3 class="title">NPR.370,000<span>/yr</span></h3>
                                         <p>Social Media Handling:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                         </ul>
                                         <p>Promotional Campagin Development:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Once Basic Development</li>
                                         </ul>
                                         <p>Content Deliverables:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>12 Graphic Deisgns</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>12 Graphic Deisgns</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes</li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                     </div>
@@ -528,26 +528,26 @@
                                         <h3 class="title">NPR.730,000<span>/yr</span></h3>
                                         <p>Social Meida Handling:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>including standard query
+                                            <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>including standard query
                                                 response*</li>
                                         </ul>
                                         <p>Promotional Campagin Development:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Once Basic Development</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Once Basic Development</li>
                                         </ul>
                                         <p>Content Deliverables:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>20 Graphic Deisgns</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>1 Video (up to 15 sec.)
+                                            <li><i class="fa-solid fa-circle-small"></i>20 Graphic Deisgns</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>1 Video (up to 15 sec.)
                                             </li>
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes</li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>
                                     </div>
@@ -560,27 +560,27 @@
                                         <h3 class="title">NPR.1,450,000<span>/yr</span></h3>
                                         <p>Social Meida Handling:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>including query response*
+                                            <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>including query response*
                                             </li>
                                         </ul>
                                         <p>Promotional Campagin Development:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Once Detailed Development
+                                            <li><i class="fa-solid fa-circle-small"></i>Once Detailed Development
                                             </li>
                                         </ul>
                                         <p>Content Deliverables:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>25 Graphic Deisgns</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>3 GIFs</li>
-                                            <li><i class="fa-regular fa-chevrons-right"></i>2 Video (up to 25 sec.)
+                                            <li><i class="fa-solid fa-circle-small"></i>25 Graphic Deisgns</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>3 GIFs</li>
+                                            <li><i class="fa-solid fa-circle-small"></i>2 Video (up to 25 sec.)
                                             </li>
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-regular fa-chevrons-right"></i>Up to 3 Sizes per grahic
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes per grahic
                                             </li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>

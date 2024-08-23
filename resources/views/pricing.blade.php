@@ -85,23 +85,23 @@
                                                     <h3 class="title">NPR.35,000<span>/mo</span></h3>
                                                     <p>Social Media Handling:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                                     </ul>
                                                     <p>Promotional Campagin Development:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Once Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>Once Basic
                                                             Development</li>
                                                     </ul>
                                                     <p>Content Deliverables:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>12 Graphic
+                                                        <li><i class="fa-solid fa-circle-small"></i>12 Graphic
                                                             Deisgns</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
                                                     </ul>
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes
+                                                        <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -119,30 +119,30 @@
                                                     <h3 class="title">NPR.65,000<span>/mo</span></h3>
                                                     <p>Social Meida Handling:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>including
+                                                        <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>including
                                                             standard query
                                                             response*</li>
                                                     </ul>
                                                     <p>Promotional Campagin Development:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Once Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>Once Basic
                                                             Development</li>
                                                     </ul>
                                                     <p>Content Deliverables:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>20 Graphic
+                                                        <li><i class="fa-solid fa-circle-small"></i>20 Graphic
                                                             Deisgns</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1 Video (up to
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>1 Video (up to
                                                             15 sec.)
                                                         </li>
                                                     </ul>
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes
+                                                        <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -160,31 +160,31 @@
                                                     <h3 class="title">NPR.125,000<span>/mo</span></h3>
                                                     <p>Social Meida Handling:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>including query
+                                                        <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>including query
                                                             response*
                                                         </li>
                                                     </ul>
                                                     <p>Promotional Campagin Development:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Once Detailed
+                                                        <li><i class="fa-solid fa-circle-small"></i>Once Detailed
                                                             Development
                                                         </li>
                                                     </ul>
                                                     <p>Content Deliverables:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>25 Graphic
+                                                        <li><i class="fa-solid fa-circle-small"></i>25 Graphic
                                                             Deisgns</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>3 GIFs</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 Video (up to
+                                                        <li><i class="fa-solid fa-circle-small"></i>3 GIFs</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 Video (up to
                                                             25 sec.)
                                                         </li>
                                                     </ul>
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Up to 3 Sizes
+                                                        <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes
                                                             per grahic
                                                         </li>
                                                     </ul>
@@ -208,23 +208,23 @@
                                                     <h3 class="title">NPR.370,000<span>/yr</span></h3>
                                                     <p>Social Media Handling:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                                     </ul>
                                                     <p>Promotional Campagin Development:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Once Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>Once Basic
                                                             Development</li>
                                                     </ul>
                                                     <p>Content Deliverables:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>12 Graphic
+                                                        <li><i class="fa-solid fa-circle-small"></i>12 Graphic
                                                             Deisgns</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
                                                     </ul>
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes
+                                                        <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -241,30 +241,30 @@
                                                     <h3 class="title">NPR.730,000<span>/yr</span></h3>
                                                     <p>Social Meida Handling:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>including
+                                                        <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>including
                                                             standard query
                                                             response*</li>
                                                     </ul>
                                                     <p>Promotional Campagin Development:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Once Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>Once Basic
                                                             Development</li>
                                                     </ul>
                                                     <p>Content Deliverables:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>20 Graphic
+                                                        <li><i class="fa-solid fa-circle-small"></i>20 Graphic
                                                             Deisgns</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 GIFs</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1 Video (up to
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 GIFs</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>1 Video (up to
                                                             15 sec.)
                                                         </li>
                                                     </ul>
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Up to 10 Sizes
+                                                        <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -281,31 +281,31 @@
                                                     <h3 class="title">NPR.1,450,000<span>/yr</span></h3>
                                                     <p>Social Meida Handling:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Facebook</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Instagram</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Youtube</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>including query
+                                                        <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>including query
                                                             response*
                                                         </li>
                                                     </ul>
                                                     <p>Promotional Campagin Development:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Once Detailed
+                                                        <li><i class="fa-solid fa-circle-small"></i>Once Detailed
                                                             Development
                                                         </li>
                                                     </ul>
                                                     <p>Content Deliverables:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>25 Graphic
+                                                        <li><i class="fa-solid fa-circle-small"></i>25 Graphic
                                                             Deisgns</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>3 GIFs</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 Video (up to
+                                                        <li><i class="fa-solid fa-circle-small"></i>3 GIFs</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 Video (up to
                                                             25 sec.)
                                                         </li>
                                                     </ul>
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Up to 3 Sizes
+                                                        <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes
                                                             per grahic
                                                         </li>
                                                     </ul>
@@ -343,20 +343,20 @@
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.35,000<span>/mo</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 15
+                                                        <li><i class="fa-solid fa-circle-small"></i>Ranking Upto 15
                                                             Keywords</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site Audit</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Competitor
                                                             Analysis</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>URL and Image
+                                                        <li><i class="fa-solid fa-circle-small"></i>URL and Image
                                                             Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 Blog Article
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 Blog Article
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Few Existing
+                                                        <li><i class="fa-solid fa-circle-small"></i>Few Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Site
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Site
                                                             Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Link
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Link
                                                             Building</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -372,20 +372,20 @@
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.55,000<span>/mo</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 30
+                                                        <li><i class="fa-solid fa-circle-small"></i>Ranking Upto 30
                                                             Keywords</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site Audit</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Competitor
                                                             Analysis</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Meta Tag, URL,
+                                                        <li><i class="fa-solid fa-circle-small"></i>Meta Tag, URL,
                                                             and Image Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>4 Blog Articles
+                                                        <li><i class="fa-solid fa-circle-small"></i>4 Blog Articles
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Existing
+                                                        <li><i class="fa-solid fa-circle-small"></i>Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site and Page
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site and Page
                                                             Speed Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>High Authority
+                                                        <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -401,20 +401,20 @@
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.80,000<span>/mo</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 60
+                                                        <li><i class="fa-solid fa-circle-small"></i>Ranking Upto 60
                                                             Keywords</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site Audit</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Competitor
                                                             Analysis and Backlink Analysis</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Meta Tag, URL,
+                                                        <li><i class="fa-solid fa-circle-small"></i>Meta Tag, URL,
                                                             and Image Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>8 Blog Articles
+                                                        <li><i class="fa-solid fa-circle-small"></i>8 Blog Articles
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Existing
+                                                        <li><i class="fa-solid fa-circle-small"></i>Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Full TEchnical
+                                                        <li><i class="fa-solid fa-circle-small"></i>Full TEchnical
                                                             SEO Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>High Authority
+                                                        <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -435,20 +435,20 @@
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.240,000<span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 15
+                                                        <li><i class="fa-solid fa-circle-small"></i>Ranking Upto 15
                                                             Keywords</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site Audit</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Competitor
                                                             Analysis</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>URL and Image
+                                                        <li><i class="fa-solid fa-circle-small"></i>URL and Image
                                                             Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>2 Blog Article
+                                                        <li><i class="fa-solid fa-circle-small"></i>2 Blog Article
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Few Existing
+                                                        <li><i class="fa-solid fa-circle-small"></i>Few Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Site
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Site
                                                             Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Link
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Link
                                                             Building</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -464,20 +464,20 @@
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.480,000<span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 30
+                                                        <li><i class="fa-solid fa-circle-small"></i>Ranking Upto 30
                                                             Keywords</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site Audit</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Competitor
                                                             Analysis</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Meta Tag, URL,
+                                                        <li><i class="fa-solid fa-circle-small"></i>Meta Tag, URL,
                                                             and Image Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>4 Blog Articles
+                                                        <li><i class="fa-solid fa-circle-small"></i>4 Blog Articles
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Existing
+                                                        <li><i class="fa-solid fa-circle-small"></i>Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site and Page
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site and Page
                                                             Speed Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>High Authority
+                                                        <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -493,20 +493,20 @@
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.780,000<span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Ranking Upto 60
+                                                        <li><i class="fa-solid fa-circle-small"></i>Ranking Upto 60
                                                             Keywords</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Site Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Competitor
+                                                        <li><i class="fa-solid fa-circle-small"></i>Site Audit</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Competitor
                                                             Analysis and Backlink Analysis</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Meta Tag, URL,
+                                                        <li><i class="fa-solid fa-circle-small"></i>Meta Tag, URL,
                                                             and Image Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>8 Blog Articles
+                                                        <li><i class="fa-solid fa-circle-small"></i>8 Blog Articles
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Existing
+                                                        <li><i class="fa-solid fa-circle-small"></i>Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Full TEchnical
+                                                        <li><i class="fa-solid fa-circle-small"></i>Full TEchnical
                                                             SEO Optimization</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>High Authority
+                                                        <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -544,35 +544,35 @@
                                                     <h3 class="title">NPR.50,000<span>/mo</span></h3>
                                                     <p>Brand Strategy:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Discovery
+                                                        <li><i class="fa-solid fa-circle-small"></i>Discovery
                                                             Session</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Brand
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Brand
                                                             Audit</li>
                                                     </ul>
                                                     <p>Visual Identity:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (2
+                                                        <li><i class="fa-solid fa-circle-small"></i>Logo Design (2
                                                             concepts, 2
                                                             revisions)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Color Palette
+                                                        <li><i class="fa-solid fa-circle-small"></i>Color Palette
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Typography</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Typography</li>
                                                     </ul>
                                                     <p>Brand Guidelines:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Style
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Style
                                                             Guide (logo
                                                             usage, colors, typography)</li>
                                                     </ul>
                                                     <p>Stationary Design:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Business card,
+                                                        <li><i class="fa-solid fa-circle-small"></i>Business card,
                                                             Letterhead,
                                                             Envelope</li>
                                                     </ul>
                                                     <p>Digital Presence:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Social Media
+                                                        <li><i class="fa-solid fa-circle-small"></i>Social Media
                                                             Kit (2
                                                             platforms)</li>
                                                     </ul>
@@ -590,44 +590,44 @@
                                                     <h3 class="title">NPR.70,000<span>/mo</span></h3>
                                                     <p>Brand Strategy:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive
+                                                        <li><i class="fa-solid fa-circle-small"></i>Comprehensive
                                                             Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Brand
+                                                        <li><i class="fa-solid fa-circle-small"></i>Brand
                                                             Positioning Statement
                                                         </li>
                                                     </ul>
                                                     <p>Visual Identity:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (3
+                                                        <li><i class="fa-solid fa-circle-small"></i>Logo Design (3
                                                             concepts, 3
                                                             revisions)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Expanded Color
+                                                        <li><i class="fa-solid fa-circle-small"></i>Expanded Color
                                                             Palette and
                                                             Typography</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Iconography
+                                                        <li><i class="fa-solid fa-circle-small"></i>Iconography
                                                         </li>
                                                     </ul>
                                                     <p>Brand Guidelines:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive
+                                                        <li><i class="fa-solid fa-circle-small"></i>Comprehensive
                                                             Style Guide
                                                             (logo, colors, typography, visuals)</li>
                                                     </ul>
                                                     <p>Stationary and Collateral:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Business card
+                                                        <li><i class="fa-solid fa-circle-small"></i>Business card
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Letterhead</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Envelope</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Brochure or
+                                                        <li><i class="fa-solid fa-circle-small"></i>Letterhead</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Envelope</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Brochure or
                                                             Flyer</li>
                                                     </ul>
                                                     <p>Digital Presence:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Social Media
+                                                        <li><i class="fa-solid fa-circle-small"></i>Social Media
                                                             Kit (3
                                                             platforms)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Website
+                                                        <li><i class="fa-solid fa-circle-small"></i>Website
                                                             Branding Elements
                                                         </li>
                                                     </ul>
@@ -645,40 +645,40 @@
                                                     <h3 class="title">NPR.100,000<span>/mo</span></h3>
                                                     <p>Brand Strategy:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>In-depth Audit
+                                                        <li><i class="fa-solid fa-circle-small"></i>In-depth Audit
                                                             and strategy
                                                             development</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Brand
+                                                        <li><i class="fa-solid fa-circle-small"></i>Brand
                                                             positioning and
                                                             messaging framework</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Customer
+                                                        <li><i class="fa-solid fa-circle-small"></i>Customer
                                                             Personas
                                                             development</li>
                                                     </ul>
                                                     <p>Visual Identity:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (5
+                                                        <li><i class="fa-solid fa-circle-small"></i>Logo Design (5
                                                             concepts,
                                                             Unlimited revisions)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Complete Visual
+                                                        <li><i class="fa-solid fa-circle-small"></i>Complete Visual
                                                             Language
                                                             (color paletts, typography, iconography, imagery)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom
                                                             illustrations or
                                                             graphics</li>
                                                     </ul>
                                                     <p>Brand Guidelines:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Extensive Style
+                                                        <li><i class="fa-solid fa-circle-small"></i>Extensive Style
                                                             Guide
                                                             (voice, tone, visual style, application examples)</li>
                                                     </ul>
                                                     <p>Stationary and Collateral:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Complete suite
+                                                        <li><i class="fa-solid fa-circle-small"></i>Complete suite
                                                             of business
                                                             stationery</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Multiple
+                                                        <li><i class="fa-solid fa-circle-small"></i>Multiple
                                                             marketing
                                                             collateral pieces (brochures, flyers, posters)</li>
                                                     </ul>
@@ -701,35 +701,35 @@
                                                     <h3 class="title">NPR.550,000<span>/yr</span></h3>
                                                     <p>Brand Strategy:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Discovery
+                                                        <li><i class="fa-solid fa-circle-small"></i>Discovery
                                                             Session</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Brand
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Brand
                                                             Audit</li>
                                                     </ul>
                                                     <p>Visual Identity:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (2
+                                                        <li><i class="fa-solid fa-circle-small"></i>Logo Design (2
                                                             concepts, 2
                                                             revisions)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Color Palette
+                                                        <li><i class="fa-solid fa-circle-small"></i>Color Palette
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Typography</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Typography</li>
                                                     </ul>
                                                     <p>Brand Guidelines:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Style
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Style
                                                             Guide (logo
                                                             usage, colors, typography)</li>
                                                     </ul>
                                                     <p>Stationary Design:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Business card,
+                                                        <li><i class="fa-solid fa-circle-small"></i>Business card,
                                                             Letterhead,
                                                             Envelope</li>
                                                     </ul>
                                                     <p>Digital Presence:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Social Media
+                                                        <li><i class="fa-solid fa-circle-small"></i>Social Media
                                                             Kit (2
                                                             platforms)</li>
                                                     </ul>
@@ -747,44 +747,44 @@
                                                     <h3 class="title">NPR.790,000<span>/yr</span></h3>
                                                     <p>Brand Strategy:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive
+                                                        <li><i class="fa-solid fa-circle-small"></i>Comprehensive
                                                             Audit</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Brand
+                                                        <li><i class="fa-solid fa-circle-small"></i>Brand
                                                             Positioning Statement
                                                         </li>
                                                     </ul>
                                                     <p>Visual Identity:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (3
+                                                        <li><i class="fa-solid fa-circle-small"></i>Logo Design (3
                                                             concepts, 3
                                                             revisions)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Expanded Color
+                                                        <li><i class="fa-solid fa-circle-small"></i>Expanded Color
                                                             Palette and
                                                             Typography</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Iconography
+                                                        <li><i class="fa-solid fa-circle-small"></i>Iconography
                                                         </li>
                                                     </ul>
                                                     <p>Brand Guidelines:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Comprehensive
+                                                        <li><i class="fa-solid fa-circle-small"></i>Comprehensive
                                                             Style Guide
                                                             (logo, colors, typography, visuals)</li>
                                                     </ul>
                                                     <p>Stationary and Collateral:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Business card
+                                                        <li><i class="fa-solid fa-circle-small"></i>Business card
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Letterhead</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Envelope</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Brochure or
+                                                        <li><i class="fa-solid fa-circle-small"></i>Letterhead</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Envelope</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>Brochure or
                                                             Flyer</li>
                                                     </ul>
                                                     <p>Digital Presence:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Social Media
+                                                        <li><i class="fa-solid fa-circle-small"></i>Social Media
                                                             Kit (3
                                                             platforms)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Website
+                                                        <li><i class="fa-solid fa-circle-small"></i>Website
                                                             Branding Elements
                                                         </li>
                                                     </ul>
@@ -802,40 +802,40 @@
                                                     <h3 class="title">NPR.1,150,000<span>/yr</span></h3>
                                                     <p>Brand Strategy:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>In-depth Audit
+                                                        <li><i class="fa-solid fa-circle-small"></i>In-depth Audit
                                                             and strategy
                                                             development</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Brand
+                                                        <li><i class="fa-solid fa-circle-small"></i>Brand
                                                             positioning and
                                                             messaging framework</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Customer
+                                                        <li><i class="fa-solid fa-circle-small"></i>Customer
                                                             Personas
                                                             development</li>
                                                     </ul>
                                                     <p>Visual Identity:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Logo Design (5
+                                                        <li><i class="fa-solid fa-circle-small"></i>Logo Design (5
                                                             concepts,
                                                             Unlimited revisions)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Complete Visual
+                                                        <li><i class="fa-solid fa-circle-small"></i>Complete Visual
                                                             Language
                                                             (color paletts, typography, iconography, imagery)</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom
                                                             illustrations or
                                                             graphics</li>
                                                     </ul>
                                                     <p>Brand Guidelines:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Extensive Style
+                                                        <li><i class="fa-solid fa-circle-small"></i>Extensive Style
                                                             Guide
                                                             (voice, tone, visual style, application examples)</li>
                                                     </ul>
                                                     <p>Stationary and Collateral:</p>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Complete suite
+                                                        <li><i class="fa-solid fa-circle-small"></i>Complete suite
                                                             of business
                                                             stationery</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Multiple
+                                                        <li><i class="fa-solid fa-circle-small"></i>Multiple
                                                             marketing
                                                             collateral pieces (brochures, flyers, posters)</li>
                                                     </ul>
@@ -872,32 +872,32 @@
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.50,000<span>/mo</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Responsive
+                                                        <li><i class="fa-solid fa-circle-small"></i>Responsive
                                                             Design</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom Domain
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom Domain
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Contact From
+                                                        <li><i class="fa-solid fa-circle-small"></i>Contact From
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Social Media
+                                                        <li><i class="fa-solid fa-circle-small"></i>Social Media
                                                             Integration
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Google Maps
+                                                        <li><i class="fa-solid fa-circle-small"></i>Google Maps
                                                             Intergration
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Analytics
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Analytics
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Content
+                                                        <li><i class="fa-solid fa-circle-small"></i>Content
                                                             Management System
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Blog
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Blog
                                                             Setup</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic
                                                             Accessibility
                                                             Features</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1-month Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>1-month Basic
                                                             Hosting Plan
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>SSL Certificate
+                                                        <li><i class="fa-solid fa-circle-small"></i>SSL Certificate
                                                         </li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -913,30 +913,30 @@
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.100,000 <span>/mo</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Everything in
+                                                        <li><i class="fa-solid fa-circle-small"></i>Everything in
                                                             the Basic
                                                             Package</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>CMS Integration
+                                                        <li><i class="fa-solid fa-circle-small"></i>CMS Integration
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Analytics Setup
+                                                        <li><i class="fa-solid fa-circle-small"></i>Analytics Setup
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Blog Setup</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>E-commerce
+                                                        <li><i class="fa-solid fa-circle-small"></i>Blog Setup</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>E-commerce
                                                             Capability</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Enhanced
+                                                        <li><i class="fa-solid fa-circle-small"></i>Enhanced
                                                             Security</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Newsletter
+                                                        <li><i class="fa-solid fa-circle-small"></i>Newsletter
                                                             Integration</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom Forms
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom Forms
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Training
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Training
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Testimonials
+                                                        <li><i class="fa-solid fa-circle-small"></i>Testimonials
                                                             and Reviews
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Portfolio
+                                                        <li><i class="fa-solid fa-circle-small"></i>Portfolio
                                                             Showcase</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1-month
+                                                        <li><i class="fa-solid fa-circle-small"></i>1-month
                                                             Standard Hosting
                                                             plan</li>
                                                     </ul>
@@ -953,35 +953,35 @@
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.150,000 <span>/mo</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Everything in
+                                                        <li><i class="fa-solid fa-circle-small"></i>Everything in
                                                             the Standard
                                                             Package</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom Design
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom Design
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced
+                                                        <li><i class="fa-solid fa-circle-small"></i>Advanced
                                                             E-commerce</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Multi-language
+                                                        <li><i class="fa-solid fa-circle-small"></i>Multi-language
                                                             Support</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced
+                                                        <li><i class="fa-solid fa-circle-small"></i>Advanced
                                                             Analytics</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Third-party
+                                                        <li><i class="fa-solid fa-circle-small"></i>Third-party
                                                             Integrations
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Content
+                                                        <li><i class="fa-solid fa-circle-small"></i>Content
                                                             Creation</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1-month Premium
+                                                        <li><i class="fa-solid fa-circle-small"></i>1-month Premium
                                                             Hosting
                                                             Plan</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced Custom
+                                                        <li><i class="fa-solid fa-circle-small"></i>Advanced Custom
                                                             Fonts</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Video Gallery
+                                                        <li><i class="fa-solid fa-circle-small"></i>Video Gallery
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>API Development
+                                                        <li><i class="fa-solid fa-circle-small"></i>API Development
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Performance
+                                                        <li><i class="fa-solid fa-circle-small"></i>Performance
                                                             Optimization
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Backup and
+                                                        <li><i class="fa-solid fa-circle-small"></i>Backup and
                                                             Recovery</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -1002,32 +1002,32 @@
                                                     <span class="sub-title">Basic Plan</span>
                                                     <h3 class="title">NPR.550,000<span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Responsive
+                                                        <li><i class="fa-solid fa-circle-small"></i>Responsive
                                                             Design</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom Domain
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom Domain
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Contact From
+                                                        <li><i class="fa-solid fa-circle-small"></i>Contact From
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Social Media
+                                                        <li><i class="fa-solid fa-circle-small"></i>Social Media
                                                             Integration
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Google Maps
+                                                        <li><i class="fa-solid fa-circle-small"></i>Google Maps
                                                             Intergration
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Analytics
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Analytics
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Content
+                                                        <li><i class="fa-solid fa-circle-small"></i>Content
                                                             Management System
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Blog
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Blog
                                                             Setup</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic
                                                             Accessibility
                                                             Features</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1-year Basic
+                                                        <li><i class="fa-solid fa-circle-small"></i>1-year Basic
                                                             Hosting Plan
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>SSL Certificate
+                                                        <li><i class="fa-solid fa-circle-small"></i>SSL Certificate
                                                         </li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
@@ -1043,30 +1043,30 @@
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.1,150,000 <span>/yr</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Everything in
+                                                        <li><i class="fa-solid fa-circle-small"></i>Everything in
                                                             the Basic
                                                             Package</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>CMS Integration
+                                                        <li><i class="fa-solid fa-circle-small"></i>CMS Integration
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Analytics Setup
+                                                        <li><i class="fa-solid fa-circle-small"></i>Analytics Setup
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Blog Setup</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>E-commerce
+                                                        <li><i class="fa-solid fa-circle-small"></i>Blog Setup</li>
+                                                        <li><i class="fa-solid fa-circle-small"></i>E-commerce
                                                             Capability</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Enhanced
+                                                        <li><i class="fa-solid fa-circle-small"></i>Enhanced
                                                             Security</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Newsletter
+                                                        <li><i class="fa-solid fa-circle-small"></i>Newsletter
                                                             Integration</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom Forms
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom Forms
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Basic Training
+                                                        <li><i class="fa-solid fa-circle-small"></i>Basic Training
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Testimonials
+                                                        <li><i class="fa-solid fa-circle-small"></i>Testimonials
                                                             and Reviews
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Portfolio
+                                                        <li><i class="fa-solid fa-circle-small"></i>Portfolio
                                                             Showcase</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1-year Standard
+                                                        <li><i class="fa-solid fa-circle-small"></i>1-year Standard
                                                             Hosting
                                                             plan</li>
                                                     </ul>
@@ -1084,35 +1084,35 @@
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.1,700,000 <span>/mo</span></h3>
                                                     <ul class="pricing-list">
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Everything in
+                                                        <li><i class="fa-solid fa-circle-small"></i>Everything in
                                                             the Standard
                                                             Package</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Custom Design
+                                                        <li><i class="fa-solid fa-circle-small"></i>Custom Design
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced
+                                                        <li><i class="fa-solid fa-circle-small"></i>Advanced
                                                             E-commerce</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Multi-language
+                                                        <li><i class="fa-solid fa-circle-small"></i>Multi-language
                                                             Support</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced
+                                                        <li><i class="fa-solid fa-circle-small"></i>Advanced
                                                             Analytics</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Third-party
+                                                        <li><i class="fa-solid fa-circle-small"></i>Third-party
                                                             Integrations
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Content
+                                                        <li><i class="fa-solid fa-circle-small"></i>Content
                                                             Creation</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>1-month Premium
+                                                        <li><i class="fa-solid fa-circle-small"></i>1-month Premium
                                                             Hosting
                                                             Plan</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Advanced Custom
+                                                        <li><i class="fa-solid fa-circle-small"></i>Advanced Custom
                                                             Fonts</li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Video Gallery
+                                                        <li><i class="fa-solid fa-circle-small"></i>Video Gallery
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>API Development
+                                                        <li><i class="fa-solid fa-circle-small"></i>API Development
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Performance
+                                                        <li><i class="fa-solid fa-circle-small"></i>Performance
                                                             Optimization
                                                         </li>
-                                                        <li><i class="fa-regular fa-chevrons-right"></i>Backup and
+                                                        <li><i class="fa-solid fa-circle-small"></i>Backup and
                                                             Recovery</li>
                                                     </ul>
                                                     <a href="{{url('form')}}" class="pricing-btn"
