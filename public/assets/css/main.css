@@ -5972,7 +5972,6 @@ START: Theme Feature CSS
     top: 50%;
 }
 
-
 .feature-section {
     padding: 50px 0;
     background-color: #f5f5f5;
@@ -5996,11 +5995,11 @@ START: Theme Feature CSS
     background-color: rgba(0, 0, 0, 0.05);
 }
 
-.feature-item:active{
+.feature-item:active {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
-.feature-item.active{
+.feature-item.active {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
@@ -6020,8 +6019,6 @@ START: Theme Feature CSS
     visibility: visible; /* Make visible by default */
     display: flex;
     align-items: center;
-
-
 }
 
 .feature-content-item {
@@ -6033,7 +6030,6 @@ START: Theme Feature CSS
     border-radius: 12px;
     transition: opacity 0.5s ease, visibility 0.5s ease, transform 0.5s ease;
     transform: translateX(-20px);
-
 }
 
 .feature-content-item.active {
@@ -6067,12 +6063,6 @@ START: Theme Feature CSS
     font-weight: 700;
     position: relative;
 }
-
-
-
-
-
-
 
 @media only screen and (max-width: 991px) {
     .feature-item .feature-left {
@@ -7614,11 +7604,14 @@ START: Theme Footer CSS
     display: block;
 }
 
-
 /* Keyframes for seamless sliding effect */
 @keyframes slide {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-150%); /* Move by 50% of the `.slides` width */ }
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-150%); /* Move by 50% of the `.slides` width */
+    }
 }
 
 /* slider logos 2  */
@@ -7657,17 +7650,17 @@ START: Theme Footer CSS
     display: block;
 }
 
-
 /* Keyframes for seamless sliding effect */
 @keyframes slide-right {
-    0% { transform: translateX(-150%); }
-    100% { transform: translateX(0); }
+    0% {
+        transform: translateX(-150%);
+    }
+    100% {
+        transform: translateX(0);
+    }
 }
 
-
-
-
-.cta-button{
+.cta-button {
     background-color: transparent;
     font-family: var(--pb-ff-heading);
     color: var(--pb-color-heading-primary);
@@ -7708,8 +7701,6 @@ START: Theme Footer CSS
     visibility: visible;
     opacity: 1;
 }
-
-
 
 /* !END: Theme Footer CSS */
 

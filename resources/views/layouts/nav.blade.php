@@ -11,14 +11,14 @@
                     <div class="mobile-menu-items">
                         <ul>
                             @foreach ([
-                                'Home' => '/',
-                                'About Us' => 'about',
-                                'Services' => 'services',
-                                'Projects' => 'projects',
-                                'Team' => 'team',
-                                'Pricing' => 'pricing',
-                                'FAQ' => 'faq',
-                            ] as $label => $url)
+        'Home' => '/',
+        'About Us' => 'about',
+        'Services' => 'services',
+        'Projects' => 'projects',
+        'Team' => 'team',
+        'Pricing' => 'pricing',
+        'FAQ' => 'faq',
+    ] as $label => $url)
                                 <li>
                                     <a href="{{ url($url) }}">{{ $label }}</a>
                                 </li>
@@ -45,6 +45,7 @@
 
 <!-- Google Tag Manager (noscript) -->
 <noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PB69WGKH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PB69WGKH" height="0" width="0"
+        style="display:none;visibility:hidden"></iframe>
 </noscript>
 <!-- End Google Tag Manager (noscript) -->

@@ -6,11 +6,13 @@
                 <div class="footer-widget">
                     <div class="site-logo">
                         <a href="{{ url('/') }}">
-                            <img class="footer-logo" src="{{ url('assets/img/mindworks-logo-white.webp') }}" alt="logo" loading="lazy">
+                            <img class="footer-logo" src="{{ url('assets/img/mindworks-logo-white.webp') }}"
+                                alt="logo" loading="lazy">
                         </a>
                     </div>
                     <div class="section-heading heading-2">
-                        <h2 class="section-title">Let Us Drive Your Growth With Effective <span>Digital Marketing</span></h2>
+                        <h2 class="section-title">Let Us Drive Your Growth With Effective <span>Digital Marketing</span>
+                        </h2>
                     </div>
                 </div>
             </div>
@@ -25,9 +27,12 @@
                         Sat-Sun: Closed
                     </p>
                     <ul class="footer-social">
-                        <li><a href="https://www.facebook.com/mindworksme" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                        <li><a href="https://www.instagram.com/mindworksnepal/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                        <li><a href="https://www.linkedin.com/company/mindworks-media-&-events-pvt-ltd/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                        <li><a href="https://www.facebook.com/mindworksme" target="_blank"><i
+                                    class="fa-brands fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.instagram.com/mindworksnepal/" target="_blank"><i
+                                    class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/mindworks-media-&-events-pvt-ltd/"
+                                target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -36,12 +41,13 @@
                     <h3 class="widget-title">Quick Links</h3>
                     <ul class="footer-list">
                         @foreach ([
-                            'About' => 'about',
-                            'Services' => 'service',
-                            'Projects' => 'projects',
-                            'FAQ' => 'faq',
-                        ] as $label => $url)
-                            <li><a href="{{ url($url) }}"><i class="fa-sharp fa-regular fa-chevron-right"></i>{{ $label }}</a></li>
+        'About' => 'about',
+        'Services' => 'service',
+        'Projects' => 'projects',
+        'FAQ' => 'faq',
+    ] as $label => $url)
+                            <li><a href="{{ url($url) }}"><i
+                                        class="fa-sharp fa-regular fa-chevron-right"></i>{{ $label }}</a></li>
                         @endforeach
                     </ul>
                 </div>
@@ -70,20 +76,20 @@
 
 <!-- JS here -->
 <script src="{{ url('assets/js/jquary-3.6.0.min.js') }}"></script>
-<script src="{{ url('assets/js/bootstrap-bundle.js') }}" ></script>
-<script src="{{ url('assets/js/imagesloaded-pkgd.js') }}" ></script>
-<script src="{{ url('assets/js/waypoints.min.js') }}" ></script>
-<script src="{{ url('assets/js/venobox.min.js') }}" ></script>
-<script src="{{ url('assets/js/odometer.min.js') }}" ></script>
-<script src="{{ url('assets/js/meanmenu.js') }}" ></script>
-<script src="{{ url('assets/js/jquery.isotope.js') }}" ></script>
-<script src="{{ url('assets/js/nice-select.js') }}" ></script>
-<script src="{{ url('assets/js/easypiechart.min.js') }}" ></script>
-<script src="{{ url('assets/js/wow.min.js') }}" ></script>
-<script src="{{ url('assets/js/swiper.min.js') }}" ></script>
-<script src="{{ url('assets/js/smooth-scroll.js') }}" ></script>
-<script src="{{ url('assets/js/ajax-form.js') }}" ></script>
-<script src="{{ url('assets/js/main.js') }}" ></script>
+<script src="{{ url('assets/js/bootstrap-bundle.js') }}"></script>
+<script src="{{ url('assets/js/imagesloaded-pkgd.js') }}"></script>
+<script src="{{ url('assets/js/waypoints.min.js') }}"></script>
+<script src="{{ url('assets/js/venobox.min.js') }}"></script>
+<script src="{{ url('assets/js/odometer.min.js') }}"></script>
+<script src="{{ url('assets/js/meanmenu.js') }}"></script>
+<script src="{{ url('assets/js/jquery.isotope.js') }}"></script>
+<script src="{{ url('assets/js/nice-select.js') }}"></script>
+<script src="{{ url('assets/js/easypiechart.min.js') }}"></script>
+<script src="{{ url('assets/js/wow.min.js') }}"></script>
+<script src="{{ url('assets/js/swiper.min.js') }}"></script>
+<script src="{{ url('assets/js/smooth-scroll.js') }}"></script>
+<script src="{{ url('assets/js/ajax-form.js') }}"></script>
+<script src="{{ url('assets/js/main.js') }}"></script>
 
 
 <!-- Ensure the preloader hides after a slight delay -->

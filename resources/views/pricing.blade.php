@@ -104,7 +104,7 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
                                                         data-service="Social Media Marketing" data-type="Basic Plan"
                                                         data-plan="NPR.35,000/mo" onclick="storePlanData(this)">Take
                                                         My Plan
@@ -145,9 +145,10 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                        data-service="Social Media Marketing" data-type="Standard Plan"
-                                                        data-plan="NPR.65,000/mo" onclick="storePlanData(this)">Take
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Social Media Marketing"
+                                                        data-type="Standard Plan" data-plan="NPR.65,000/mo"
+                                                        onclick="storePlanData(this)">Take
                                                         My Plan
                                                     </a>
                                                 </div>
@@ -188,7 +189,7 @@
                                                             per grahic
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
                                                         data-service="Social Media Marketing" data-type="Premium Plan"
                                                         data-plan="NPR.125,000/mo" onclick="storePlanData(this)">Take
                                                         My Plan
@@ -227,10 +228,10 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Social Media Marketing" data-type="Basic Plan"
-                                                    data-plan="NPR.370,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Social Media Marketing" data-type="Basic Plan"
+                                                        data-plan="NPR.370,000/yr" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -267,10 +268,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Up to 10 Sizes
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Social Media Marketing" data-type="Standard Plan"
-                                                    data-plan="NPR.730,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Social Media Marketing"
+                                                        data-type="Standard Plan" data-plan="NPR.730,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -309,10 +311,11 @@
                                                             per grahic
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Social Media Marketing" data-type="Premium Plan"
-                                                    data-plan="NPR.1,450,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Social Media Marketing" data-type="Premium Plan"
+                                                        data-plan="NPR.1,450,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -359,10 +362,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Basic Link
                                                             Building</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Search Engine Optimization" data-type="Basic Plan"
-                                                    data-plan="NPR.35,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Search Engine Optimization"
+                                                        data-type="Basic Plan" data-plan="NPR.35,000/mo"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -388,10 +392,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Search Engine Optimization" data-type="Standard Plan"
-                                                    data-plan="NPR.55,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Search Engine Optimization"
+                                                        data-type="Standard Plan" data-plan="NPR.55,000/mo"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -417,10 +422,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Search Engine Optimization" data-type="Premium Plan"
-                                                    data-plan="NPR.80,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Search Engine Optimization"
+                                                        data-type="Premium Plan" data-plan="NPR.80,000/mo"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -451,10 +457,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Basic Link
                                                             Building</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Search Engine Optimization" data-type="Basic Plan"
-                                                    data-plan="NPR.240,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Search Engine Optimization"
+                                                        data-type="Basic Plan" data-plan="NPR.240,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -480,10 +487,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Search Engine Optimization" data-type="Standard Plan"
-                                                    data-plan="NPR.480,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Search Engine Optimization"
+                                                        data-type="Standard Plan" data-plan="NPR.480,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -509,10 +517,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Search Engine Optimization" data-type="Premium Plan"
-                                                    data-plan="NPR.780,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Search Engine Optimization"
+                                                        data-type="Premium Plan" data-plan="NPR.780,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -576,10 +585,10 @@
                                                             Kit (2
                                                             platforms)</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Company Branding" data-type="Basic Plan"
-                                                    data-plan="NPR.50,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Company Branding" data-type="Basic Plan"
+                                                        data-plan="NPR.50,000/mo" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -631,10 +640,10 @@
                                                             Branding Elements
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Company Branding" data-type="Standard Plan"
-                                                    data-plan="NPR.70,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Company Branding" data-type="Standard Plan"
+                                                        data-plan="NPR.70,000/mo" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -682,10 +691,10 @@
                                                             marketing
                                                             collateral pieces (brochures, flyers, posters)</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Company Branding" data-type="Premium Plan"
-                                                    data-plan="NPR.100,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Company Branding" data-type="Premium Plan"
+                                                        data-plan="NPR.100,000/mo" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -733,10 +742,10 @@
                                                             Kit (2
                                                             platforms)</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Company Branding" data-type="Basic Plan"
-                                                    data-plan="NPR.550,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Company Branding" data-type="Basic Plan"
+                                                        data-plan="NPR.550,000/yr" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -788,10 +797,10 @@
                                                             Branding Elements
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Company Branding" data-type="Standard Plan"
-                                                    data-plan="NPR.790,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Company Branding" data-type="Standard Plan"
+                                                        data-plan="NPR.790,000/yr" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -839,10 +848,12 @@
                                                             marketing
                                                             collateral pieces (brochures, flyers, posters)</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Company Branding" data-type="Premium Plan"
-                                                    data-plan="NPR.1,150,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>                                                </div>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Company Branding" data-type="Premium Plan"
+                                                        data-plan="NPR.1,150,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -900,10 +911,10 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>SSL Certificate
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Web Development" data-type="Basic Plan"
-                                                    data-plan="NPR.50,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Web Development" data-type="Basic Plan"
+                                                        data-plan="NPR.50,000/mo" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -940,10 +951,10 @@
                                                             Standard Hosting
                                                             plan</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Web Development" data-type="Standard Plan"
-                                                    data-plan="NPR.100,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Web Development" data-type="Standard Plan"
+                                                        data-plan="NPR.100,000/mo" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -984,10 +995,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Backup and
                                                             Recovery</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Web Development" data-type="Premium Plan"
-                                                    data-plan="NPR.150,000/mo" onclick="storePlanData(this)">Take
-                                                    My Plan</a>                                                </div>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Web Development" data-type="Premium Plan"
+                                                        data-plan="NPR.150,000/mo" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1030,10 +1042,10 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>SSL Certificate
                                                         </li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Web Development" data-type="Basic Plan"
-                                                    data-plan="NPR.550,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Web Development" data-type="Basic Plan"
+                                                        data-plan="NPR.550,000/yr" onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1071,10 +1083,11 @@
                                                             plan</li>
                                                     </ul>
 
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Web Development" data-type="Standard Plan"
-                                                    data-plan="NPR.1,150,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Web Development" data-type="Standard Plan"
+                                                        data-plan="NPR.1,150,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1115,10 +1128,11 @@
                                                         <li><i class="fa-solid fa-circle-small"></i>Backup and
                                                             Recovery</li>
                                                     </ul>
-                                                    <a href="{{url('form')}}" class="pricing-btn"
-                                                    data-service="Web Development" data-type="Premium Plan"
-                                                    data-plan="NPR.1,700,000/yr" onclick="storePlanData(this)">Take
-                                                    My Plan</a>
+                                                    <a href="{{ url('form') }}" class="pricing-btn"
+                                                        data-service="Web Development" data-type="Premium Plan"
+                                                        data-plan="NPR.1,700,000/yr"
+                                                        onclick="storePlanData(this)">Take
+                                                        My Plan</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1277,22 +1291,22 @@
         });
     </script>
 
-<script>
-    function storePlanData(button) {
-      const service = button.getAttribute('data-service');
-      const type = button.getAttribute('data-type');
-      const plan = button.getAttribute('data-plan');
+    <script>
+        function storePlanData(button) {
+            const service = button.getAttribute('data-service');
+            const type = button.getAttribute('data-type');
+            const plan = button.getAttribute('data-plan');
 
-      const formData = {
-        service: service,
-        type: type,
-        plan: plan
-      };
+            const formData = {
+                service: service,
+                type: type,
+                plan: plan
+            };
 
-      // Store data in sessionStorage
-      sessionStorage.setItem('formData', JSON.stringify(formData));
-    }
-  </script>
+            // Store data in sessionStorage
+            sessionStorage.setItem('formData', JSON.stringify(formData));
+        }
+    </script>
 
 
 

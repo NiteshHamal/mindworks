@@ -46,77 +46,77 @@
                 <h2 class="section-title wow fade-in-bottom" data-wow-delay="400ms">Are Your
                     <span>Sure?</span>
                 </h2><br>
-                <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Fill Your Name Email and Phone Number and Press <strong>TAKE THIS PLAN!!</strong></h4>
+                <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Fill Your Name Email and Phone Number
+                    and Press <strong>TAKE THIS PLAN!!</strong></h4>
 
             </div>
             <div class="contact-form">
                 <div class="request-form">
-                    <form action="{{ url('contactus') }}" method="post" id="ajax_contact"
-                    class="form-horizontal">
-                    @csrf
-                    <div class="form-group row">
-                        <div class="col-md-6">
-                            <input type="text" id="fullname" name="fullname" class="form-control"
-                                placeholder="Your Name">
+                    <form action="{{ url('contactus') }}" method="post" id="ajax_contact" class="form-horizontal">
+                        @csrf
+                        <div class="form-group row">
+                            <div class="col-md-6">
+                                <input type="text" id="fullname" name="fullname" class="form-control"
+                                    placeholder="Your Name">
+                            </div>
+                            <div class="col-md-6">
+                                <input type="email" id="email" name="email" class="form-control"
+                                    placeholder="Your Email">
+                            </div>
                         </div>
-                        <div class="col-md-6">
-                            <input type="email" id="email" name="email" class="form-control"
-                                placeholder="Your Email">
+                        <div class="form-group row">
+                            <div class="col-md-6">
+                                <input type="text" id="phone" name="phone" class="form-control"
+                                    placeholder="Phone">
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" id="service" name="service" class="form-control" readonly>
+                            </div>
                         </div>
-                    </div>
-                    <div class="form-group row">
-                        <div class="col-md-6">
-                            <input type="text" id="phone" name="phone" class="form-control"
-                                placeholder="Phone">
+                        <div class="form-group row">
+                            <div class="col-md-6">
+                                <input type="text" id="type" name="type" class="form-control" readonly>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" id="plan" name="plan" class="form-control" readonly>
+                            </div>
                         </div>
-                        <div class="col-md-6">
-                            <input type="text" id="service" name="service" class="form-control" readonly>
+                        <div class="submit-btn text-center">
+                            <button id="submit" class="pb-primary-btn" type="submit">Take This Plan</button>
                         </div>
-                    </div>
-                    <div class="form-group row">
-                        <div class="col-md-6">
-                            <input type="text" id="type" name="type" class="form-control"
-                                readonly>
-                        </div>
-                        <div class="col-md-6">
-                            <input type="text" id="plan" name="plan" class="form-control" readonly>
-                        </div>
-                    </div>
-                    <div class="submit-btn text-center">
-                        <button id="submit" class="pb-primary-btn" type="submit">Take This Plan</button>
-                    </div>
-                </form>
-            </div>
-            <!-- ./ request-section -->
+                    </form>
+                </div>
+                <!-- ./ request-section -->
 
-        </div>
+            </div>
     </section>
 
     @include('layouts.footer')
 
 
-      <script>
+    <script>
         document.addEventListener('DOMContentLoaded', function() {
 
             // Check if the page is reloaded
-        if (performance.getEntriesByType('navigation')[0].type === 'reload') {
-            // Redirect to the pricing page
-            window.location.href = "{{ url('pricing') }}";
-        }
+            if (performance.getEntriesByType('navigation')[0].type === 'reload') {
+                // Redirect to the pricing page
+                window.location.href = "{{ url('pricing') }}";
+            }
 
-          const formData = JSON.parse(sessionStorage.getItem('formData'));
+            const formData = JSON.parse(sessionStorage.getItem('formData'));
 
-          if (formData) {
-            document.querySelector('input[name="service"]').value = formData.service || '';
-            document.querySelector('input[name="type"]').value = formData.type || '';
-            document.querySelector('input[name="plan"]').value = formData.plan || '';
+            if (formData) {
+                document.querySelector('input[name="service"]').value = formData.service || '';
+                document.querySelector('input[name="type"]').value = formData.type || '';
+                document.querySelector('input[name="plan"]').value = formData.plan || '';
 
-            // Optionally clear the data after use
-            sessionStorage.removeItem('formData');
+                // Optionally clear the data after use
+                sessionStorage.removeItem('formData');
 
-          }
+            }
         });
-      </script>
+    </script>
 
 </body>
+
 </html>
