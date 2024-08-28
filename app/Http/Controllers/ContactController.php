@@ -16,7 +16,7 @@ class ContactController extends Controller
         $data = $request->validated();
 
         Mail::send('mail.custom_pricing', $data, function ($message) use ($data) {
-            $message->to('info@mindworksme.com');
+            $message->to('nitesh@mindworksme.com');
             $message->subject('Contact Form Message');
             $message->replyTo($data['email']);
         });

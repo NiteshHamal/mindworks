@@ -82,7 +82,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Mindworks</h1>
+            <h1>Custom Plan</h1>
         </div>
         <div class="content">
             <p>Hello Mindworks Media,</p>
