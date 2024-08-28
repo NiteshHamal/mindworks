@@ -4,8 +4,7 @@ namespace App\Http\Requests\PricingForm;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-
-class FormCreateRequest extends FormRequest
+class PricingFormCreateRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -26,9 +25,9 @@ class FormCreateRequest extends FormRequest
             'fullname'=>['required'],
             'email'=>['required'],
             'phone'=>[ 'required'],
-            'services'=>['required'],
+            'service'=>['required'],
             'type'=>['required'],
-            'plan'=>['required']
+            'plan'=>['required'],
         ];
     }
 }

@@ -91,7 +91,7 @@
                 <li><strong>Name:</strong> {{ $fullname }}</li>
                 <li><strong>Email:</strong> {{ $email }}</li>
                 <li><strong>Phone:</strong> {{ $phone }}</li>
-                <li><strong>Services:</strong> {{ $services }}</li>
+                <li><strong>Services:</strong> {{ $service }}</li>
                 <li><strong>Services Plan:</strong> {{ $type }}</li>
                 <li><strong>Services Price:</strong> {{ $plan }}</li>
             </ul>

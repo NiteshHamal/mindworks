@@ -10,16 +10,6 @@
     @include('layouts.nav')
     <!-- /.Main Header -->
 
-    <div id="popup-search-box">
-        <div class="box-inner-wrap d-flex align-items-center">
-            <form id="form" action="#" method="get" role="search">
-                <input id="popup-search" type="text" name="s" placeholder="Type keywords here...">
-            </form>
-            <div class="search-close"><i class="fa-sharp fa-regular fa-xmark"></i></div>
-        </div>
-    </div>
-    <!-- /#popup-search-box -->
-
     <div class="preloader" id="preloader">
         <img src="{{ url('assets/img/proloader.gif') }}" alt="preloader-icon">
     </div>
@@ -47,45 +37,55 @@
                     <span>Sure?</span>
                 </h2><br>
                 <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Fill Your Name Email and Phone Number
-                    and Press <strong>TAKE THIS PLAN!!</strong></h4>
+                    and Press <strong>TAKE THIS PLAN!!</strong>
+                </h4>
 
             </div>
-                <div class="request-form">
-                    <form action="{{ url('plan-and-price') }}" method="POST" id="ajax_contact" class="form-horizontal">
-                        @csrf
-                        <div class="form-group row">
-                            <div class="col-md-6">
-                                <input type="text" id="fullname" name="fullname" class="form-control"
-                                    placeholder="Your Name">
-                            </div>
-                            <div class="col-md-6">
-                                <input type="email" id="email" name="email" class="form-control"
-                                    placeholder="Your Email">
-                            </div>
+            <div class="request-form">
+                <form action="{{ url('plan-and-price') }}" method="POST" id="ajax_contact" class="form-horizontal">
+                    @csrf
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <input type="text" id="fullname" name="fullname" class="form-control"
+                                placeholder="Your Name *">
+                            @error('fullname')
+                                <p class="text-danger">{{ $message }}</p>
+                            @enderror
                         </div>
-                        <div class="form-group row">
-                            <div class="col-md-6">
-                                <input type="text" id="phone" name="phone" class="form-control"
-                                    placeholder="Phone">
-                            </div>
-                            <div class="col-md-6">
-                                <input type="text" id="service" name="service" class="form-control" readonly>
-                            </div>
+                        <div class="col-md-6">
+                            <input type="email" id="email" name="email" class="form-control"
+                                placeholder="Your Email *">
+                            @error('email')
+                                <p class="text-danger">{{ $message }}</p>
+                            @enderror
                         </div>
-                        <div class="form-group row">
-                            <div class="col-md-6">
-                                <input type="text" id="type" name="type" class="form-control" readonly>
-                            </div>
-                            <div class="col-md-6">
-                                <input type="text" id="plan" name="plan" class="form-control" readonly>
-                            </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <input type="text" id="phone" name="phone" class="form-control"
+                                placeholder="Phone *">
+                            @error('phone')
+                                <p class="text-danger">{{ $message }}</p>
+                            @enderror
                         </div>
-                        <div class="submit-btn text-center">
-                            <button id="submit" class="pb-primary-btn" type="submit">Take This Plan</button>
+                        <div class="col-md-6">
+                            <input type="text" id="service" name="service" class="form-control" readonly>
                         </div>
-                    </form>
-                </div>
-                <!-- ./ request-section -->
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <input type="text" id="type" name="type" class="form-control" readonly>
+                        </div>
+                        <div class="col-md-6">
+                            <input type="text" id="plan" name="plan" class="form-control" readonly>
+                        </div>
+                    </div>
+                    <div class="submit-btn text-center">
+                        <button id="submit" class="pb-primary-btn" type="submit">Take This Plan</button>
+                    </div>
+                </form>
+            </div>
+            <!-- ./ request-section -->
 
     </section>
 
