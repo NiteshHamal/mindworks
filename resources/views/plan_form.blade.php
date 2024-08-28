@@ -50,9 +50,8 @@
                     and Press <strong>TAKE THIS PLAN!!</strong></h4>
 
             </div>
-            <div class="contact-form">
                 <div class="request-form">
-                    <form action="{{ url('contactus') }}" method="post" id="ajax_contact" class="form-horizontal">
+                    <form action="{{ url('plan-and-price') }}" method="POST" id="ajax_contact" class="form-horizontal">
                         @csrf
                         <div class="form-group row">
                             <div class="col-md-6">
@@ -88,7 +87,6 @@
                 </div>
                 <!-- ./ request-section -->
 
-            </div>
     </section>
 
     @include('layouts.footer')

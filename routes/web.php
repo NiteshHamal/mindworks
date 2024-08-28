@@ -40,6 +40,19 @@ Route::get('terms_and_condition', [TermsandConditionController::class, 'index'])
 
 Route::post('contactus', [ContactController::class, 'sendEmail']);
 
+
 Route::get('form', [FormController::class, 'index']);
+
+Route::post('plan-and-price', [FormController::class, 'takeServicePlan']);
+
+
+// Route::post('users', function () {
+//     Mail::raw("This is a test email for user", function ($message) {
+//         $message->to('nitesh@mindworksme.com')  // Replace with your email address
+//                 ->subject('Test Email');
+//     });
+//     return response()->json(['message' => 'Test email sent!'], 200);
+
+// });
 
 
