@@ -117,12 +117,12 @@
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.65,000<span>/mo</span></h3>
-                                                    <p>Social Meida Handling:</p>
+                                                    <p>Social Media Handling:</p>
                                                     <ul class="pricing-list">
                                                         <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
-                                                        <li><i class="fa-solid fa-circle-small"></i>including
+                                                        <li><i class="fa-solid fa-circle-small"></i>Including
                                                             standard query
                                                             response*</li>
                                                     </ul>
@@ -158,12 +158,12 @@
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.125,000<span>/mo</span></h3>
-                                                    <p>Social Meida Handling:</p>
+                                                    <p>Social Media Handling:</p>
                                                     <ul class="pricing-list">
                                                         <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
-                                                        <li><i class="fa-solid fa-circle-small"></i>including query
+                                                        <li><i class="fa-solid fa-circle-small"></i>Including query
                                                             response*
                                                         </li>
                                                     </ul>
@@ -239,12 +239,12 @@
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Standard Plan</span>
                                                     <h3 class="title">NPR.730,000<span>/yr</span></h3>
-                                                    <p>Social Meida Handling:</p>
+                                                    <p>Social Media Handling:</p>
                                                     <ul class="pricing-list">
                                                         <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
-                                                        <li><i class="fa-solid fa-circle-small"></i>including
+                                                        <li><i class="fa-solid fa-circle-small"></i>Including
                                                             standard query
                                                             response*</li>
                                                     </ul>
@@ -279,12 +279,12 @@
                                                 <div class="pricing-content">
                                                     <span class="sub-title">Premium Plan</span>
                                                     <h3 class="title">NPR.1,450,000<span>/yr</span></h3>
-                                                    <p>Social Meida Handling:</p>
+                                                    <p>Social Media Handling:</p>
                                                     <ul class="pricing-list">
                                                         <li><i class="fa-solid fa-circle-small"></i>Facebook</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Instagram</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Youtube</li>
-                                                        <li><i class="fa-solid fa-circle-small"></i>including query
+                                                        <li><i class="fa-solid fa-circle-small"></i>Including query
                                                             response*
                                                         </li>
                                                     </ul>

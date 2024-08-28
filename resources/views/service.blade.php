@@ -399,12 +399,54 @@
 // });
 
 
+// document.addEventListener('DOMContentLoaded', function() {
+//     // Show the default content (Social Media Marketing) on page load
+//     const defaultFeature = '1'; // Default feature ID for Social Media Marketing
+//     const defaultContent = document.querySelector(`.feature-content-item[data-feature="${defaultFeature}"]`);
+
+//     // Show the default content
+//     if (defaultContent) {
+//         defaultContent.classList.add('active');
+//         document.querySelector('.feature-content').style.opacity = '1';
+//         document.querySelector('.feature-content').style.visibility = 'visible';
+//     }
+// });
+
+// document.querySelectorAll('.feature-item').forEach(item => {
+//     item.addEventListener('click', function() {
+//         const feature = this.getAttribute('data-feature');
+
+//         // Hide all content items
+//         document.querySelectorAll('.feature-content-item').forEach(content => {
+//             content.classList.remove('active');
+//         });
+
+//         // Hide the right section initially
+//         document.querySelector('.feature-content').style.opacity = '0';
+//         document.querySelector('.feature-content').style.visibility = 'hidden';
+
+//         // Show the selected content
+//         const selectedContent = document.querySelector(`.feature-content-item[data-feature="${feature}"]`);
+//         selectedContent.classList.add('active');
+
+//         // Show the right section
+//         document.querySelector('.feature-content').style.opacity = '1';
+//         document.querySelector('.feature-content').style.visibility = 'visible';
+//     });
+// });
+
+
 document.addEventListener('DOMContentLoaded', function() {
-    // Show the default content (Social Media Marketing) on page load
     const defaultFeature = '1'; // Default feature ID for Social Media Marketing
-    const defaultContent = document.querySelector(`.feature-content-item[data-feature="${defaultFeature}"]`);
+
+    // Activate the default feature item
+    const defaultFeatureItem = document.querySelector(`.feature-item[data-feature="${defaultFeature}"]`);
+    if (defaultFeatureItem) {
+        defaultFeatureItem.classList.add('active');
+    }
 
     // Show the default content
+    const defaultContent = document.querySelector(`.feature-content-item[data-feature="${defaultFeature}"]`);
     if (defaultContent) {
         defaultContent.classList.add('active');
         document.querySelector('.feature-content').style.opacity = '1';
@@ -416,6 +458,11 @@ document.querySelectorAll('.feature-item').forEach(item => {
     item.addEventListener('click', function() {
         const feature = this.getAttribute('data-feature');
 
+        // Remove active class from all feature items
+        document.querySelectorAll('.feature-item').forEach(item => {
+            item.classList.remove('active');
+        });
+
         // Hide all content items
         document.querySelectorAll('.feature-content-item').forEach(content => {
             content.classList.remove('active');
@@ -424,6 +471,9 @@ document.querySelectorAll('.feature-item').forEach(item => {
         // Hide the right section initially
         document.querySelector('.feature-content').style.opacity = '0';
         document.querySelector('.feature-content').style.visibility = 'hidden';
+
+        // Activate the clicked feature item
+        this.classList.add('active');
 
         // Show the selected content
         const selectedContent = document.querySelector(`.feature-content-item[data-feature="${feature}"]`);
@@ -434,6 +484,7 @@ document.querySelectorAll('.feature-item').forEach(item => {
         document.querySelector('.feature-content').style.visibility = 'visible';
     });
 });
+
 
 
 
