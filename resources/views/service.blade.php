@@ -91,7 +91,7 @@
                             <li>In-depth Reporting</li>
                         </ul>
                         <p>Want to Start Your Social Media Marketing Journey?</p>
-                        <div class="cta-button">Contact Us</div>
+                        <a href="{{url('pricing')}}" ><div class="cta-button">Contact Us</div></a>
                     </div>
                     <div class="feature-content-item" data-feature="2">
                         <h4>Search Engine Optimization</h4>
