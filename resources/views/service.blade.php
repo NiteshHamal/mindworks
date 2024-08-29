@@ -46,8 +46,7 @@
                     Landscape</h2>
             </div>
         </div>
-        <div class="container">
-            <div class="row">
+        <div class="container service-container">
                 <!-- Left Section: Titles with Icons -->
                 <div class="col-md-6 feature-list">
                     <div class="feature-item" data-feature="1">
@@ -144,7 +143,6 @@
                         <!-- More content... -->
                     </div>
                 </div>
-            </div>
         </div>
     </div>
 
