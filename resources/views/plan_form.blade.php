@@ -69,15 +69,18 @@
                             @enderror
                         </div>
                         <div class="col-md-6">
-                            <input type="text" id="service" name="service" class="form-control" readonly>
+                            {{-- <input type="text" id="service" name="service" class="form-control" readonly> --}}
+                            <input type="text" id="service" name="service" class="form-control" readonly value="{{ old('service') }}">
                         </div>
                     </div>
                     <div class="form-group row">
                         <div class="col-md-6">
-                            <input type="text" id="type" name="type" class="form-control" readonly>
+                            {{-- <input type="text" id="type" name="type" class="form-control" readonly> --}}
+                            <input type="text" id="type" name="type" class="form-control" readonly value="{{ old('type') }}">
                         </div>
                         <div class="col-md-6">
-                            <input type="text" id="plan" name="plan" class="form-control" readonly>
+                            {{-- <input type="text" id="plan" name="plan" class="form-control" readonly> --}}
+                            <input type="text" id="plan" name="plan" class="form-control" readonly value="{{ old('plan') }}">
                         </div>
                     </div>
                     <div class="submit-btn text-center">
@@ -92,7 +95,7 @@
     @include('layouts.footer')
 
 
-    <script>
+    {{-- <script>
         document.addEventListener('DOMContentLoaded', function() {
 
             // Check if the page is reloaded
@@ -113,6 +116,27 @@
 
             }
         });
+    </script> --}}
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+    // Check if the page is reloaded
+    if (performance.getEntriesByType('navigation')[0].type === 'reload') {
+        // Redirect to the pricing page
+        window.location.href = "{{ url('pricing') }}";
+    }
+
+    const formData = JSON.parse(sessionStorage.getItem('formData'));
+
+    if (formData) {
+        document.querySelector('input[name="service"]').value = "{{ old('service', '') }}" || formData.service || '';
+        document.querySelector('input[name="type"]').value = "{{ old('type', '') }}" || formData.type || '';
+        document.querySelector('input[name="plan"]').value = "{{ old('plan', '') }}" || formData.plan || '';
+
+        // Optionally clear the data after use
+        sessionStorage.removeItem('formData');
+    }
+});
+
     </script>
 
 </body>

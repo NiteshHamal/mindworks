@@ -17,7 +17,7 @@ class FormController extends Controller
         $validatedData = $request->validated();
 
         Mail::send('mail.service_plan', $validatedData, function ($message) use ($validatedData){
-            $message->to('nitesh0hamal@gmail.com');
+            $message->to('info@mindworksme.com');
             $message->subject('Services and Plan');
             $message->replyTo($validatedData['email']);
         });
