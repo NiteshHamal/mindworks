@@ -22,7 +22,7 @@ class FormController extends Controller
             $message->replyTo($validatedData['email']);
         });
 
-        return back()->with('success','Email has been send successfully!');
+        return redirect('pricing')->with('success','Email has been send successfully!');
     }
 
 }
