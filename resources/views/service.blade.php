@@ -202,6 +202,21 @@
             });
         });
     </script>
+    <script>
+        document.querySelector(".feature-content-item[data-feature='2'] .cta-button").addEventListener("click", function() {
+            localStorage.setItem('isotopeFilter', '.search-engine-optimization');
+            window.location.href = '/pricing'; // Redirect to the pricing page
+        });
+        document.querySelector(".feature-content-item[data-feature='3'] .cta-button").addEventListener("click", function() {
+            localStorage.setItem('isotopeFilter', '.company-branding');
+            window.location.href = '/pricing'; // Redirect to the pricing page
+        });
+        document.querySelector(".feature-content-item[data-feature='4'] .cta-button").addEventListener("click", function() {
+            localStorage.setItem('isotopeFilter', '.webdevelopment');
+            window.location.href = '/pricing'; // Redirect to the pricing page
+        });
+    </script>
+
 </body>
 
 </html>

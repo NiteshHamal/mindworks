@@ -44,7 +44,7 @@
                         <div class="project-filter-list text-center">
                             <div class="filter-item active" data-filter=".social-media-marketing">Social Media Marketing
                             </div>
-                            <div class="filter-item" data-filter=".search-engine-optimization ">Search Engine
+                            <div class="filter-item" data-filter=".search-engine-optimization">Search Engine
                                 Optimization</div>
                             <div class="filter-item" data-filter=".company-branding">Company Branding</div>
                             <div class="filter-item" data-filter=".webdevelopment">Web Development</div>
@@ -1247,7 +1247,7 @@
         });
     </script>
 
-    <script>
+    {{-- <script>
         document.addEventListener("DOMContentLoaded", function() {
             // Isotope
             var $grid = $(".filter-items").imagesLoaded(function() {
@@ -1279,7 +1279,133 @@
                 $(".project-filter-list .filter-item").first().addClass("active");
             });
         });
-    </script>
+    </script> --}}
+
+    {{-- <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var selectedFilter = localStorage.getItem('isotopeFilter') || '.social-media-marketing';
+
+            var $grid = $(".filter-items").imagesLoaded(function() {
+                $grid.isotope({
+                    itemSelector: ".single-item",
+                    percentPosition: true,
+                    filter: selectedFilter, // Use the stored filter or default
+                });
+
+                $(".project-filter-list .filter-item").on("click", function() {
+                    $(".project-filter-list .filter-item").removeClass("active");
+                    $(this).addClass("active");
+
+                    var selector = $(this).attr("data-filter");
+                    $grid.isotope({
+                        filter: selector,
+                        animationOptions: {
+                            duration: 750,
+                            easing: "linear",
+                            queue: false,
+                        },
+                    });
+                    return false;
+                });
+
+                $(".project-filter-list .filter-item[data-filter='" + selectedFilter + "']").addClass("active");
+
+                // Optionally, clear the local storage after applying the filter
+                localStorage.removeItem('isotopeFilter');
+            });
+        });
+    </script> --}}
+
+
+{{--
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var selectedFilter = localStorage.getItem('isotopeFilter') || '.social-media-marketing';
+
+            // Remove 'active' class from all filter items
+            $(".project-filter-list .filter-item").removeClass("active");
+
+            // Add 'active' class to the item matching the selected filter
+            $(".project-filter-list .filter-item[data-filter='" + selectedFilter + "']").addClass("active");
+
+            var $grid = $(".filter-items").imagesLoaded(function() {
+                // Initialize Isotope with the stored filter or default
+                $grid.isotope({
+                    itemSelector: ".single-item",
+                    percentPosition: true,
+                    filter: selectedFilter,
+                });
+
+                // Handle filter item clicks
+                $(".project-filter-list .filter-item").on("click", function() {
+                    $(".project-filter-list .filter-item").removeClass("active");
+                    $(this).addClass("active");
+
+                    var selector = $(this).attr("data-filter");
+                    $grid.isotope({
+                        filter: selector,
+                        animationOptions: {
+                            duration: 750,
+                            easing: "linear",
+                            queue: false,
+                        },
+                    });
+                    return false;
+                });
+
+                // Optionally, clear the local storage after applying the filter
+                localStorage.removeItem('isotopeFilter');
+            });
+        });
+    </script> --}}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var selectedFilter = localStorage.getItem('isotopeFilter') || '.social-media-marketing';
+
+        // Remove 'active' class from all filter items
+        $(".project-filter-list .filter-item").removeClass("active");
+
+        // Add 'active' class to the item matching the selected filter
+        $(".project-filter-list .filter-item[data-filter='" + selectedFilter + "']").addClass("active");
+
+
+
+
+
+        var $grid = $(".filter-items").imagesLoaded(function() {
+            // Initialize Isotope with the stored filter or default
+            $grid.isotope({
+                itemSelector: ".single-item",
+                percentPosition: true,
+                filter: selectedFilter,
+            });
+
+            // Handle filter item clicks
+            $(".project-filter-list .filter-item").on("click", function() {
+                $(".project-filter-list .filter-item").removeClass("active");
+                $(this).addClass("active");
+
+                var selector = $(this).attr("data-filter");
+                $grid.isotope({
+                    filter: selector,
+                    animationOptions: {
+                        duration: 750,
+                        easing: "linear",
+                        queue: false,
+                    },
+                });
+                return false;
+            });
+
+            // Optionally, clear the local storage after applying the filter
+            localStorage.removeItem('isotopeFilter');
+        });
+    });
+</script>
+
+
+
 
     <script>
         function storePlanData(button) {
