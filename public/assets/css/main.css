@@ -4870,7 +4870,7 @@ START: Theme Project CSS
     border-radius: 20px;
     overflow: hidden;
     position: relative;
-    border: solid #636363;
+    border: 2px solid #636363;
 }
 .project-item .project-thumb img {
     width: 100%;

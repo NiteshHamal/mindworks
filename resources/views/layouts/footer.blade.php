@@ -42,7 +42,7 @@
                     <ul class="footer-list">
                         @foreach ([
         'About' => 'about',
-        'Services' => 'service',
+        'Services' => 'services',
         'Projects' => 'projects',
         'FAQ' => 'faq',
     ] as $label => $url)
