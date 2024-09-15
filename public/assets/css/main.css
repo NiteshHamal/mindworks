@@ -7763,6 +7763,7 @@ START: Theme Footer CSS
     display: flex;
     width: 200%; /* Twice the width of the `.slider` for seamless effect */
     animation: slide 30s linear infinite;
+    gap: 5px;
 }
 
 .slide {
@@ -7809,6 +7810,7 @@ START: Theme Footer CSS
     display: flex;
     width: 200%; /* Twice the width of the `.slider` for seamless effect */
     animation: slide-right 30s linear infinite;
+    gap: 5px;
 }
 
 .slide-right {
