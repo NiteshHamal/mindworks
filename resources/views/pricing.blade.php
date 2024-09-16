@@ -176,7 +176,7 @@
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
                                                         <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes
-                                                            per grahic
+                                                            per graphic
                                                         </li>
                                                     </ul>
                                                     <a href="{{ url('form') }}" class="pricing-btn"
@@ -298,7 +298,7 @@
                                                     <p>Adaptations:</p>
                                                     <ul class="pricing-list">
                                                         <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes
-                                                            per grahic
+                                                            per graphic
                                                         </li>
                                                     </ul>
                                                     <a href="{{ url('form') }}" class="pricing-btn"
