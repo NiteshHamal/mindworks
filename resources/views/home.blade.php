@@ -483,7 +483,7 @@
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes per grahic
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes per graphic
                                             </li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>
@@ -580,7 +580,7 @@
                                         </ul>
                                         <p>Adaptations:</p>
                                         <ul class="pricing-list">
-                                            <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes per grahic
+                                            <li><i class="fa-solid fa-circle-small"></i>Up to 3 Sizes per graphic
                                             </li>
                                         </ul>
                                         <a href="pricing.html" class="pricing-btn">Take My Plan</a>
