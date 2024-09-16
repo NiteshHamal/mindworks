@@ -407,7 +407,7 @@
                                                         </li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-solid fa-circle-small"></i>Full TEchnical
+                                                        <li><i class="fa-solid fa-circle-small"></i>Full Technical
                                                             SEO Optimization</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
@@ -502,7 +502,7 @@
                                                         </li>
                                                         <li><i class="fa-solid fa-circle-small"></i>Existing
                                                             Content Optimization</li>
-                                                        <li><i class="fa-solid fa-circle-small"></i>Full TEchnical
+                                                        <li><i class="fa-solid fa-circle-small"></i>Full Technical
                                                             SEO Optimization</li>
                                                         <li><i class="fa-solid fa-circle-small"></i>High Authority
                                                             Link Building</li>
