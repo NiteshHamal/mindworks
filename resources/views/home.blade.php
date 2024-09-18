@@ -237,10 +237,7 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
-
     </div>
 
 
@@ -609,8 +606,6 @@
         </div>
     </section>
     <!-- ./ pricing-section -->
-
-
 
     @include('layouts.footer')
 

@@ -3,14 +3,6 @@
 
 <head>
     <style>
-        /* body {
-            font-family: 'Urbanist', sans-serif;
-            background-color: #F4F5F9;
-            margin: 0;
-            padding: 20px;
-            color: #6D6C79;
-        } */
-
         .container {
             max-width: 600px;
             margin: 0 auto;

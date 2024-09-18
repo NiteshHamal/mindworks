@@ -146,8 +146,6 @@
         </div>
     </div>
 
-
-
     @include('layouts.footer')
 
     <script>

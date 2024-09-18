@@ -14,14 +14,11 @@ class ContactController extends Controller
 
     public function sendEmail(ContactUsCreateRequest $request){
         $data = $request->validated();
-
         Mail::send('mail.custom_pricing', $data, function ($message) use ($data) {
             $message->to('info@mindworksme.com');
             $message->subject('Contact Form Message');
             $message->replyTo($data['email']);
         });
-
-        // sweetalert()->addSuccess('');
         return back()->with('success','Email has been send successfully!');
     }
 }

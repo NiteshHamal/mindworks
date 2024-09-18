@@ -69,17 +69,14 @@
                             @enderror
                         </div>
                         <div class="col-md-6">
-                            {{-- <input type="text" id="service" name="service" class="form-control" readonly> --}}
                             <input type="text" id="service" name="service" class="form-control" readonly value="{{ old('service') }}">
                         </div>
                     </div>
                     <div class="form-group row">
                         <div class="col-md-6">
-                            {{-- <input type="text" id="type" name="type" class="form-control" readonly> --}}
                             <input type="text" id="type" name="type" class="form-control" readonly value="{{ old('type') }}">
                         </div>
                         <div class="col-md-6">
-                            {{-- <input type="text" id="plan" name="plan" class="form-control" readonly> --}}
                             <input type="text" id="plan" name="plan" class="form-control" readonly value="{{ old('plan') }}">
                         </div>
                     </div>
@@ -94,29 +91,6 @@
 
     @include('layouts.footer')
 
-
-    {{-- <script>
-        document.addEventListener('DOMContentLoaded', function() {
-
-            // Check if the page is reloaded
-            if (performance.getEntriesByType('navigation')[0].type === 'reload') {
-                // Redirect to the pricing page
-                window.location.href = "{{ url('pricing') }}";
-            }
-
-            const formData = JSON.parse(sessionStorage.getItem('formData'));
-
-            if (formData) {
-                document.querySelector('input[name="service"]').value = formData.service || '';
-                document.querySelector('input[name="type"]').value = formData.type || '';
-                document.querySelector('input[name="plan"]').value = formData.plan || '';
-
-                // Optionally clear the data after use
-                sessionStorage.removeItem('formData');
-
-            }
-        });
-    </script> --}}
     <script>
         document.addEventListener('DOMContentLoaded', function() {
     // Check if the page is reloaded

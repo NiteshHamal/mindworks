@@ -1247,118 +1247,6 @@
         });
     </script>
 
-    {{-- <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            // Isotope
-            var $grid = $(".filter-items").imagesLoaded(function() {
-                // Initialize Isotope with the initial filter
-                $grid.isotope({
-                    itemSelector: ".single-item",
-                    percentPosition: true,
-                    filter: ".social-media-marketing", // Set the initial filter to the first category
-                });
-
-                // Add isotope click function
-                $(".project-filter-list .filter-item").on("click", function() {
-                    $(".project-filter-list .filter-item").removeClass("active");
-                    $(this).addClass("active");
-
-                    var selector = $(this).attr("data-filter");
-                    $grid.isotope({
-                        filter: selector,
-                        animationOptions: {
-                            duration: 750,
-                            easing: "linear",
-                            queue: false,
-                        },
-                    });
-                    return false;
-                });
-
-                // Set the initial active class on the first filter item
-                $(".project-filter-list .filter-item").first().addClass("active");
-            });
-        });
-    </script> --}}
-
-    {{-- <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            var selectedFilter = localStorage.getItem('isotopeFilter') || '.social-media-marketing';
-
-            var $grid = $(".filter-items").imagesLoaded(function() {
-                $grid.isotope({
-                    itemSelector: ".single-item",
-                    percentPosition: true,
-                    filter: selectedFilter, // Use the stored filter or default
-                });
-
-                $(".project-filter-list .filter-item").on("click", function() {
-                    $(".project-filter-list .filter-item").removeClass("active");
-                    $(this).addClass("active");
-
-                    var selector = $(this).attr("data-filter");
-                    $grid.isotope({
-                        filter: selector,
-                        animationOptions: {
-                            duration: 750,
-                            easing: "linear",
-                            queue: false,
-                        },
-                    });
-                    return false;
-                });
-
-                $(".project-filter-list .filter-item[data-filter='" + selectedFilter + "']").addClass("active");
-
-                // Optionally, clear the local storage after applying the filter
-                localStorage.removeItem('isotopeFilter');
-            });
-        });
-    </script> --}}
-
-
-{{--
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            var selectedFilter = localStorage.getItem('isotopeFilter') || '.social-media-marketing';
-
-            // Remove 'active' class from all filter items
-            $(".project-filter-list .filter-item").removeClass("active");
-
-            // Add 'active' class to the item matching the selected filter
-            $(".project-filter-list .filter-item[data-filter='" + selectedFilter + "']").addClass("active");
-
-            var $grid = $(".filter-items").imagesLoaded(function() {
-                // Initialize Isotope with the stored filter or default
-                $grid.isotope({
-                    itemSelector: ".single-item",
-                    percentPosition: true,
-                    filter: selectedFilter,
-                });
-
-                // Handle filter item clicks
-                $(".project-filter-list .filter-item").on("click", function() {
-                    $(".project-filter-list .filter-item").removeClass("active");
-                    $(this).addClass("active");
-
-                    var selector = $(this).attr("data-filter");
-                    $grid.isotope({
-                        filter: selector,
-                        animationOptions: {
-                            duration: 750,
-                            easing: "linear",
-                            queue: false,
-                        },
-                    });
-                    return false;
-                });
-
-                // Optionally, clear the local storage after applying the filter
-                localStorage.removeItem('isotopeFilter');
-            });
-        });
-    </script> --}}
-
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         var selectedFilter = localStorage.getItem('isotopeFilter') || '.social-media-marketing';
@@ -1368,10 +1256,6 @@
 
         // Add 'active' class to the item matching the selected filter
         $(".project-filter-list .filter-item[data-filter='" + selectedFilter + "']").addClass("active");
-
-
-
-
 
         var $grid = $(".filter-items").imagesLoaded(function() {
             // Initialize Isotope with the stored filter or default
@@ -1404,27 +1288,22 @@
     });
 </script>
 
+<script>
+    function storePlanData(button) {
+        const service = button.getAttribute('data-service');
+        const type = button.getAttribute('data-type');
+        const plan = button.getAttribute('data-plan');
 
+        const formData = {
+            service: service,
+            type: type,
+            plan: plan
+        };
 
-
-    <script>
-        function storePlanData(button) {
-            const service = button.getAttribute('data-service');
-            const type = button.getAttribute('data-type');
-            const plan = button.getAttribute('data-plan');
-
-            const formData = {
-                service: service,
-                type: type,
-                plan: plan
-            };
-
-            // Store data in sessionStorage
-            sessionStorage.setItem('formData', JSON.stringify(formData));
-        }
-    </script>
-
-
+        // Store data in sessionStorage
+        sessionStorage.setItem('formData', JSON.stringify(formData));
+    }
+</script>
 
 </body>
 
