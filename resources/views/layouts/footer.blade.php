@@ -78,7 +78,6 @@
 <script src="{{ url('assets/js/jquary-3.6.0.min.js') }}"></script>
 <script src="{{ url('assets/js/bootstrap-bundle.js') }}"></script>
 <script src="{{ url('assets/js/imagesloaded-pkgd.js') }}"></script>
-<script src="{{ url('assets/js/waypoints.min.js') }}"></script>
 <script src="{{ url('assets/js/venobox.min.js') }}"></script>
 <script src="{{ url('assets/js/odometer.min.js') }}"></script>
 <script src="{{ url('assets/js/meanmenu.js') }}"></script>
@@ -105,4 +104,8 @@
             }
         }, 500); // Adjust the delay before hiding (1000ms = 1 second here)
     });
+
 </script>
+
+
+

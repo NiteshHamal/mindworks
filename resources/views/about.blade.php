@@ -57,13 +57,13 @@
                         <div class="about-img-item">
                             <div class="item-img">
                                 <div class="bg-shape top"></div>
-                                <img src="{{ url('assets/img/about-item-img-1.jpg') }}" alt="img">
+                                <img src="{{ url('assets/img/tcl3.webp') }}" alt="project">
                             </div>
                         </div>
                         <div class="about-img-item">
                             <div class="item-img">
                                 <div class="bg-shape bottom"></div>
-                                <img src="{{ url('assets/img/about-item-img-2.jpg') }}" alt="img">
+                                <img src="{{ url('assets/img/lg1.webp') }}" alt="project">
                             </div>
                         </div>
                         <div class="about-img-item chart">
@@ -153,6 +153,13 @@
         </div>
     </section>
     <!-- ./ project-section -->
+
+    <div class="map-wrapper">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d524.0412785830342!2d85.31957026335881!3d27.68654705507272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1997bcf1739f%3A0x841ecf584e7cff8d!2sMindworks%20-%20Branding%20%7C%20Advertising%20%7C%20Digital%20%7C%20Ad%20films%20%7C%20Creative%20agency!5e0!3m2!1sen!2snp!4v1723785500504!5m2!1sen!2snp"
+            width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 
     @include('layouts.footer')
 </body>

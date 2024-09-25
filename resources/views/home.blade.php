@@ -15,16 +15,6 @@
     @include('layouts.nav')
     <!-- /.Main Header -->
 
-    <div id="popup-search-box">
-        <div class="box-inner-wrap d-flex align-items-center">
-            <form id="form" action="#" method="get" role="search">
-                <input id="popup-search" type="text" name="s" placeholder="Type keywords here...">
-            </form>
-            <div class="search-close"><i class="fa-sharp fa-regular fa-xmark"></i></div>
-        </div>
-    </div>
-    <!-- /#popup-search-box -->
-
     <div class="preloader" id="preloader">
         <img src="{{ url('assets/img/proloader.gif') }}" alt="preloader-icon">
     </div>
@@ -80,7 +70,6 @@
                             <div class="shape hero-shape-3"><img src="{{ url('assets/img/hero-img-shape-2.png') }}"
                                     alt="shape"></div>
                         </div>
-                        <img src="{{ url('assets/img/hero-img-1.png') }}" alt="hero">
                     </div>
                 </div>
             </div>

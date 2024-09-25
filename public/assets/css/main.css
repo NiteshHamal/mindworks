@@ -1151,8 +1151,8 @@ START: Theme Header CSS
     font-family: var(--pb-ff-heading);
     color: var(--pb-color-heading-primary);
     display: block;
-    font-size: 15px;
-    padding: 49px 0;
+    font-size: 20px;
+    padding: 45px 0;
     letter-spacing: 0;
     font-weight: 500;
     text-transform: capitalize;
@@ -4825,13 +4825,19 @@ START: Theme Project CSS
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    row-gap: 20px;
+    column-gap: 20px;
     list-style: none;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 @media only screen and (max-width: 991px) {
     .project-filter .project-filter-list {
-        margin: 10px 0 40px 0;
+        margin: 5px 0;
+        row-gap: 6px;
+        column-gap: 6px;
+    }
+
+    .gallary-top {
+        margin-bottom: 20px !important;
     }
 }
 .project-filter .project-filter-list .filter-item {
@@ -4848,23 +4854,30 @@ START: Theme Project CSS
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
+
+@media only screen and (max-width: 425px) {
+    .project-filter .project-filter-list .filter-item {
+        font-size: 12px;
+        padding: 8px 16px;
+    }
+}
 .project-filter .project-filter-list .filter-item.active,
 .project-filter .project-filter-list .filter-item:hover {
     background-color: var(--pb-color-theme-primary);
     color: var(--pb-color-common-white);
     border: 1px solid var(--pb-color-theme-primary);
 }
-.project-filter .project-filter-list .filter-item:first-child {
+/* .project-filter .project-filter-list .filter-item:first-child {
     margin-right: 45px;
 }
 .project-filter .project-filter-list .filter-item:not(:last-of-type) {
     margin-right: 45px;
-}
-@media only screen and (max-width: 767px) {
+} */
+/* @media only screen and (max-width: 767px) {
     .project-filter .project-filter-list .filter-item:not(:last-of-type) {
         margin-right: 20px;
     }
-}
+} */
 
 .project-item .project-thumb {
     border-radius: 20px;
@@ -5499,6 +5512,7 @@ START: Theme Pricing CSS
 .pricing-tab {
     position: relative;
     z-index: 1;
+    /* margin-top: -50px; */
 }
 .pricing-tab .shape {
     position: absolute;
@@ -5514,11 +5528,12 @@ START: Theme Pricing CSS
     justify-content: center;
     column-gap: 10px;
     border: none;
-    margin-bottom: 60px;
+    padding: 20px 0;
 }
 @media only screen and (max-width: 991px) {
     .pricing-tab .nav-tabs {
-        margin: 40px;
+        padding-top: 0;
+        padding-bottom: 20px;
     }
 }
 .pricing-tab .nav-tabs .nav-link {
@@ -6077,7 +6092,6 @@ START: Theme Feature CSS
     position: relative;
 }
 
-
 @media only screen and (max-width: 768px) {
     /* Styles for tablets and mobile devices */
 
@@ -6087,7 +6101,6 @@ START: Theme Feature CSS
 
     .feature-item .title {
         font-size: 16px;
-
     }
     .feature-item .icon img {
         width: 100%;
@@ -6195,7 +6208,7 @@ START: Theme Feature CSS
         align-items: center;
     }
 
-    .feature-content-item{
+    .feature-content-item {
         margin: 10px;
         padding: 20px;
         background-color: var(--pb-color-grey-1);
@@ -6235,7 +6248,6 @@ START: Theme Feature CSS
         font-weight: 700;
         position: relative;
     }
-
 }
 
 /* @media only screen and (max-width: 991px) {
@@ -7650,9 +7662,9 @@ START: Theme Footer CSS
         margin-top: 10px;
     }
 
-    button {
-        margin-top: 20px;
-    }
+    /* button {
+        margin-top: 8px;
+    } */
 }
 
 @media (max-width: 480px) {

@@ -15,7 +15,7 @@
         'About Us' => 'about',
         'Services' => 'services',
         'Projects' => 'projects',
-        'Team' => 'team',
+        // 'Team' => 'team',
         'Pricing' => 'pricing',
         'FAQ' => 'faq',
     ] as $label => $url)
@@ -28,7 +28,7 @@
                 </div>
                 <!-- /.header-menu-wrap -->
                 <div class="header-right">
-                    <a href="{{ url('contact') }}" class="pb-primary-btn header-btn">Contact Us</a>
+                    <a href="{{ url('pricing#custom-solutions') }}" class="pb-primary-btn header-btn">Contact Us</a>
                     <div class="header-right-item">
                         <a href="javascript:void(0)" class="mobile-side-menu-toggle d-lg-none">
                             <i class="fa-sharp fa-solid fa-bars"></i>
