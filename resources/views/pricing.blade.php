@@ -30,7 +30,7 @@
 
 
 
-    <section class="project-section pb-120" style="padding-top: 50px;">
+    <section class="project-section" style="padding-top: 50px;">
         <div class="container">
             <div class="section-heading text-center">
                 <h4 class="sub-heading wow fade-in-bottom" data-wow-delay="300ms">Our Projects</h4>
